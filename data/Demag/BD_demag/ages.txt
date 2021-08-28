@@ -1,3 +1,0 @@
-tab	ages
-age	location	site	sample	specimen	age_unit	citations	method_codes
-1092					Ma	This study	
