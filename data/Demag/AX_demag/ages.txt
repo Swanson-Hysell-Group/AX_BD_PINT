@@ -1,0 +1,3 @@
+tab	ages
+age	location	site	sample	specimen	age_unit	citations	method_codes	level
+	Beaver Bay Complex				Ma	This study		location

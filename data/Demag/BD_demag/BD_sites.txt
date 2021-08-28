@@ -1,0 +1,19 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+BD1	Beaver Bay complex	47.2	-91.4		This study
+BD2	Beaver Bay complex	47.2	-91.4		This study
+BD3	Beaver Bay complex	47.2	-91.4		This study
+BD4	Beaver Bay complex	47.2	-91.4		This study
+BD5	Beaver Bay complex	47.2	-91.4		This study
+BD6	Beaver Bay complex	47.2	-91.4		This study
+BD7	Beaver Bay complex	47.2	-91.4		This study
+BD8	Beaver Bay complex	47.2	-91.4		This study
+BD9	Beaver Bay complex	47.2	-91.4		This study
+BD10	Beaver Bay complex	47.2	-91.4		This study
+BD11	Beaver Bay complex	47.2	-91.4		This study
+BD12	Beaver Bay complex	47.2	-91.4		This study
+BD13	Beaver Bay complex	47.2	-91.4		This study
+BD14	Beaver Bay complex	47.2	-91.4		This study
+BD15	Beaver Bay complex	47.2	-91.4		This study
+BD16	Beaver Bay complex	47.2	-91.4		This study
+BD17	Beaver Bay complex	47.2	-91.4		This study
