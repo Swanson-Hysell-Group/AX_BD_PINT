@@ -1,0 +1,7 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+BD1	Beaver Bay Complex	47.2	-91.4	Yiming Zhang	This study
+BD2	Beaver Bay Complex	47.2	-91.4	Yiming Zhang	This study
+BD5	Beaver Bay Complex	47.2	-91.4	Yiming Zhang	This study
+BD6	Beaver Bay Complex	47.2	-91.4	Yiming Zhang	This study
+BD7	Beaver Bay Complex	47.2	-91.4	Yiming Zhang	This study

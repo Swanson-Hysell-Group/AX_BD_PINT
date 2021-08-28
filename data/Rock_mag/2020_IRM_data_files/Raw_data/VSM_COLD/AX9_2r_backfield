@@ -1,0 +1,195 @@
+MicroMag 2900/3900 Data File (Series 0016.002)
+Remanence curves:  DCD
+
+INSTRUMENT
+Configuration                   VSM
+Temperature control             None
+Hardware version                0004
+Software version                12/27/2012
+Units of measure                Hybrid SI
+Temperature in                  Kelvin
+
+SAMPLE
+Mass                            N/A
+Volume                          N/A
+Demagnetizing factor            N/A
+
+SETTINGS
+Field range                     N/A
+Field (command)                 N/A
+Moment range                   +50.00000E-09
+Averaging time                 +2.000000E+00
+Temperature (command)           N/A
+Tmprtr difference correction    No
+Orientation                     0.000000E+00
+Vibration amplitude             0.5
+Calibration factor             +1.401234E+00
+Operating frequency            +83.00000E+00
+
+MEASUREMENT
+Description                    ""
+Field (measured)                N/A
+Temperature (measured)          N/A
+Averages (completed)            N/A
+Measured on                     08/17/2019  09:52
+Elapsed time                   +834.1171E+00
+
+PROCESSING
+Background subtraction          No
+Delta-m processing              No
+Demagnetizing factor            No
+Normalization                   No
+Normalization factor            N/A
+Offset (field)                  No
+Offset (moment)                 No
+Pole saturation                 No
+Slope correction                No
+
+VIEWPORT
+Left                           -500.0000E-03
+Right                          +500.0000E-03
+Bottom                         -50.00000E-09
+Top                            +50.00000E-09
+Show X-axis?                    Yes
+Show Y-axis?                    Yes
+
+CHARACTERIZATION
+Initial slope                   N/A
+Saturation                      N/A
+Remanence                      +14.95495E-09
+Coercivity (direct)             N/A
+Coercivity (remanent)          +44.77269E-03
+S* (direct)                     N/A
+S* (DCD)                       +70.92734E-03
+
+SCRIPT
+Include IRM?                    No
+Include DCD?                    Yes
+Include direct moment?          No
+Demagnetize before measuring?   No
+Field sequence                  Nonlinear
+Initial (non-zero) field       +100.0000E-06
+Final field                    +500.0000E-03
+Number of points/curve          100
+Pause at applied field         +1.000000E+00
+Slew rate to applied field     +1.000000E+00
+Averaging time                 +2.000000E+00
+Saturating field               +1.000000E+00
+Pause at saturating field      +1.000000E+00
+Saturating field applied        Only once
+Slew rate to saturating field  +1.000000E+00
+Pause at zero field            +1.000000E+00
+Slew rate to zero field        +1.000000E+00
+Number of segments              1
+Number of data                  100
+
+Segment   Averaging      Initial        Field         Final                    Final 
+ Number      Time         Field       Increment       Field         Pause      Index 
+             (s)           (T)           (T)           (T)           (s)     
+0000001,+2.000000E+00, 0.000000E+00,+100.0000E-06,-500.0000E-03,+1.000000E+00,0000100
+
+                           
+    Field       Remanence  
+     (T)          (Am²)    
++68.75374E-09,+14.95495E-09
+-98.54721E-06,+20.03530E-09
+-206.0282E-06,+17.99058E-09
+-317.1653E-06,+14.90788E-09
+-435.6313E-06,+16.81707E-09
+-561.7490E-06,+17.96296E-09
+-695.3133E-06,+22.58798E-09
+-836.0947E-06,+8.907659E-09
+-985.2655E-06,+20.26844E-09
+-1.143575E-03,+18.89869E-09
+-1.312338E-03,+19.69872E-09
+-1.489635E-03,+27.85041E-09
+-1.678709E-03,+24.23576E-09
+-1.877742E-03,+17.43867E-09
+-2.088657E-03,+17.45631E-09
+-2.312864E-03,+18.35514E-09
+-2.548291E-03,+22.32538E-09
+-2.798512E-03,+20.43465E-09
+-3.064398E-03,+23.35440E-09
+-3.342839E-03,+18.92023E-09
+-3.645893E-03,+24.17140E-09
+-3.958204E-03,+16.20918E-09
+-4.296061E-03,+15.77770E-09
+-4.647541E-03,+12.66487E-09
+-5.023475E-03,+16.00833E-09
+-5.418793E-03,+15.48780E-09
+-5.843718E-03,+22.27324E-09
+-6.288375E-03,+20.93379E-09
+-6.762017E-03,+13.76451E-09
+-7.260061E-03,+16.42843E-09
+-7.791133E-03,+18.99544E-09
+-8.353288E-03,+20.18096E-09
+-8.942758E-03,+11.36093E-09
+-9.571295E-03,+19.22244E-09
+-10.23332E-03,+17.05094E-09
+-10.93732E-03,+12.94316E-09
+-11.69869E-03,+16.66736E-09
+-12.49253E-03,+14.08144E-09
+-13.32729E-03,+16.27482E-09
+-14.22114E-03,+20.94706E-09
+-15.15821E-03,+11.05688E-09
+-16.15430E-03,+9.240681E-09
+-17.20830E-03,+12.30401E-09
+-18.33621E-03,+15.16904E-09
+-19.50905E-03,+9.063779E-09
+-20.76881E-03,+8.883655E-09
+-22.10124E-03,+1.438199E-09
+-23.50532E-03,+7.702900E-09
+-25.00064E-03,+5.254405E-09
+-26.58009E-03,+8.317711E-09
+-28.24654E-03,+2.675581E-09
+-30.01297E-03,+399.8171E-12
+-31.86938E-03,+5.104017E-09
+-33.87002E-03,+3.023217E-09
+-35.97222E-03,-1.994797E-09
+-38.21878E-03,+4.360261E-09
+-40.56150E-03,+2.131337E-09
+-43.10936E-03,+1.515399E-09
+-45.74811E-03,+1.515740E-09
+-48.58047E-03,+3.221880E-09
+-51.50875E-03,+1.879345E-09
+-54.68069E-03,-4.719375E-09
+-58.00151E-03,-10.40236E-09
+-61.57229E-03,-3.784464E-09
+-65.28211E-03,-11.88125E-09
+-69.28527E-03,-5.564653E-09
+-73.48225E-03,-14.95071E-09
+-77.91889E-03,-8.987907E-09
+-82.60976E-03,-12.48520E-09
+-87.63369E-03,-6.346994E-09
+-92.89648E-03,-11.90518E-09
+-98.45711E-03,-18.51667E-09
+-104.3962E-03,-10.79220E-09
+-110.6898E-03,-10.69251E-09
+-117.2889E-03,-7.766268E-09
+-124.3444E-03,-16.78878E-09
+-131.8139E-03,-22.98236E-09
+-139.7237E-03,-16.24523E-09
+-148.2170E-03,-20.36704E-09
+-157.0067E-03,-11.47870E-09
+-166.3821E-03,-11.50066E-09
+-176.3353E-03,-20.63317E-09
+-186.8996E-03,-26.89710E-09
+-198.0302E-03,-15.96414E-09
+-209.8877E-03,-15.04267E-09
+-222.4805E-03,-23.47819E-09
+-235.6476E-03,-19.65760E-09
+-249.7176E-03,-22.65001E-09
+-264.6392E-03,-15.94584E-09
+-280.2702E-03,-23.80861E-09
+-297.1070E-03,-27.57781E-09
+-314.7427E-03,-24.99695E-09
+-333.3147E-03,-21.30864E-09
+-353.3086E-03,-36.09089E-09
+-374.3129E-03,-20.48814E-09
+-396.2920E-03,-35.39258E-09
+-420.3011E-03,-25.80360E-09
+-445.1972E-03,-19.80850E-09
+-471.5551E-03,-20.20643E-09
+-499.8661E-03,-25.20994E-09
+
+MicroMag 2900/3900 Data File ends

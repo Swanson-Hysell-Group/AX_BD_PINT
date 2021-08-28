@@ -1,0 +1,25 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes	location
+BD1-1	BD1	0				Yiming Zhang	-1.8	0.0	0.0	90.0	-25.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD1-2	BD1	0				Yiming Zhang	-8.0	0.0	0.0	90.0	-47.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD1-3	BD1	0				Yiming Zhang	-31.3	0.0	0.0	90.0	-49.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD1-8	BD1	0				Yiming Zhang	13.2	0.0	0.0	90.0	-60.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD1-9	BD1	0				Yiming Zhang	-10.8	0.0	0.0	90.0	-16.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD1-10	BD1	0				Yiming Zhang	191.2	0.0	0.0	90.0	-55.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD1-14	BD1	0				Yiming Zhang	228.2	0.0	0.0	90.0	-60.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD1-15	BD1	0				Yiming Zhang	238.2	0.0	0.0	90.0	-58.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD2-1	BD2	0				Yiming Zhang	-40.3	0.0	0.0	90.0	-62.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD2-2	BD2	0				Yiming Zhang	-4.3	0.0	0.0	90.0	-71.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD2-3	BD2	0				Yiming Zhang	-0.3	0.0	0.0	90.0	-81.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD2-4	BD2	0				Yiming Zhang	-25.3	0.0	0.0	90.0	-70.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD5-1	BD5	0				Yiming Zhang	-57.5	0.0	0.0	90.0	-63.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD5-2	BD5	0				Yiming Zhang	-51.6	0.0	0.0	90.0	-51.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD5-3	BD5	0				Yiming Zhang	-65.6	0.0	0.0	90.0	-57.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD5-4	BD5	0				Yiming Zhang	-66.1	0.0	0.0	90.0	-59.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD6-1	BD6	0				Yiming Zhang	-46.9	0.0	0.0	90.0	-82.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD6-2	BD6	0				Yiming Zhang	-42.9	0.0	0.0	90.0	-87.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD6-3	BD6	0				Yiming Zhang	-47.9	0.0	0.0	90.0	-91.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD6-4	BD6	0				Yiming Zhang	-44.9	0.0	0.0	90.0	-87.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD7-2	BD7	0				Yiming Zhang	-58.9	0.0	0.0	90.0	-89.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD7-3	BD7	0				Yiming Zhang	-68.9	0.0	0.0	90.0	-88.0	This study	SO-CMD-NORTH	Beaver Bay Complex
+BD7-4	BD7	0				Yiming Zhang	-65.9	0.0	0.0	90.0	-90.0	This study	SO-CMD-NORTH	Beaver Bay Complex

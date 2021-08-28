@@ -1,0 +1,12 @@
+acceptance criteria:
+specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_int_mad	specimen_int_dang	specimen_scat	average_by_sample_or_site	interpreter_method	include_nrm	average_by_sample_or_site	interpreter_method	include_nrm
+4	0.60	2	0.150	20.0	5.0	True	site	stdev_opt	True	site	stdev_opt	True
+---------------------------------
+er_site_name	site_int_n	site_int_uT	site_int_sigma_uT	site_int_sigma_perc	site_int_min_uT	site_int_min_sigma_uT	site_int_max_uT	site_int_max_sigma_uT	site_int_interval_uT	site_int_interval_perc	Warning
+AX10	2	46.61	0.01	0.01	46.61	0.01	68.78	23.934	22.17	47.56	No anisotropy corrections;  No cooling rate corrections; 
+AX11	4	72.59	0.01	0.02	70.22	2.73	78.48	1.878	8.25	11.37	No anisotropy corrections;  No cooling rate corrections; 
+AX12	3	33.70	2.96	8.77	33.51	3.28	36.64	6.043	3.12	9.26	No anisotropy corrections;  No cooling rate corrections; 
+AX13	4	77.89	4.76	6.11	73.91	7.63	80.93	7.404	7.02	9.01	No anisotropy corrections;  No cooling rate corrections; 
+AX16	8	43.86	6.04	13.76	40.42	7.38	49.03	14.992	8.60	19.62	No anisotropy corrections;  No cooling rate corrections; 
+AX6	3	30.33	15.17	50.01	28.81	16.35	32.92	19.548	4.11	13.55	No anisotropy corrections;  No cooling rate corrections; 
+AX8	3	52.40	12.15	23.18	51.41	13.06	54.24	15.151	2.83	5.40	No anisotropy corrections;  No cooling rate corrections; 

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MeasurementResults xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="i1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/">
+  <AgmAutotuneModel z:Id="i2">
+    <ErrorCode>0</ErrorCode>
+    <Field>397887.35772973835</Field>
+    <Gradient>0</Gradient>
+    <GradientIndex>0</GradientIndex>
+    <HighSearchFrequency>1000</HighSearchFrequency>
+    <LowSearchFrequency>100</LowSearchFrequency>
+    <MechanicalGain>0</MechanicalGain>
+    <Mode>Initial</Mode>
+    <Moment>0</Moment>
+    <OperatingFrequency>0</OperatingFrequency>
+    <Phase737>0</Phase737>
+    <PhaseProbe>0</PhaseProbe>
+    <ProbeFactor>-42.4248548359538</ProbeFactor>
+    <ProbeMaximumResponseFrequency>0</ProbeMaximumResponseFrequency>
+    <Q>0</Q>
+    <RangeIndex>0</RangeIndex>
+    <ResonantFrequency>0</ResonantFrequency>
+    <SpecifyOperatingFrequency>300</SpecifyOperatingFrequency>
+    <VoltageGain>0</VoltageGain>
+  </AgmAutotuneModel>
+  <FieldConfigurations z:Id="i3">
+    <CoilSet z:Id="i4">
+      <BalanceNumber>0</BalanceNumber>
+      <Name>LC-86</Name>
+      <RegistrationDate>2019-10-01T21:22:30.1219775-05:00</RegistrationDate>
+      <SerialNumber>A13AK</SerialNumber>
+    </CoilSet>
+    <CurrentXCalibration>
+      <CalibrationField>397887.35772973835</CalibrationField>
+      <Comments i:nil="true" />
+      <CreatedDateTime>2019-12-17T16:19:32.5061102-06:00</CreatedDateTime>
+      <ExpectedMoment>0.00692</ExpectedMoment>
+      <Operator>VSM Administrator</Operator>
+      <StandardId i:nil="true" />
+      <VoltageToMomentConversionFactor>
+        <Value>-0.023571088312894586</Value>
+      </VoltageToMomentConversionFactor>
+    </CurrentXCalibration>
+    <Em7Mode>HighField</Em7Mode>
+    <GapSetting>Gap2_RTB</GapSetting>
+    <HeadAmplitudePercentage>100</HeadAmplitudePercentage>
+    <XCalibrations>
+      <MagnetometerXCalibration>
+        <CalibrationField>397887.35772973835</CalibrationField>
+        <Comments i:nil="true" />
+        <CreatedDateTime>2019-10-02T11:23:16.9196583-05:00</CreatedDateTime>
+        <ExpectedMoment>0.00692</ExpectedMoment>
+        <Operator>VSM Administrator</Operator>
+        <StandardId i:nil="true" />
+        <VoltageToMomentConversionFactor>
+          <Value>-0.023411346739638742</Value>
+        </VoltageToMomentConversionFactor>
+      </MagnetometerXCalibration>
+      <MagnetometerXCalibration>
+        <CalibrationField>397887.35772973835</CalibrationField>
+        <Comments i:nil="true" />
+        <CreatedDateTime>2019-10-03T09:12:39.5855087-05:00</CreatedDateTime>
+        <ExpectedMoment>0.00692</ExpectedMoment>
+        <Operator>VSM Administrator</Operator>
+        <StandardId i:nil="true" />
+        <VoltageToMomentConversionFactor>
+          <Value>-0.023326701533383971</Value>
+        </VoltageToMomentConversionFactor>
+      </MagnetometerXCalibration>
+      <MagnetometerXCalibration>
+        <CalibrationField>397887.35772973835</CalibrationField>
+        <Comments i:nil="true" />
+        <CreatedDateTime>2019-12-17T16:19:32.5061102-06:00</CreatedDateTime>
+        <ExpectedMoment>0.00692</ExpectedMoment>
+        <Operator>VSM Administrator</Operator>
+        <StandardId i:nil="true" />
+        <VoltageToMomentConversionFactor>
+          <Value>-0.023571088312894586</Value>
+        </VoltageToMomentConversionFactor>
+      </MagnetometerXCalibration>
+    </XCalibrations>
+  </FieldConfigurations>
+  <IsAgmMode>false</IsAgmMode>
+  <IsDone>true</IsDone>
+  <Magnet>EM7_CSB</Magnet>
+  <MaxField>2395281.8935330249</MaxField>
+  <MaxFieldRampRate>397887.35772973835</MaxFieldRampRate>
+  <MeasurementSettings z:Id="i5">
+    <OperatorName>user</OperatorName>
+    <ProfileSequence z:Id="i6">
+      <Nodes>
+        <Node z:Id="i7" xmlns="" i:type="RemanenceSetupNode">
+          <Name>Remanence Curves</Name>
+          <AdvancedDataSetupModel z:Id="i8">
+            <DataAcquisitionMode>Continuous</DataAcquisitionMode>
+            <DwellTime>0</DwellTime>
+            <GaussMeterManualRange>0</GaussMeterManualRange>
+            <GaussmeterFixedRange>true</GaussmeterFixedRange>
+            <MomentMeterAutoRangeMode>false</MomentMeterAutoRangeMode>
+            <MomentMeterManualRange>5</MomentMeterManualRange>
+            <MomentMeterManualYRange>1</MomentMeterManualYRange>
+          </AdvancedDataSetupModel>
+          <AveragingTime>10</AveragingTime>
+          <DataAdjustmentSetupModel z:Id="i9">
+            <BackgroundSubtractionFile>&lt;None&gt;</BackgroundSubtractionFile>
+            <BackgroundSubtractionPercentage>100</BackgroundSubtractionPercentage>
+            <FieldOffsetCorrectionTypeValue>Auto</FieldOffsetCorrectionTypeValue>
+            <ManualFieldAdjustment i:nil="true" />
+            <ManualMomentAdjustment i:nil="true" />
+            <ManualMomentAdjustmentY i:nil="true" />
+            <ManualSlopeAdjustment i:nil="true" />
+            <MomentOffsetCorrectionTypeValue>Auto</MomentOffsetCorrectionTypeValue>
+            <MomentOffsetCorrectionTypeValueY>Auto</MomentOffsetCorrectionTypeValueY>
+            <PercentOfHmaxForMomentOffsetCorrection>90</PercentOfHmaxForMomentOffsetCorrection>
+            <PercentOfHmaxForMomentOffsetCorrectionY>90</PercentOfHmaxForMomentOffsetCorrectionY>
+            <PoleSaturationCorrectionFile></PoleSaturationCorrectionFile>
+            <SlopeCorrectionAutoMaxField i:nil="true" />
+            <SlopeCorrectionAutoMinField i:nil="true" />
+            <SlopeCorrectionTypeValue>Auto</SlopeCorrectionTypeValue>
+            <SmoothingInterval>39788.735772973836</SmoothingInterval>
+            <UseFieldOffsetCorrection>false</UseFieldOffsetCorrection>
+            <UseFieldRegridding>false</UseFieldRegridding>
+            <UseMomentOffsetCorrection>false</UseMomentOffsetCorrection>
+            <UseSlopeCorrection>false</UseSlopeCorrection>
+            <UseSmoothing>false</UseSmoothing>
+          </DataAdjustmentSetupModel>
+          <DataDisplaySetupModel z:Id="i10">
+            <DifferentiateAscendingAndDescending>false</DifferentiateAscendingAndDescending>
+            <DisplayAverageTemperature>false</DisplayAverageTemperature>
+            <DisplayAveragingTime>false</DisplayAveragingTime>
+            <DisplayBackgroundSubtraction>false</DisplayBackgroundSubtraction>
+            <DisplayCoercivity>false</DisplayCoercivity>
+            <DisplayDataAcquisitionMode>false</DisplayDataAcquisitionMode>
+            <DisplayEndingDateAndTime>false</DisplayEndingDateAndTime>
+            <DisplayFieldOffsetCorrection>false</DisplayFieldOffsetCorrection>
+            <DisplayGlobalNoise>false</DisplayGlobalNoise>
+            <DisplayInitialSlope>false</DisplayInitialSlope>
+            <DisplayIntrinsicCoercivity>false</DisplayIntrinsicCoercivity>
+            <DisplayMagnetometerMode>false</DisplayMagnetometerMode>
+            <DisplayMaximumEnergyProduct>false</DisplayMaximumEnergyProduct>
+            <DisplayMomentOffsetCorrection>false</DisplayMomentOffsetCorrection>
+            <DisplayOrientation>false</DisplayOrientation>
+            <DisplayPoleSaturationCorrection>false</DisplayPoleSaturationCorrection>
+            <DisplayRemanence>false</DisplayRemanence>
+            <DisplayResidualInduction>false</DisplayResidualInduction>
+            <DisplayRuntimeOperator>false</DisplayRuntimeOperator>
+            <DisplaySaturationMoment>false</DisplaySaturationMoment>
+            <DisplaySlopeCorrection>false</DisplaySlopeCorrection>
+            <DisplaySmoothing>false</DisplaySmoothing>
+            <DisplaySquarenessRatio>false</DisplaySquarenessRatio>
+            <DisplayStandardDeviationOfMoment>false</DisplayStandardDeviationOfMoment>
+            <DisplayStartingDateAndTime>false</DisplayStartingDateAndTime>
+            <DisplayTotalTime>false</DisplayTotalTime>
+            <InitialSlopeThreshold>10</InitialSlopeThreshold>
+            <LeftYAxisOption>Moment</LeftYAxisOption>
+            <RightYAxisOption>None</RightYAxisOption>
+            <SaturationMomentMax i:nil="true" />
+            <SaturationMomentMin i:nil="true" />
+            <XAxisOption>Field</XAxisOption>
+          </DataDisplaySetupModel>
+          <FieldStepSize>39788.735772973836</FieldStepSize>
+          <MaxField>2395281.8935330249</MaxField>
+          <AcquireMomentAtAppliedField>false</AcquireMomentAtAppliedField>
+          <DoDcd>true</DoDcd>
+          <DoIrm>false</DoIrm>
+          <FinalField>795774.71545947669</FinalField>
+          <FirstNonZeroField>79.5774715459577</FirstNonZeroField>
+          <InitialField>0</InitialField>
+          <NumberOfPoints>100</NumberOfPoints>
+          <PauseAtApplied>2</PauseAtApplied>
+          <PauseAtSaturation>3</PauseAtSaturation>
+          <PauseAtZero>3</PauseAtZero>
+          <RepeatSaturation>false</RepeatSaturation>
+          <SaturationField>795774.71545947669</SaturationField>
+          <SequenceNonlinear>true</SequenceNonlinear>
+        </Node>
+        <Node z:Id="i11" xmlns="" i:type="FinishNode">
+          <Name>Finish</Name>
+          <AngleOption>MaintainValue</AngleOption>
+          <AngleSetpoint>0</AngleSetpoint>
+          <AppliedFieldOption>GoToValue</AppliedFieldOption>
+          <AppliedFieldSetpoint>0</AppliedFieldSetpoint>
+          <HeadAmplitudeOption>MaintainValue</HeadAmplitudeOption>
+          <TemperatureOption>MaintainValue</TemperatureOption>
+          <TemperatureSetpoint>300</TemperatureSetpoint>
+          <ZAxisGoToHomePosition>false</ZAxisGoToHomePosition>
+        </Node>
+      </Nodes>
+    </ProfileSequence>
+    <SampleSettings z:Id="i12">
+      <area>0.0001</area>
+      <demagnetizationFactor>0</demagnetizationFactor>
+      <id>AX8-1r</id>
+      <mass>7.960000000000001E-05</mass>
+      <notesXaml></notesXaml>
+      <volume>1E-06</volume>
+      <areaDisplayUnits>CentimetersSquared</areaDisplayUnits>
+      <massDisplayUnits>Grams</massDisplayUnits>
+      <volumeDisplayUnits>CentimetersCubed</volumeDisplayUnits>
+    </SampleSettings>
+  </MeasurementSettings>
+  <PowerSupply>LS648</PowerSupply>
+  <RawDataTimestamp>2020-01-08T10:01:45.0700955-06:00</RawDataTimestamp>
+  <ResultCharts>
+    <MeasurementChart>
+      <Annotations />
+      <Calculations />
+      <MagneticUnits>SiMuNaughtH</MagneticUnits>
+      <PlotSeries>
+        <MeasurementChartPlotSeries>
+          <ChartXAxis>
+            <AxisType>Field</AxisType>
+            <NumericRangeMax>1.2</NumericRangeMax>
+            <NumericRangeMin>-1.2</NumericRangeMin>
+            <RangingMode>Manual</RangingMode>
+            <Title>Field (µ₀H) [T]</Title>
+          </ChartXAxis>
+          <ChartYAxis>
+            <AxisType>Moment</AxisType>
+            <RangeMax>2.8285305975473505E-07</RangeMax>
+            <RangeMin>-2.8285305975473505E-07</RangeMin>
+            <RangingMode>Manual</RangingMode>
+            <Title>Moment (m) [A·m²]</Title>
+          </ChartYAxis>
+          <Description>DCD series</Description>
+          <Measurements>
+            <ChartDataPoint>
+              <MeasurementXAxisType>Field</MeasurementXAxisType>
+              <MeasurementYAxisType>Moment</MeasurementYAxisType>
+              <Segment>0</Segment>
+              <Step>1</Step>
+              <StepIteration>0</StepIteration>
+              <Timestamp>2020-01-08T10:01:11.045</Timestamp>
+              <X>-0.000225426418260169</X>
+              <Y>4.5988601640885142E-09</Y>
+            </ChartDataPoint>
+            <ChartDataPoint>
+              <MeasurementXAxisType>Field</MeasurementXAxisType>
+              <MeasurementYAxisType>Moment</MeasurementYAxisType>
+              <Segment>0</Segment>
+              <Step>1</Step>
+              <StepIteration>0</StepIteration>
+              <Timestamp>2020-01-08T10:01:28.305</Timestamp>
+              <X>-0.00010314993804087304</X>
+              <Y>4.9951671567270816E-09</Y>
+            </ChartDataPoint>
+          </Measurements>
+          <PenSettings>
+            <ColorParams>Blue</ColorParams>
+            <ConnectPoints>true</ConnectPoints>
+            <PointShape>Circle</PointShape>
+            <PointSize>3</PointSize>
+          </PenSettings>
+        </MeasurementChartPlotSeries>
+      </PlotSeries>
+      <Title>1</Title>
+      <UseJoulesPerTeslaInsteadOfAmpsMeteresSquared>false</UseJoulesPerTeslaInsteadOfAmpsMeteresSquared>
+      <XAxes xmlns:d4p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel">
+        <d4p1:list>
+          <MeasurementChartXAxis>
+            <AxisType>Field</AxisType>
+            <NumericRangeMax>1.2</NumericRangeMax>
+            <NumericRangeMin>-1.2</NumericRangeMin>
+            <RangingMode>Manual</RangingMode>
+            <Title>Field (µ₀H) [T]</Title>
+          </MeasurementChartXAxis>
+        </d4p1:list>
+      </XAxes>
+      <YAxes xmlns:d4p1="http://schemas.datacontract.org/2004/07/System.Collections.ObjectModel">
+        <d4p1:list>
+          <MeasurementChartYAxis>
+            <AxisType>Moment</AxisType>
+            <RangeMax>2.8285305975473505E-07</RangeMax>
+            <RangeMin>-2.8285305975473505E-07</RangeMin>
+            <RangingMode>Manual</RangingMode>
+            <Title>Moment (m) [A·m²]</Title>
+          </MeasurementChartYAxis>
+        </d4p1:list>
+      </YAxes>
+    </MeasurementChart>
+  </ResultCharts>
+  <Results>
+    <ExperimentDirectoryName>MeasurementData20200108100145070</ExperimentDirectoryName>
+    <StepResults>
+      <StepResults>
+        <IterationResults>
+          <IterationResults>
+            <IterationInformation>
+              <IterationNumber>0</IterationNumber>
+              <StepIdentifier>1</StepIdentifier>
+            </IterationInformation>
+            <SegmentResults>
+              <SegmentResults>
+                <CompressedRawData>H4sIAAAAAAAEAGNg5WBi4eLjXcDGgAKYoDQXEAcC5SqANDsQByWWuySWJAoBmcxQJRpAbOOYXFiaWZxZkpmf55ufkmqXHR/vlJicnZmX7paZmpOiV5aYU5oaH88CVMsBxM4gPb6J6XmpJfm5qSWpRb6picWlRam5qXklGHptQjJzU4tLEnML0KVArhMAYnuSjANT2IySAGJ30o0KTi0pyM/ElAYZqQDEHiQZGVCUn16UmBuWn1OSmI4RkFzQAHciyUyoYRHYTDMg17RIdBlQgrAAYhfSgzAoMQ/TryDzbIDYjSTzfPNB4hE4TXQg08RInCaC/JtGup9di4ryi1IxEqKeTVBqcWkOpi5oFmKGpqgMckKFAjt9yLQzkgI7A4C4lPwMGQQsMjzzwBkqtbiYVAeAMkcELDmHpOYWpBYllgAtxl9UIdRhy2wJQOxIinm4yhZmaGxkk+k4MiMF5IcCILYDWetflAm0JhFc5uOz1jEvPQcjNByg5a3VTy5INRKjxgqiGKE1BFo91HppZks+UM5J2fJofk7aARgNU+dy4q7vKf2ufQXn46a8EXhrh1yXMaJhYgDM3o+is8D2pjqckkxqDTkAo2Hq6i50xtQW9uwrK/1+VtGUcnsB0r/nupAHAAA=</CompressedRawData>
+                <SavedAveragedData>true</SavedAveragedData>
+                <SegmentInformation>
+                  <AveragingTime>0.01</AveragingTime>
+                  <BeginField>0</BeginField>
+                  <DataAcquisitionMode>Continuous</DataAcquisitionMode>
+                  <DwellTime>0</DwellTime>
+                  <EndField>0</EndField>
+                  <FieldStepSize>0</FieldStepSize>
+                  <Iteration>0</Iteration>
+                  <SegmentNumber>0</SegmentNumber>
+                  <StepIdentifier>1</StepIdentifier>
+                </SegmentInformation>
+              </SegmentResults>
+            </SegmentResults>
+          </IterationResults>
+        </IterationResults>
+        <StepInformation>
+          <StepIdentifier>1</StepIdentifier>
+        </StepInformation>
+      </StepResults>
+    </StepResults>
+  </Results>
+  <ResultsProfileSequence z:Id="i13">
+    <Nodes>
+      <ResultNode z:Id="i14" xmlns="" i:type="RemanenceResultNode">
+        <DiagnosticInfo>Remanence Curve Result Node created: 01/08/2020 10:00:53&#xD;
+</DiagnosticInfo>
+        <SetupNode z:Ref="i7" />
+        <StartTime>2020-01-08T10:00:53.6465187-06:00</StartTime>
+      </ResultNode>
+      <ResultNode z:Id="i15" xmlns="" i:type="FinishResultNode">
+        <DiagnosticInfo>FinishResultNode Created: 1/8/2020 10:00:53 AM&#xD;
+</DiagnosticInfo>
+        <SetupNode z:Ref="i11" />
+        <StartTime>0001-01-01T00:00:00</StartTime>
+      </ResultNode>
+    </Nodes>
+  </ResultsProfileSequence>
+  <SoftwareVersion>1.3</SoftwareVersion>
+  <StartTime>2020-01-08T10:00:53.0959934-06:00</StartTime>
+  <VectorFieldConfigurations i:nil="true" />
+</MeasurementResults>

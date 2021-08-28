@@ -1,0 +1,20 @@
+tab	sites
+site	location	experiments	lat	lon	analysts	software_packages	int_abs	int_n_specimens	citations	method_codes	result_quality	int_b_beta	int_corr	int_corr_aniso	int_corr_cooling_rate	int_corr_nlt	int_dang	int_drats	int_f	int_frac	int_fvds	int_g	int_gmax	int_mad_free	int_n_measurements	int_n_ptrm	int_q	int_scat	int_treat_dc_field	meas_step_max	meas_step_min	meas_step_unit	sample	specimen	volume	weight	int_sigma	int_sigma_perc
+AX1	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX10	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX10	Beaver Bay Complex					pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.13e-05		This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g	0.03	u	1.00			2.22	32.94	0.91	0.75	0.63	0.92	0.14	4.38	17	9	25.73	t	3.00e-05	853	673	K	AX8-3	AX8-3a				
+AX11	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX11	Beaver Bay Complex																																					
+AX12	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX12	Beaver Bay Complex																																					
+AX13	Beaver Bay Complex																																					
+AX13	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX15	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX16	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX16	Beaver Bay Complex																																					
+AX22	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX3	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX6	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX6	Beaver Bay Complex																																					
+AX8	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX8	Beaver Bay Complex																																					

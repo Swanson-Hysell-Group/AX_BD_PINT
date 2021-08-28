@@ -1,0 +1,3 @@
+tab 	criteria
+citations	criterion	criterion_operation	criterion_value	description	table_column
+This study	IE-SITE	>=	1.0	acceptance criteria for study	sites.int_n_specimens

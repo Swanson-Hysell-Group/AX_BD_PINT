@@ -1,0 +1,13 @@
+tab	sites
+analysts	citations	lat	location	lon	site
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX1
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX3
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX5
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX7
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX9
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX10
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX11
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX12
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX13
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX15
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX16

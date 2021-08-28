@@ -1,0 +1,10 @@
+tab	pmag_specimens
+er_sample_name	er_specimen_name	specimen_int_uT	measurement_step_min	measurement_step_min	specimen_lab_field_dc	Anisotropy_correction_factor	NLT_correction_factor	Cooling_rate_correction_factor	specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_int_mad	specimen_int_dang	specimen_scat
+BD2	BD2-10a	80.26	0	475	30	1.00	-	-	7.00	0.75	2.00	0.10	2.37	2.04	t
+BD2	BD2-13a	79.70	100	475	30	1.00	-	-	6.00	0.70	2.00	0.12	5.17	0.69	t
+BD2	BD2-14a	84.60	100	550	30	1.00	-	-	12.00	0.60	5.00	0.10	4.74	2.91	t
+BD2	BD2-18a	62.58	100	553	30	1.00	-	-	13.00	0.63	6.00	0.11	4.43	4.74	t
+BD2	BD2-5b	82.00	0	425	30	1.00	-	-	6.00	0.65	2.00	0.06	3.65	2.18	t
+BD2	BD2-7b	79.45	0	425	30	1.00	-	-	6.00	0.68	2.00	0.11	8.66	4.66	t
+BD2	BD2-8b	77.63	100	450	30	1.00	-	-	6.00	0.67	2.00	0.09	3.69	1.73	t
+BD2	BD2-9a	80.57	0	475	30	1.00	-	-	7.00	0.73	2.00	0.09	3.84	2.19	t

@@ -1,0 +1,7 @@
+tab	sites
+analysts	citations	lat	location	lon	site
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.4	BD1
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.4	BD2
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.4	BD5
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.4	BD6
+Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.4	BD7
