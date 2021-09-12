@@ -1,13 +1,22 @@
 tab	sites
-analysts	citations	lat	location	lon	site
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX1
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX3
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX5
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX7
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX9
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX10
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX11
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX12
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX13
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX15
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.3	AX16
+site	location	experiments	lat	lon	analysts	software_packages	int_abs	int_n_specimens	citations	method_codes	result_quality	int_b_beta	int_corr	int_corr_aniso	int_corr_cooling_rate	int_corr_nlt	int_dang	int_drats	int_f	int_frac	int_fvds	int_g	int_gmax	int_mad_free	int_n_measurements	int_n_ptrm	int_q	int_scat	int_treat_dc_field	meas_step_max	meas_step_min	meas_step_unit	sample	specimen	volume	weight	int_sigma	int_sigma_perc
+AX1	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX10	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX10	Beaver Bay Complex					pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	1.23e-05		This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g	0.09	u	1.00			8.19	0.15	0.57	0.33	0.20	0.83	0.25	9.57	11	10	5.48	f	3.00e-05	858	813	K	AX9-1	AX9-1a				
+AX11	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX11	Beaver Bay Complex																																					
+AX12	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX12	Beaver Bay Complex																																					
+AX13	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX13	Beaver Bay Complex																																					
+AX15	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX16	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX16	Beaver Bay Complex																																					
+AX3	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX3	Beaver Bay Complex																																					
+AX5	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX5	Beaver Bay Complex																																					
+AX7	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX7	Beaver Bay Complex																																					
+AX9	Beaver Bay Complex		47.2	-91.3	Yiming Zhang				This study																													
+AX9	Beaver Bay Complex																																					

@@ -1,7 +1,8 @@
 tab	sites
-analysts	citations	lat	location	lon	site
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.4	BD1
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.4	BD2
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.4	BD5
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.4	BD6
-Yiming Zhang	This study	47.2	Beaver Bay Complex	-91.4	BD7
+site	location	specimens	samples	height	lat	lon	bed_dip	bed_dip_direction	cooling_rate	geologic_classes	geologic_types	lithologies	analysts	criteria	description	software_packages	int_abs	int_abs_sigma	int_abs_sigma_perc	int_n_samples	int_n_specimens	citations	method_codes	result_quality	vadm	vadm_sigma
+BD1	Beaver Bay Complex				47.2	-91.4							Yiming Zhang									This study				
+BD2	Beaver Bay Complex				47.2	-91.4							Yiming Zhang									This study				
+BD2-4	Beaver Bay Complex	BD2-4b	BD2-4												paleointensity mean	pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	6.53e-05	0.00e+00	0.00	1	1	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g	1.04e+23	0.00e+00
+BD5	Beaver Bay Complex				47.2	-91.4							Yiming Zhang									This study				
+BD6	Beaver Bay Complex				47.2	-91.4							Yiming Zhang									This study				
+BD7	Beaver Bay Complex				47.2	-91.4							Yiming Zhang									This study				

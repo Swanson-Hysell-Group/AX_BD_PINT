@@ -3,3 +3,61 @@ starting...
 -I- Done calculating non linear TRM parameters for all specimens
 -I- number of specimens in this project directory: 28
 -I- number of samples in this project directory: 28
+-I- reading redo file and processing new temperature bounds-W- WARNING: Can't find specimen AX10-2a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX10-3a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX11-4a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX11-5a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX11-6a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX11-9a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX12-14a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX12-5a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX12-6a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX12-8a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX13-6a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX13-7a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX13-8a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX13-9a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-10a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-11a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-13a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-14a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-15a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-16a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-5a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-6a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-9a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX6-1a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX6-2a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX6-3a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX8-1a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX8-2a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX8-3a from redo file in measurement file!
+-I- reading redo file and processing new temperature bounds-W- WARNING: Can't find specimen AX10-2a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX10-3a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX11-4a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX11-5a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX11-6a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX11-9a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX12-14a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX12-5a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX12-6a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX12-8a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX13-6a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX13-7a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX13-8a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX13-9a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-10a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-11a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-13a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-14a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-15a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-16a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-5a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-6a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX16-9a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX6-1a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX6-2a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX6-3a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX8-1a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX8-2a from redo file in measurement file!
+-W- WARNING: Can't find specimen AX8-3a from redo file in measurement file!

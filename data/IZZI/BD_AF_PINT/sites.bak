@@ -1,9 +1,10 @@
 tab	sites
-site	location	lat	lon	analysts	citations
-BD1	Beaver Bay Complex	47.2	-91.4	Yiming Zhang	This study
-BD2	Beaver Bay Complex	47.2	-91.4	Yiming Zhang	This study
-BD5	Beaver Bay Complex	47.2	-91.4	Yiming Zhang	This study
-BD6	Beaver Bay Complex	47.2	-91.4	Yiming Zhang	This study
-BD7	Beaver Bay Complex	47.2	-91.4	Yiming Zhang	This study
-BD8	Beaver Bay Complex	47.2	-91.4	Yiming Zhang	This study
-BD9	Beaver Bay Complex	47.2	-91.4	Yiming Zhang	This study
+site	location	experiments	lat	lon	analysts	software_packages	int_abs	citations	method_codes	result_quality	int_b_beta	int_corr	int_corr_aniso	int_corr_cooling_rate	int_corr_nlt	int_dang	int_drats	int_f	int_frac	int_fvds	int_g	int_gmax	int_mad_free	int_n_measurements	int_n_ptrm	int_q	int_scat	int_treat_dc_field	meas_step_max	meas_step_min	meas_step_unit	sample	specimen	volume	weight
+BD1	Beaver Bay Complex		47.2	-91.4	Yiming Zhang			This study																											
+BD2	Beaver Bay Complex		47.2	-91.4	Yiming Zhang			This study																											
+BD2	Beaver Bay Complex		47.2	-91.4		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	8.06e-05	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g	0.09	u	1.0			2.19	11.11	0.76	0.73	0.74	0.73	0.57	3.84	7.0	2.0	5.84	t	2.9999999999999997e-05	748.0	273.0	K	BD2-9	BD2-9a		
+BD5	Beaver Bay Complex		47.2	-91.4	Yiming Zhang			This study																											
+BD6	Beaver Bay Complex		47.2	-91.4	Yiming Zhang			This study																											
+BD7	Beaver Bay Complex		47.2	-91.4	Yiming Zhang			This study																											
+BD8	Beaver Bay Complex		47.2	-91.4	Yiming Zhang			This study																											
+BD9	Beaver Bay Complex		47.2	-91.4	Yiming Zhang			This study																											

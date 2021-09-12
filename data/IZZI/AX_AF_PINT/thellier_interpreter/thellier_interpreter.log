@@ -2,7 +2,7 @@
 -I- using paleointenisty statistics:
 acceptance criteria:
 specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_int_mad	specimen_int_dang	specimen_scat	average_by_sample_or_site	interpreter_method	include_nrm	average_by_sample_or_site	interpreter_method	include_nrm
-4	0.60	2	0.150	20.0	5.0	True	site	stdev_opt	True	site	stdev_opt	True
+4	0.60	2	0.150	20.0	5.0	1.000e+00	site	stdev_opt	True	site	stdev_opt	True
 ---------------------------------
 -I- Found 58 specimens
 -I- doing now specimen AX1-4a
@@ -12267,6 +12267,6 @@ specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_int_ma
 -I- Statistics:
 -I- number of specimens analzyed = 27
 -I- number of sucsessful 'acceptable' specimens = 27
--I- runtime hh:mm:ss is 0:00:22
--I- runtime per specimen: 0.8 seconds-I- Finished sucsessfuly.
+-I- runtime hh:mm:ss is 0:00:18
+-I- runtime per specimen: 0.7 seconds-I- Finished sucsessfuly.
 -I- DONE

@@ -18175,6 +18175,6 @@ specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_int_ma
 -I- Statistics:
 -I- number of specimens analzyed = 41
 -I- number of sucsessful 'acceptable' specimens = 41
--I- runtime hh:mm:ss is 0:00:26
--I- runtime per specimen: 0.6 seconds-I- Finished sucsessfuly.
+-I- runtime hh:mm:ss is 0:00:27
+-I- runtime per specimen: 0.7 seconds-I- Finished sucsessfuly.
 -I- DONE
