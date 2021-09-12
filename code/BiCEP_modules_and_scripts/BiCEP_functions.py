@@ -2,6 +2,7 @@ import pandas as pd
 from importlib import reload # allows reloading of modules
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib
 import ipywidgets as widgets
 from IPython.display import display, clear_output
 import asyncio
@@ -517,8 +518,8 @@ class SpecimenCollection():
         ax.set_xlabel('Intensity ($\mu$T)')
         ax.set_ylabel('Probability Density')
 
-        return
-        
+        return np.percentile(self.fit['int_site'],(2.5, 50, 97.5))
+
 class Specimen():
     """
     Specimen from a given site or sample SpecimenCollection object.
