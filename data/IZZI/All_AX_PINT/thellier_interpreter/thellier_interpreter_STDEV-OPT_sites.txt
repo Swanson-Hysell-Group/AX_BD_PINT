@@ -1,12 +1,12 @@
 acceptance criteria:
-specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_int_mad	specimen_int_dang	specimen_scat	average_by_sample_or_site	interpreter_method	include_nrm	average_by_sample_or_site	interpreter_method	include_nrm
-4	0.60	2	0.150	20.0	5.0	True	site	stdev_opt	True	site	stdev_opt	True
+specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_gmax	specimen_int_mad	specimen_int_dang	specimen_scat	average_by_sample_or_site	interpreter_method	include_nrm	average_by_sample_or_site	interpreter_method	include_nrm
+4	0.65	2	0.150	0.25	20.0	5.0	True	site	stdev_opt	True	site	stdev_opt	True
 ---------------------------------
 er_site_name	site_int_n	site_int_uT	site_int_sigma_uT	site_int_sigma_perc	site_int_min_uT	site_int_min_sigma_uT	site_int_max_uT	site_int_max_sigma_uT	site_int_interval_uT	site_int_interval_perc	Warning
-AX10	3	47.78	0.04	0.09	44.67	3.37	64.40	18.545	19.74	41.31	No anisotropy corrections;  No cooling rate corrections; 
-AX11	7	73.34	0.06	0.08	69.03	2.60	76.54	2.797	7.51	10.24	No anisotropy corrections;  No cooling rate corrections; 
-AX12	6	38.03	5.76	15.15	36.78	6.26	41.82	10.152	5.04	13.26	No anisotropy corrections;  No cooling rate corrections; 
-AX13	7	76.73	3.78	4.92	71.51	6.90	78.81	6.084	7.30	9.51	No anisotropy corrections;  No cooling rate corrections; 
-AX16	11	44.15	5.08	11.50	41.20	6.37	50.13	12.905	8.93	20.22	No anisotropy corrections;  No cooling rate corrections; 
-AX6	3	30.33	15.17	50.01	28.81	16.35	32.92	19.548	4.11	13.55	No anisotropy corrections;  No cooling rate corrections; 
-AX8	3	52.40	12.15	23.18	51.41	13.06	54.24	15.151	2.83	5.40	No anisotropy corrections;  No cooling rate corrections; 
+AX10	3	47.36	1.32	2.79	45.69	4.22	58.87	18.560	13.18	27.84	No anisotropy corrections;  No cooling rate corrections; 
+AX11	7	73.34	0.06	0.08	69.29	2.64	76.09	2.764	6.80	9.27	No anisotropy corrections;  No cooling rate corrections; 
+AX12	6	38.10	5.85	15.37	37.24	6.31	40.96	8.724	3.72	9.76	No anisotropy corrections;  No cooling rate corrections; 
+AX13	6	77.20	4.29	5.56	71.93	7.58	78.29	5.252	6.36	8.24	No anisotropy corrections;  No cooling rate corrections; 
+AX16	10	45.85	3.57	7.79	42.99	5.92	51.83	12.117	8.84	19.28	No anisotropy corrections;  No cooling rate corrections; 
+AX6	3	30.92	16.17	52.28	29.95	16.90	32.92	19.548	2.97	9.60	No anisotropy corrections;  No cooling rate corrections; 
+AX8	2	53.74	17.59	32.73	53.19	18.37	55.18	19.623	1.99	3.70	No anisotropy corrections;  No cooling rate corrections; 

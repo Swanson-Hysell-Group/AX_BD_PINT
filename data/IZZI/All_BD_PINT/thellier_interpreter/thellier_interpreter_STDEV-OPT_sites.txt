@@ -1,6 +1,5 @@
 acceptance criteria:
-specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_int_mad	specimen_int_dang	specimen_scat	average_by_sample_or_site	interpreter_method	include_nrm	average_by_sample_or_site	interpreter_method	include_nrm
-4	0.60	2	0.150	20.0	5.0	True	site	stdev_opt	True	site	stdev_opt	True
+specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_gmax	specimen_int_mad	specimen_int_dang	specimen_scat	average_by_sample_or_site	interpreter_method	include_nrm	average_by_sample_or_site	interpreter_method	include_nrm
+4	0.65	2	0.150	0.25	20.0	5.0	True	site	stdev_opt	True	site	stdev_opt	True
 ---------------------------------
 er_site_name	site_int_n	site_int_uT	site_int_sigma_uT	site_int_sigma_perc	site_int_min_uT	site_int_min_sigma_uT	site_int_max_uT	site_int_max_sigma_uT	site_int_interval_uT	site_int_interval_perc	Warning
-BD2	9	75.85	7.42	9.79	67.38	14.64	81.12	10.907	13.74	18.11	No anisotropy corrections;  No cooling rate corrections; 

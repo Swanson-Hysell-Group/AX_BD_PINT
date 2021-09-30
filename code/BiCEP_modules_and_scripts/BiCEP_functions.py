@@ -518,7 +518,7 @@ class SpecimenCollection():
         ax.set_xlabel('Intensity ($\mu$T)')
         ax.set_ylabel('Probability Density')
 
-        return np.percentile(self.fit['int_site'],(2.5, 50, 97.5)), self.fit['int_site']
+        return np.percentile(self.fit['int_site'],(2.5, 50, 97.5)), np.array(self.fit['int_site'])
 
 class Specimen():
     """

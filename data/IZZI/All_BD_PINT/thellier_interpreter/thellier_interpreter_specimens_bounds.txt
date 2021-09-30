@@ -1,14 +1,5 @@
 acceptance criteria:
-specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_int_mad	specimen_int_dang	specimen_scat
-4	0.60	2	0.150	20.0	5.0	True
+specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_gmax	specimen_int_mad	specimen_int_dang	specimen_scat
+4	0.65	2	0.150	0.25	20.0	5.0	True
 --------------------------------
 er_sample_name	er_specimen_name	specimen_int_corr_anisotropy	Anisotropy_code	specimen_int_corr_nlt	specimen_int_corr_cooling_rate	specimen_lab_field_dc_uT	specimen_int_min_uT	specimen_int_max_uT	WARNING
-BD2-10	BD2-10a	-	-	-	-	30.0	71.3	91.9	WARNING: No anisotropy correction
-BD2-13	BD2-13a	-	-	-	-	30.0	66.2	79.7	WARNING: No anisotropy correction
-BD2-14	BD2-14a	-	-	-	-	30.0	84.6	85.4	WARNING: No anisotropy correction
-BD2-18	BD2-18a	-	-	-	-	30.0	57.3	62.6	WARNING: No anisotropy correction
-BD2-4	BD2-4b	-	-	-	-	30.0	40.2	65.3	WARNING: No anisotropy correction
-BD2-5	BD2-5b	-	-	-	-	30.0	82.0	88.3	WARNING: No anisotropy correction
-BD2-7	BD2-7b	-	-	-	-	30.0	69.8	87.2	WARNING: No anisotropy correction
-BD2-8	BD2-8b	-	-	-	-	30.0	54.5	77.6	WARNING: No anisotropy correction
-BD2-9	BD2-9a	-	-	-	-	30.0	80.6	92.2	WARNING: No anisotropy correction

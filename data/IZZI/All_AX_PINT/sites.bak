@@ -2,7 +2,7 @@ tab	sites
 site	experiments	location	lat	lon	analysts	software_packages	int_abs	int_n_specimens	citations	method_codes	result_quality	int_b_beta	int_corr	int_corr_aniso	int_corr_cooling_rate	int_corr_nlt	int_dang	int_drat	int_drats	int_f	int_frac	int_fvds	int_g	int_gmax	int_mad_free	int_n_measurements	int_n_ptrm	int_q	int_scat	int_sigma	int_sigma_perc	int_treat_dc_field	meas_step_max	meas_step_min	meas_step_unit	volume	weight	sample	specimen
 AX1		Beaver Bay Complex	47.2	-91.3	Yiming Zhang				This study																														
 AX10		Beaver Bay Complex	47.2	-91.3	Yiming Zhang				This study																														
-AX10		Beaver Bay Complex	47.2	-91.3		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	1.23e-05		This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b	0.09	u	1.0			8.19	9.18	0.15	0.57	0.33	0.2	0.83	0.25	9.57	11.0	10.0	5.48	t			2.9999999999999997e-05	858.0	813.0	K			AX9-1	AX9-1a
+AX10		Beaver Bay Complex	47.2	-91.3		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.13e-05		This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g	0.03	u	1.0			2.22	9.18	32.94	0.91	0.75	0.63	0.92	0.14	4.38	17.0	9.0	25.73	t			2.9999999999999997e-05	853.0	673.0	K			AX8-3	AX8-3a
 AX11		Beaver Bay Complex	47.2	-91.3	Yiming Zhang				This study																														
 AX12		Beaver Bay Complex	47.2	-91.3	Yiming Zhang				This study																														
 AX13		Beaver Bay Complex	47.2	-91.3	Yiming Zhang				This study																														
