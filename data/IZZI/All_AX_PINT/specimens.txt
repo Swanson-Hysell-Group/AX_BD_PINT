@@ -9,7 +9,7 @@ AX1-7a		AX1-7				Yiming Zhang																						This study	LP-NOMAG
 AX10-1a		AX10-1				Yiming Zhang																						This study	LP-NOMAG			
 AX10-1a		AX10-1	858	698	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.58e-05	u	1.00			17	3.00e-05	0.06	0.79	0.78	0.69	0.91	0.24	11.99	t	2.62	5.60	5.66	18.49	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX10-2a		AX10-2				Yiming Zhang																						This study	LP-NOMAG			
-AX10-2a		AX10-2	858	698	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.82e-05	u	1.00			17	3.00e-05	0.05	0.83	0.67	0.56	0.92	0.19	16.63	t	1.93	5.30	3.69	6.24	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX10-2a		AX10-2	858	723	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.66e-05	u	1.00			16	3.00e-05	0.04	0.82	0.62	0.54	0.91	0.20	17.65	t	2.24	5.32	3.69	6.24	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX10-3a		AX10-3	858	698	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.80e-05	u	1.00			17	3.00e-05	0.04	0.90	0.69	0.62	0.91	0.24	21.01	t	1.56	4.02	3.71	10.37	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX10-3a		AX10-3				Yiming Zhang																						This study	LP-NOMAG			
 AX11-1a		AX11-1				Yiming Zhang																						This study	LP-NOMAG			
@@ -40,22 +40,22 @@ AX12-2a		AX12-2				Yiming Zhang																						This study	LP-NOMAG
 AX12-4a		AX12-4				Yiming Zhang																						This study	LP-NOMAG			
 AX12-4a		AX12-4	858	773	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.19e-05	u	1.00			14	3.00e-05	0.05	0.86	0.66	0.60	0.89	0.24	14.16	t	3.19	3.85	5.84	23.84	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX12-5a		AX12-5				Yiming Zhang																						This study	LP-NOMAG			
-AX12-5a		AX12-5	848.0	573.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.2e-05	u	1.0			17.0	3e-05	0.06	1.05	0.82	0.69	0.9	0.19	14.61	f	3.09	3.65	7.05	13.83	9.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
+AX12-5a		AX12-5	848.0	573.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.2e-05	u	1.0			17.0	2.9999999999999997e-05	0.06	1.05	0.82	0.69	0.9	0.19	14.61	f	3.09	3.65	7.05	13.83	9.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
 AX12-6a		AX12-6				Yiming Zhang																						This study	LP-NOMAG			
 AX12-6a		AX12-6	837	698	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	3.72e-05	u	1.00			12	3.00e-05	0.08	0.81	0.69	0.61	0.87	0.22	8.79	t	2.05	3.64	11.4	20.46	7	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX12-7a		AX12-7				Yiming Zhang																						This study	LP-NOMAG			
 AX12-8a		AX12-8	838	748	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	3.83e-05	u	1.00			12	3.00e-05	0.06	0.97	0.75	0.77	0.87	0.25	13.27	t	2.29	1.46		21.44	8	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX12-8a		AX12-8				Yiming Zhang																						This study	LP-NOMAG			
 AX12-9a		AX12-9				Yiming Zhang																						This study	LP-NOMAG			
-AX13-2a		AX13-2	828	573	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	7.70e-05	u	1.00			11	3.00e-05	0.05	0.67	0.69	0.56	0.83	0.20	10.69	t	2.73	7.87	7.63	40.41	6	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX13-2a		AX13-2	828	473	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	7.69e-05	u	1.00			12	3.00e-05	0.05	0.67	0.71	0.56	0.83	0.20	11.80	t	2.23	8.08	7.63	40.41	6	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX13-2a		AX13-2				Yiming Zhang																						This study	LP-NOMAG			
 AX13-3a		AX13-3	823	373	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	7.17e-05	u	1.00			12	3.00e-05	0.08	0.67	0.71	0.58	0.80	0.22	6.85	t	1.88	5.92	10.1	22.28	5	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX13-3a		AX13-3				Yiming Zhang																						This study	LP-NOMAG			
-AX13-4a		AX13-4	828	473	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	7.54e-05	u	1.00			12	3.00e-05	0.03	0.64	0.70	0.53	0.86	0.17	18.53	t	0.41	7.28	4.24	24.12	6	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX13-4a		AX13-4	823	473	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	7.61e-05	u	1.00			11	3.00e-05	0.04	0.57	0.65	0.47	0.83	0.18	12.54	t	1.07	8.82	4.24	18.31	5	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX13-4a		AX13-4				Yiming Zhang																						This study	LP-NOMAG			
 AX13-6a		AX13-6	828	473	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	7.68e-05	u	1.00			12	3.00e-05	0.06	0.70	0.70	0.62	0.81	0.22	10.24	t	1.53	3.82	6.31	30.95	6	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX13-6a		AX13-6				Yiming Zhang																						This study	LP-NOMAG			
-AX13-7a		AX13-7	858.0	748.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	7.26e-05	u	1.0			15.0	3e-05	0.03	0.74	0.61	0.53	0.85	0.2	23.0	t	2.09	3.62	8.98	60.44	10.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX13-7a		AX13-7	858	748	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	7.26e-05	u	1.00			15	3.00e-05	0.03	0.74	0.61	0.53	0.85	0.20	23.00	t	2.09	3.62	8.98	60.44	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX13-7a		AX13-7				Yiming Zhang																						This study	LP-NOMAG			
 AX13-8a		AX13-8	843	723	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	8.48e-05	u	1.00			13	3.00e-05	0.02	0.91	0.81	0.72	0.86	0.24	44.39	t	1.82	3.69	3.9	40.09	8	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX13-8a		AX13-8				Yiming Zhang																						This study	LP-NOMAG			
@@ -68,31 +68,31 @@ AX15-6a		AX15-6				Yiming Zhang																						This study	LP-NOMAG
 AX15-7a		AX15-7				Yiming Zhang																						This study	LP-NOMAG			
 AX15-8a		AX15-8				Yiming Zhang																						This study	LP-NOMAG			
 AX16-10a		AX16-10				Yiming Zhang																						This study	LP-NOMAG			
-AX16-10a		AX16-10	858	773	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	5.40e-05	u	1.00			15	3.00e-05	0.04	0.80	0.66	0.61	0.90	0.18	17.37	t	1.15	2.78		1.54	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX16-10a		AX16-10	858	783	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	5.33e-05	u	1.00			14	3.00e-05	0.04	0.81	0.62	0.61	0.90	0.20	16.40	t	1.10	2.75		1.54	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX16-11a		AX16-11	843	723	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.42e-05	u	1.00			14	3.00e-05	0.06	0.82	0.70	0.62	0.88	0.15	11.91	t	2.07	2.86		17.23	8	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX16-11a		AX16-11				Yiming Zhang																						This study	LP-NOMAG			
 AX16-12a		AX16-12				Yiming Zhang																						This study	LP-NOMAG			
 AX16-13a		AX16-13	843	673	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.17e-05	u	1.00			15	3.00e-05	0.07	0.84	0.72	0.65	0.86	0.20	11.10	t	1.85	3.47		15.74	8	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX16-13a		AX16-13				Yiming Zhang																						This study	LP-NOMAG			
-AX16-14a		AX16-14	843	673	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.36e-05	u	1.00			15	3.00e-05	0.06	0.84	0.71	0.61	0.90	0.13	11.74	t	1.79	3.25		12.42	8	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX16-14a		AX16-14	838	673	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.36e-05	u	1.00			14	3.00e-05	0.08	0.75	0.63	0.55	0.88	0.14	8.25	t	2.12	3.84		13.41	8	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX16-14a		AX16-14				Yiming Zhang																						This study	LP-NOMAG			
-AX16-15a		AX16-15	843.0	748.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	3.19e-05	u	1.0			13.0	3e-05	0.07	0.86	0.61	0.58	0.88	0.17	11.42	t	1.41	3.07		31.05	8.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX16-15a		AX16-15	843	748	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	3.19e-05	u	1.00			13	3.00e-05	0.07	0.86	0.61	0.58	0.88	0.17	11.42	t	1.41	3.07		31.05	8	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX16-15a		AX16-15				Yiming Zhang																						This study	LP-NOMAG			
-AX16-16a		AX16-16	843	673	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.22e-05	u	1.00			15	3.00e-05	0.06	0.92	0.77	0.67	0.89	0.15	14.33	t	1.81	3.90		17.26	8	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX16-16a		AX16-16	835	673	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.33e-05	u	1.00			13	3.00e-05	0.09	0.73	0.65	0.54	0.87	0.18	7.44	t	2.94	5.14		14.57	7	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX16-16a		AX16-16				Yiming Zhang																						This study	LP-NOMAG			
 AX16-1a		AX16-1				Yiming Zhang																						This study	LP-NOMAG			
-AX16-1a		AX16-1	835	473	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.62e-05	u	1.00			14	3.00e-05	0.07	0.99	0.85	0.77	0.88	0.23	12.35	t	2.87	6.04	5.44	14.10	7	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
-AX16-2a		AX16-2	837	673	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.60e-05	u	1.00			13	3.00e-05	0.06	0.86	0.68	0.65	0.89	0.21	12.39	t	1.57	4.37	6.48	4.51	7	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX16-1a		AX16-1	837	473	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.49e-05	u	1.00			15	3.00e-05	0.06	1.01	0.87	0.79	0.89	0.22	14.37	t	2.40	5.56	5.44	13.55	7	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX16-2a		AX16-2	837	698	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.51e-05	u	1.00			12	3.00e-05	0.07	0.81	0.65	0.60	0.88	0.22	10.19	t	1.44	4.25	6.48	4.51	7	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX16-2a		AX16-2				Yiming Zhang																						This study	LP-NOMAG			
-AX16-4a		AX16-4	843	698	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.60e-05	u	1.00			14	3.00e-05	0.05	0.89	0.75	0.61	0.87	0.21	16.77	t	1.18	5.01	6.31	38.56	8	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX16-4a		AX16-4	848	698	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.48e-05	u	1.00			15	3.00e-05	0.05	0.92	0.76	0.62	0.88	0.21	17.75	t	1.08	4.77	6.31	41.38	9	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX16-4a		AX16-4				Yiming Zhang																						This study	LP-NOMAG			
-AX16-5a		AX16-5	833	673	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.58e-05	u	1.00			11	3.00e-05	0.09	0.84	0.69	0.53	0.84	0.22	8.03	t	4.32	7.98	5.93	3.46	6	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX16-5a		AX16-5	833	698	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.49e-05	u	1.00			10	3.00e-05	0.10	0.80	0.65	0.51	0.83	0.24	6.90	t	3.90	7.42	5.93	3.46	6	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX16-5a		AX16-5				Yiming Zhang																						This study	LP-NOMAG			
 AX16-6a		AX16-6				Yiming Zhang																						This study	LP-NOMAG			
-AX16-6a		AX16-6	833.0	273.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.88e-05	u	1.0			15.0	3e-05	0.09	0.98	0.93	0.78	0.86	0.22	9.71	f	3.18	5.56	6.3	18.94	6.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
+AX16-6a		AX16-6	833.0	273.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.88e-05	u	1.0			15.0	2.9999999999999997e-05	0.09	0.98	0.93	0.78	0.86	0.22	9.71	f	3.18	5.56	6.3	18.94	6.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
 AX16-7a		AX16-7				Yiming Zhang																						This study	LP-NOMAG			
 AX16-8a		AX16-8				Yiming Zhang																						This study	LP-NOMAG			
-AX16-9a		AX16-9	858	748	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.89e-05	u	1.00			16	3.00e-05	0.04	0.80	0.66	0.62	0.91	0.16	18.13	t	1.40	2.92		12.10	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX16-9a		AX16-9	858	773	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.80e-05	u	1.00			15	3.00e-05	0.04	0.73	0.61	0.56	0.90	0.17	15.38	t	1.23	2.98		12.10	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX16-9a		AX16-9				Yiming Zhang																						This study	LP-NOMAG			
 AX22-10b		AX22-10				Yiming Zhang																						This study	LP-NOMAG			
 AX22-1b		AX22-1				Yiming Zhang																						This study	LP-NOMAG			
@@ -106,32 +106,32 @@ AX22-8b		AX22-8				Yiming Zhang																						This study	LP-NOMAG
 AX22-9b		AX22-9				Yiming Zhang																						This study	LP-NOMAG			
 AX3-3a		AX3-3				Yiming Zhang																						This study	LP-NOMAG			
 AX3-4a		AX3-4				Yiming Zhang																						This study	LP-NOMAG			
-AX3-4a		AX3-4	773.0	373.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	3.37e-05	u	1.0			8.0	3e-05	0.1	0.9	0.61	0.57	0.84	0.33	7.59	f	3.35	4.65	5.61	15.8	3.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
+AX3-4a		AX3-4	773.0	373.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	3.37e-05	u	1.0			8.0	2.9999999999999997e-05	0.1	0.9	0.61	0.57	0.84	0.33	7.59	f	3.35	4.65	5.61	15.8	3.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
 AX3-6a		AX3-6				Yiming Zhang																						This study	LP-NOMAG			
-AX3-6a		AX3-6	773.0	273.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	3.43e-05	u	1.0			9.0	3e-05	0.09	0.87	0.67	0.61	0.84	0.37	8.24	f	9.28	5.55	3.79	9.39	3.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
+AX3-6a		AX3-6	773.0	273.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	3.43e-05	u	1.0			9.0	2.9999999999999997e-05	0.09	0.87	0.67	0.61	0.84	0.37	8.24	f	9.28	5.55	3.79	9.39	3.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
 AX3-7a		AX3-7				Yiming Zhang																						This study	LP-NOMAG			
 AX3-8a		AX3-8				Yiming Zhang																						This study	LP-NOMAG			
 AX3-9a		AX3-9				Yiming Zhang																						This study	LP-NOMAG			
-AX5-2a		AX5-2	773.0	573.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	8.75e-05	u	1.0			6.0	3e-05	0.08	0.33	0.37	0.34	0.7	0.46	3.06	t	8.98	7.43	8.72	17.66	3.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
+AX5-2a		AX5-2	773.0	573.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	8.75e-05	u	1.0			6.0	2.9999999999999997e-05	0.08	0.33	0.37	0.34	0.7	0.46	3.06	t	8.98	7.43	8.72	17.66	3.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
 AX5-2a		AX5-2				Yiming Zhang																						This study	LP-NOMAG			
-AX5-3a		AX5-3	858	723	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	5.68e-05	u	1.00			16	3.00e-05	0.07	0.62	0.66	0.64	0.90	0.19	7.68	t	1.11	3.61		49.88	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX5-3a		AX5-3	858	748	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	6.21e-05	u	1.00			15	3.00e-05	0.06	0.56	0.62	0.61	0.89	0.21	7.88	t	1.56	3.28		49.88	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX5-3a		AX5-3				Yiming Zhang																						This study	LP-NOMAG			
 AX6-1a		AX6-1				Yiming Zhang																						This study	LP-NOMAG			
-AX6-1a		AX6-1	858	698	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.91e-05	u	1.00			17	3.00e-05	0.03	0.87	0.71	0.63	0.92	0.14	27.67	t	0.96	4.45	6.24	35.71	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX6-1a		AX6-1	858	748	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.74e-05	u	1.00			15	3.00e-05	0.02	0.84	0.60	0.59	0.91	0.16	31.91	t	1.67	2.92	6.24	35.71	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX6-2a		AX6-2				Yiming Zhang																						This study	LP-NOMAG			
 AX6-2a		AX6-2	858	673	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	1.82e-05	u	1.00			18	3.00e-05	0.04	0.91	0.70	0.60	0.92	0.12	19.78	t	3.43	3.44	13.08	49.22	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX6-3a		AX6-3	858	673	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	2.54e-05	u	1.00			18	3.00e-05	0.04	0.89	0.76	0.61	0.92	0.10	18.30	t	2.88	4.28	11.8	53.46	10	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX6-3a		AX6-3				Yiming Zhang																						This study	LP-NOMAG			
 AX7-1a		AX7-1				Yiming Zhang																						This study	LP-NOMAG			
-AX7-1a		AX7-1	837.0	673.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	1.96e-05	u	1.0			13.0	3e-05	0.1	0.88	0.58	0.45	0.89	0.12	8.22	f	9.82	6.77	7.48	16.9	7.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
+AX7-1a		AX7-1	837.0	673.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	1.9600000000000002e-05	u	1.0			13.0	2.9999999999999997e-05	0.1	0.88	0.58	0.45	0.89	0.12	8.22	f	9.82	6.77	7.48	16.9	7.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
 AX7-2a		AX7-2				Yiming Zhang																						This study	LP-NOMAG			
-AX7-2a		AX7-2	853.0	473.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	1.96e-05	u	1.0			19.0	3e-05	0.09	1.07	0.83	0.61	0.92	0.11	11.5	f	9.46	6.89	6.64	16.38	9.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
+AX7-2a		AX7-2	853.0	473.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	1.9600000000000002e-05	u	1.0			19.0	2.9999999999999997e-05	0.09	1.07	0.83	0.61	0.92	0.11	11.5	f	9.46	6.89	6.64	16.38	9.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
 AX7-3a		AX7-3				Yiming Zhang																						This study	LP-NOMAG			
 AX8-1a		AX8-1				Yiming Zhang																						This study	LP-NOMAG			
-AX8-1a		AX8-1	843	723	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	6.62e-05	u	1.00			13	3.00e-05	0.06	0.80	0.68	0.58	0.87	0.18	11.24	t	2.37	4.54	7.61	13.25	8	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
-AX8-2a		AX8-2	858.0	673.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	5.05e-05	u	1.0			18.0	3e-05	0.04	0.86	0.64	0.52	0.91	0.16	20.05	t	1.13	3.01	7.33	5.2	10.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX8-1a		AX8-1	839	698	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	6.54e-05	u	1.00			13	3.00e-05	0.07	0.68	0.60	0.50	0.86	0.20	7.97	t	2.95	5.28	7.61	14.15	8	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
+AX8-2a		AX8-2	853	673	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	5.05e-05	u	1.00			17	3.00e-05	0.04	0.86	0.63	0.52	0.91	0.16	18.10	t	1.29	3.19	7.33	2.59	9	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX8-2a		AX8-2				Yiming Zhang																						This study	LP-NOMAG			
 AX8-3a		AX8-3				Yiming Zhang																						This study	LP-NOMAG			
 AX8-3a		AX8-3	853	673	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	4.13e-05	u	1.00			17	3.00e-05	0.03	0.91	0.75	0.63	0.92	0.14	25.73	t	2.22	4.38	9.18	32.94	9	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	g		
 AX9-1a		AX9-1				Yiming Zhang																						This study	LP-NOMAG			
-AX9-1a		AX9-1	858.0	813.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	1.23e-05	u	1.0			11.0	3e-05	0.09	0.57	0.33	0.2	0.83	0.25	5.48	t	8.19	9.57	8.75	0.15	10.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		
+AX9-1a		AX9-1	858.0	813.0	K		pmagpy-4.2.24-1: thellier_gui.pmagpy-4.2.24-1	1.23e-05	u	1.0			11.0	2.9999999999999997e-05	0.09	0.57	0.33	0.2	0.83	0.25	5.48	t	8.19	9.57	8.75	0.15	10.0	This study	LP-PI-TRM:LP-PI-BT-IZZI:LP-PI-ALT-PTRM:IE-TT	b		

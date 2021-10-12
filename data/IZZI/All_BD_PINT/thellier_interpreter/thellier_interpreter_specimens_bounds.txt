@@ -1,5 +1,5 @@
 acceptance criteria:
 specimen_int_n	specimen_frac	specimen_int_ptrm_n	specimen_b_beta	specimen_gmax	specimen_int_mad	specimen_int_dang	specimen_scat
-4	0.65	2	0.150	0.25	20.0	5.0	True
+4	0.60	2	0.150	0.25	20.0	5.0	True
 --------------------------------
 er_sample_name	er_specimen_name	specimen_int_corr_anisotropy	Anisotropy_code	specimen_int_corr_nlt	specimen_int_corr_cooling_rate	specimen_lab_field_dc_uT	specimen_int_min_uT	specimen_int_max_uT	WARNING

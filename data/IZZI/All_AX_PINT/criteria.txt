@@ -2,7 +2,7 @@ tab 	criteria
 citations	criterion	criterion_operation	criterion_value	description	table_column
 This study	IE-SITE	>=	2.0	acceptance criteria for study	sites.int_n_specimens
 This study	IE-SPEC	<=	0.15	acceptance criteria for study	specimens.int_b_beta
-This study	IE-SPEC	>=	0.65	acceptance criteria for study	specimens.int_frac
+This study	IE-SPEC	>=	0.6	acceptance criteria for study	specimens.int_frac
 This study	IE-SPEC	<=	0.25	acceptance criteria for study	specimens.int_gmax
 This study	IE-SPEC	<=	5.0	acceptance criteria for study	specimens.int_dang
 This study	IE-SPEC	<=	20.0	acceptance criteria for study	specimens.int_mad_free
