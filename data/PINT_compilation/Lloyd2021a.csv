@@ -1,0 +1,19 @@
+﻿tab ,sites,,,,,,,,,,,,,,,,,,,,,,,
+age,age_high,age_low,age_unit,analysts,citations,dir_alpha95,dir_dec,dir_inc,dir_k,dir_n_samples,dir_n_total_samples,dir_tilt_correction,geologic_classes,geologic_types,int_abs,int_abs_sigma,int_n_specimens,int_n_total_specimens,lat,lithologies,location,lon,method_codes,site
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,5.4,286,-18,91,9,9,0,Igneous,Volcanic Dike,,,,,75.7,Basalt,Devon Island,277,LP-PI-ALT-AFARM:LP-PI-TRM,BB
+726,750,702,Ma,Simon Lloyd,10.1139/E09-042:This study,12.6,271.3,34.5,24,7,7,0,Igneous,Volcanic Dike,0.0000016,0,1,1,75.6,Basalt,Devon Island,279.8,LP-PI-ALT-PTRM:LP-PI-ALT-AFARM:LP-PI-BT-IZZI:LP-PI-TRM,BG
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,5.2,279.2,-7.5,70,9,9,0,Igneous,Volcanic Dike,0.0000055,0.0000025,7,7,75.8,Basalt,Devon Island,278.7,LP-PI-ALT-PTRM:LP-PI-ALT-AFARM:LP-PI-BT-IZZI:LP-PI-M:LP-PI-TRM:LP-PI-ALT-PMRM,BP
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,4,282.6,-7.5,226,7,7,0,Igneous,Volcanic Dike,0.0000049,3.00E-07,2,2,75.5,Basalt,Devon Island,278.7,LP-PI-M:LP-PI-BT-IZZI:LP-PI-ALT-PMRM,BR
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,6.6,101.2,-26.4,103,6,6,0,Igneous,Volcanic Dike,0.0000024,0.0000013,4,4,75.7,Basalt,Devon Island,276,LP-PI-ALT-PTRM:LP-PI-ALT-AFARM:LP-PI-BT-IZZI:LP-PI-TRM,SG2
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,4.4,68.9,61.4,123,10,10,0,Igneous,Volcanic Dike,0.0000029,2.00E-07,3,3,75.7,Basalt,Devon Island,276,LP-PI-ALT-PTRM:LP-PI-ALT-AFARM:LP-PI-BT-IZZI:LP-PI-M:LP-PI-TRM:LP-PI-ALT-PMRM,SG3
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,9,251.9,1.8,46,7,7,0,Igneous,Volcanic Dike,,,,,77.1,Basalt,Ellesmere Island,282.9,LP-PI-ALT-PTRM:LP-PI-ALT-AFARM:LP-PI-BT-IZZI:LP-PI-TRM,CG
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,6.4,243.1,13.7,91,7,7,0,Igneous,Volcanic Dike,,,,,78.7,Basalt,Ellesmere Island,284.3,LP-PI-ALT-AFARM:LP-PI-BT-IZZI:LP-PI-M:LP-PI-TRM:LP-PI-ALT-PMRM,LG
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,4,272.9,23.3,190,8,8,0,Igneous,Volcanic Dike,0.0000023,0,1,1,76.4,Basalt,Ellesmere Island,277,LP-DIR-AF:LP-PI-ALT-AFARM:LP-PI-BT-IZZI:LP-PI-M:LP-PI-TRM:LP-PI-ALT-PMRM,GR
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,5,295.4,9.3,234,5,5,0,Igneous,Volcanic Dike,0.0000039,0.0000018,4,4,76.7,Basalt,Greenland,286.8,LP-PI-ALT-PTRM:LP-PI-ALT-AFARM:LP-PI-BT-IZZI:LP-PI-M:LP-PI-TRM:LP-PI-ALT-PMRM,CA
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,5.1,293.6,15.9,144,7,7,0,Igneous,Volcanic Dike,0.0000031,3.00E-07,4,4,77.2,Basalt,Greenland,289.2,LP-PI-ALT-PTRM:LP-PI-ALT-AFARM:LP-PI-BT-IZZI:LP-PI-M:LP-PI-TRM:LP-PI-ALT-PMRM,PW
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,6.5,298.8,26.1,106,6,6,0,Igneous,Volcanic Dike,0.0000081,8.00E-07,5,5,77.5,Basalt,Greenland,291.1,LP-PI-ALT-PTRM:LP-PI-ALT-AFARM:LP-PI-BT-IZZI:LP-PI-M:LP-PI-TRM:LP-PI-ALT-PMRM,QA
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,8.6,296.5,26.4,37,9,9,0,Igneous,Volcanic Dike,0.0000064,0.0000021,7,7,76.5,Basalt,Greenland,290.8,LP-PI-ALT-PTRM:LP-PI-ALT-AFARM:LP-PI-BT-IZZI:LP-PI-M:LP-PI-TRM:LP-PI-ALT-PMRM,TB
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,5,289.9,16.3,123,8,8,0,Igneous,Volcanic Dike,0.0000044,0,1,1,77.4,Basalt,Greenland,288.5,LP-PI-ALT-PTRM:LP-PI-ALT-AFARM:LP-PI-BT-IZZI:LP-PI-TRM,NU2
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,6.5,283,10.9,74,8,8,0,Igneous,Volcanic Dike,,,,,78.7,Basalt,Greenland,289.3,LP-PI-ALT-AFARM:LP-PI-TRM,KL
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,7.3,108.3,37.7,59,8,8,0,Igneous,Volcanic Dike,,,,,77.4,Basalt,Greenland,288.4,LP-PI-ALT-AFARM:LP-PI-TRM,NU1
+720,723,717,Ma,Simon Lloyd,10.1139/E09-042:This study,5.3,288.7,-18.5,132,7,7,0,Igneous,Volcanic Dike,,,,,77.9,Basalt,Greenland,287.8,LP-PI-M:LP-PI-BT-IZZI:LP-PI-ALT-PMRM,PK
