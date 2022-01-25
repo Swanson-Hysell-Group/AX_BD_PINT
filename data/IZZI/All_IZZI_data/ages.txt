@@ -1,0 +1,3 @@
+tab	ages
+age	location	site	sample	specimen	age_unit	citations	method_codes
+1091.83	Beaver Bay Complex				Ma	This study	GM-UPB-I-206

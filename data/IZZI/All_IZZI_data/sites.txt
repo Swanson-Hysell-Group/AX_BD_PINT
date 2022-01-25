@@ -1,0 +1,23 @@
+tab	sites
+site	location	age_unit	height	lat	lon	geologic_classes	geologic_types	lithologies	analysts	citations	method_codes	result_quality	result_type
+BD1	Beaver Bay Complex	Ma	0.0	47.2	268.6	Igneous:Intrusive	Sill:Diabase	Diabase	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+BD2	Beaver Bay Complex	Ma	0.0	47.2	268.6	Igneous:Intrusive	Sill:Diabase	Diabase	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+BD5	Beaver Bay Complex	Ma	0.0	47.2	268.6	Igneous:Intrusive	Sill:Diabase	Diabase	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+BD6	Beaver Bay Complex	Ma	0.0	47.2	268.6	Igneous:Intrusive	Sill:Diabase	Diabase	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+BD7	Beaver Bay Complex	Ma	0.0	47.2	268.6	Igneous:Intrusive	Sill:Diabase	Diabase	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX1	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX3	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX6	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX8	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX10	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX11	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX12	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX13	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX15	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX16	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX22	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX5	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX7	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+AX9	Beaver Bay Complex	Ma	0.0	47.2	268.7	Igneous:Intrusive	Sill:Diabase	Anorthosite	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+BD8	Beaver Bay Complex	Ma	0.0	47.2	268.6	Igneous:Intrusive	Sill:Diabase	Diabase	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
+BD9	Beaver Bay Complex	Ma	0.0	47.2	268.6	Igneous:Intrusive	Sill:Diabase	Diabase	Yiming Zhang	This study	FS-FD:IE-TT:SO-SM	g	i
