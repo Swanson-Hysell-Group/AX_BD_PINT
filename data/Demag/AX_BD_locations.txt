@@ -1,3 +1,0 @@
-tab	locations
-location	lat_n	lat_s	lon_e	lon_w	analysts	citations
-Northern Minnesota	47.2	47.2	-91.4	-91.4		This study

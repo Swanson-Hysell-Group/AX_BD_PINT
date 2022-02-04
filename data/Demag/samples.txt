@@ -1,149 +1,584 @@
-tab	samples
-analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citations	dip	geologic_classes	geologic_types	height	lithologies	method_codes	sample	site
-	-18.9	0.0	0.0	90.0	This study	-93.0			0		SO-CMD-NORTH	AX1-1	AX1
-	12.1	0.0	0.0	90.0	This study	-82.0			0		SO-CMD-NORTH	AX1-2	AX1
-	8.1	0.0	0.0	90.0	This study	-84.0			0		SO-CMD-NORTH	AX1-3	AX1
-	7.8	0.0	0.0	90.0	This study	-77.0			0		SO-CMD-NORTH	AX1-4	AX1
-	7.5	0.0	0.0	90.0	This study	-81.0			0		SO-CMD-NORTH	AX1-5	AX1
-	-9.5	0.0	0.0	90.0	This study	-90.0			0		SO-CMD-NORTH	AX1-6	AX1
-	10.7	0.0	0.0	90.0	This study	-86.0			0		SO-CMD-NORTH	AX1-7	AX1
-	34.7	0.0	0.0	90.0	This study	-87.0			0		SO-CMD-NORTH	AX1-8	AX1
-	-9.3	0.0	0.0	90.0	This study	-63.0			0		SO-CMD-NORTH	AX3-1	AX3
-	-8.3	0.0	0.0	90.0	This study	-71.0			0		SO-CMD-NORTH	AX3-2	AX3
-	-20.3	0.0	0.0	90.0	This study	-62.0			0		SO-CMD-NORTH	AX3-3	AX3
-	-19.3	0.0	0.0	90.0	This study	-83.0			0		SO-CMD-NORTH	AX3-4	AX3
-	-20.3	0.0	0.0	90.0	This study	-53.0			0		SO-CMD-NORTH	AX3-5	AX3
-	-17.3	0.0	0.0	90.0	This study	-75.0			0		SO-CMD-NORTH	AX3-6	AX3
-	-18.3	0.0	0.0	90.0	This study	-81.0			0		SO-CMD-NORTH	AX3-7	AX3
-	-15.3	0.0	0.0	90.0	This study	-65.0			0		SO-CMD-NORTH	AX3-8	AX3
-	-29.3	0.0	0.0	90.0	This study	-67.0			0		SO-CMD-NORTH	AX3-9	AX3
-	-24.3	0.0	0.0	90.0	This study	-73.0			0		SO-CMD-NORTH	AX3-10	AX3
-	64.2	0.0	0.0	90.0	This study	-68.0			0		SO-CMD-NORTH	AX5-1	AX5
-	66.9	0.0	0.0	90.0	This study	-64.0			0		SO-CMD-NORTH	AX5-3	AX5
-	57.0	0.0	0.0	90.0	This study	-44.0			0		SO-CMD-NORTH	AX6-1	AX6
-	75.3	0.0	0.0	90.0	This study	-47.0			0		SO-CMD-NORTH	AX6-2	AX6
-	78.4	0.0	0.0	90.0	This study	-64.0			0		SO-CMD-NORTH	AX6-3	AX6
-	53.6	0.0	0.0	90.0	This study	-55.0			0		SO-CMD-NORTH	AX7-1	AX7
-	46.2	0.0	0.0	90.0	This study	-51.0			0		SO-CMD-NORTH	AX7-2	AX7
-	11.9	0.0	0.0	90.0	This study	-19.0			0		SO-CMD-NORTH	AX8-1	AX8
-	0.1	0.0	0.0	90.0	This study	-17.0			0		SO-CMD-NORTH	AX8-2	AX8
-	2.1	0.0	0.0	90.0	This study	-24.0			0		SO-CMD-NORTH	AX8-3	AX8
-	-24.3	0.0	0.0	90.0	This study	-29.0			0		SO-CMD-NORTH	AX9-1	AX9
-	29.8	0.0	0.0	90.0	This study	-12.0			0		SO-CMD-NORTH	AX9-2	AX9
-	2.2	0.0	0.0	90.0	This study	-35.0			0		SO-CMD-NORTH	AX10-1	AX10
-	3.4	0.0	0.0	90.0	This study	-35.0			0		SO-CMD-NORTH	AX10-2	AX10
-	5.4	0.0	0.0	90.0	This study	-37.0			0		SO-CMD-NORTH	AX10-3	AX10
-	-84.3	0.0	0.0	90.0	This study	-68.0			0		SO-CMD-NORTH	AX11-1	AX11
-	-64.3	0.0	0.0	90.0	This study	-86.0			0		SO-CMD-NORTH	AX11-2	AX11
-	-68.5	0.0	0.0	90.0	This study	-89.0			0		SO-CMD-NORTH	AX11-4	AX11
-	-70.5	0.0	0.0	90.0	This study	-81.0			0		SO-CMD-NORTH	AX11-5	AX11
-	-73.6	0.0	0.0	90.0	This study	-83.0			0		SO-CMD-NORTH	AX11-6	AX11
-	-73.2	0.0	0.0	90.0	This study	-80.0			0		SO-CMD-NORTH	AX11-7	AX11
-	-68.2	0.0	0.0	90.0	This study	-86.0			0		SO-CMD-NORTH	AX11-8	AX11
-	-78.8	0.0	0.0	90.0	This study	-81.0			0		SO-CMD-NORTH	AX11-9	AX11
-	-28.9	0.0	0.0	90.0	This study	-88.0			0		SO-CMD-NORTH	AX12-1	AX12
-	-37.9	0.0	0.0	90.0	This study	-72.0			0		SO-CMD-NORTH	AX12-2	AX12
-	-43.9	0.0	0.0	90.0	This study	-96.0			0		SO-CMD-NORTH	AX12-4	AX12
-	-43.9	0.0	0.0	90.0	This study	-94.0			0		SO-CMD-NORTH	AX12-5	AX12
-	-53.9	0.0	0.0	90.0	This study	-66.0			0		SO-CMD-NORTH	AX12-6	AX12
-	-28.9	0.0	0.0	90.0	This study	-92.0			0		SO-CMD-NORTH	AX12-7	AX12
-	146.0	0.0	0.0	90.0	This study	-78.0			0		SO-CMD-NORTH	AX13-1	AX13
-	153.0	0.0	0.0	90.0	This study	-91.0			0		SO-CMD-NORTH	AX13-2	AX13
-	143.0	0.0	0.0	90.0	This study	-80.0			0		SO-CMD-NORTH	AX13-3	AX13
-	151.0	0.0	0.0	90.0	This study	-98.0			0		SO-CMD-NORTH	AX13-4	AX13
-	146.0	0.0	0.0	90.0	This study	-82.0			0		SO-CMD-NORTH	AX13-5	AX13
-	151.0	0.0	0.0	90.0	This study	-92.0			0		SO-CMD-NORTH	AX13-6	AX13
-	153.0	0.0	0.0	90.0	This study	-98.0			0		SO-CMD-NORTH	AX13-7	AX13
-	124.0	0.0	0.0	90.0	This study	-62.0			0		SO-CMD-NORTH	AX13-8	AX13
-	133.0	0.0	0.0	90.0	This study	-90.0			0		SO-CMD-NORTH	AX13-9	AX13
-	-56.0	0.0	0.0	90.0	This study	-85.0			0		SO-CMD-NORTH	AX15-1	AX15
-	-56.1	0.0	0.0	90.0	This study	-86.0			0		SO-CMD-NORTH	AX15-2	AX15
-	-58.6	0.0	0.0	90.0	This study	-78.0			0		SO-CMD-NORTH	AX15-3	AX15
-	-55.7	0.0	0.0	90.0	This study	-73.0			0		SO-CMD-NORTH	AX15-4	AX15
-	-71.4	0.0	0.0	90.0	This study	-92.0			0		SO-CMD-NORTH	AX15-5	AX15
-	-55.5	0.0	0.0	90.0	This study	-84.0			0		SO-CMD-NORTH	AX15-6	AX15
-	-54.7	0.0	0.0	90.0	This study	-88.0			0		SO-CMD-NORTH	AX15-7	AX15
-	-53.8	0.0	0.0	90.0	This study	-85.0			0		SO-CMD-NORTH	AX15-8	AX15
-	-34.4	0.0	0.0	90.0	This study	-67.0			0		SO-CMD-NORTH	AX16-1	AX16
-	-42.6	0.0	0.0	90.0	This study	-60.0			0		SO-CMD-NORTH	AX16-2	AX16
-	-27.9	0.0	0.0	90.0	This study	-60.0			0		SO-CMD-NORTH	AX16-3	AX16
-	-28.9	0.0	0.0	90.0	This study	-63.0			0		SO-CMD-NORTH	AX16-4	AX16
-	-18.9	0.0	0.0	90.0	This study	-60.0			0		SO-CMD-NORTH	AX16-5	AX16
-	-32.9	0.0	0.0	90.0	This study	-51.0			0		SO-CMD-NORTH	AX16-6	AX16
-	-23.9	0.0	0.0	90.0	This study	-51.0			0		SO-CMD-NORTH	AX16-7	AX16
-	-28.9	0.0	0.0	90.0	This study	-60.0			0		SO-CMD-NORTH	AX16-8	AX16
-	11.2	0.0	0.0	90.0	This study	-49.0			0		SO-CMD-NORTH	AX22-1	AX22
-	-35.7	0.0	0.0	90.0	This study	-13.0			0		SO-CMD-NORTH	AX22-2	AX22
-	55.2	0.0	0.0	90.0	This study	-7.0			0		SO-CMD-NORTH	AX22-3	AX22
-	42.2	0.0	0.0	90.0	This study	-13.0			0		SO-CMD-NORTH	AX22-4	AX22
-	-18.8	0.0	0.0	90.0	This study	-40.0			0		SO-CMD-NORTH	AX22-5	AX22
-	17.2	0.0	0.0	90.0	This study	-46.0			0		SO-CMD-NORTH	AX22-6	AX22
-	-70.8	0.0	0.0	90.0	This study	-5.0			0		SO-CMD-NORTH	AX22-7	AX22
-	-36.8	0.0	0.0	90.0	This study	-41.0			0		SO-CMD-NORTH	AX22-8	AX22
-	-3.8	0.0	0.0	90.0	This study	-47.0			0		SO-CMD-NORTH	AX22-9	AX22
-	-6.8	0.0	0.0	90.0	This study	-68.0			0		SO-CMD-NORTH	AX22-10	AX22
-	-1.8	0.0	0.0	90.0	This study	-25.0			0		SO-CMD-NORTH	BD1-1	BD1
-	-8.0	0.0	0.0	90.0	This study	-47.0			0		SO-CMD-NORTH	BD1-2	BD1
-	-31.3	0.0	0.0	90.0	This study	-49.0			0		SO-CMD-NORTH	BD1-3	BD1
-	-47.7	0.0	0.0	90.0	This study	-52.0			0		SO-CMD-NORTH	BD1-4	BD1
-	-44.8	0.0	0.0	90.0	This study	-55.0			0		SO-CMD-NORTH	BD1-5	BD1
-	-89.8	0.0	0.0	90.0	This study	-78.0			0		SO-CMD-NORTH	BD1-6	BD1
-	263.2	0.0	0.0	90.0	This study	-75.0			0		SO-CMD-NORTH	BD1-7	BD1
-	13.2	0.0	0.0	90.0	This study	-60.0			0		SO-CMD-NORTH	BD1-8	BD1
-	-10.8	0.0	0.0	90.0	This study	-16.0			0		SO-CMD-NORTH	BD1-9	BD1
-	191.2	0.0	0.0	90.0	This study	-55.0			0		SO-CMD-NORTH	BD1-10	BD1
-	197.2	0.0	0.0	90.0	This study	-52.0			0		SO-CMD-NORTH	BD1-11	BD1
-	224.2	0.0	0.0	90.0	This study	-56.0			0		SO-CMD-NORTH	BD1-12	BD1
-	228.2	0.0	0.0	90.0	This study	-60.0			0		SO-CMD-NORTH	BD1-13	BD1
-	228.2	0.0	0.0	90.0	This study	-60.0			0		SO-CMD-NORTH	BD1-14	BD1
-	238.2	0.0	0.0	90.0	This study	-58.0			0		SO-CMD-NORTH	BD1-15	BD1
-	-40.3	0.0	0.0	90.0	This study	-62.0			0		SO-CMD-NORTH	BD2-1	BD2
-	-4.3	0.0	0.0	90.0	This study	-71.0			0		SO-CMD-NORTH	BD2-2	BD2
-	-0.3	0.0	0.0	90.0	This study	-81.0			0		SO-CMD-NORTH	BD2-3	BD2
-	-25.3	0.0	0.0	90.0	This study	-70.0			0		SO-CMD-NORTH	BD2-4	BD2
-	-23.3	0.0	0.0	90.0	This study	-70.0			0		SO-CMD-NORTH	BD2-5	BD2
-	-17.3	0.0	0.0	90.0	This study	-70.0			0		SO-CMD-NORTH	BD2-6	BD2
-	-14.3	0.0	0.0	90.0	This study	-71.0			0		SO-CMD-NORTH	BD2-7	BD2
-	-15.3	0.0	0.0	90.0	This study	-71.0			0		SO-CMD-NORTH	BD2-8	BD2
-	-57.5	0.0	0.0	90.0	This study	-63.0			0		SO-CMD-NORTH	BD5-1	BD5
-	-51.6	0.0	0.0	90.0	This study	-51.0			0		SO-CMD-NORTH	BD5-2	BD5
-	-65.6	0.0	0.0	90.0	This study	-57.0			0		SO-CMD-NORTH	BD5-3	BD5
-	-66.1	0.0	0.0	90.0	This study	-59.0			0		SO-CMD-NORTH	BD5-4	BD5
-	-74.7	0.0	0.0	90.0	This study	-84.0			0		SO-CMD-NORTH	BD5-5	BD5
-	-69.8	0.0	0.0	90.0	This study	-59.0			0		SO-CMD-NORTH	BD5-6	BD5
-	-67.3	0.0	0.0	90.0	This study	-60.0			0		SO-CMD-NORTH	BD5-7	BD5
-	-86.5	0.0	0.0	90.0	This study	-76.0			0		SO-CMD-NORTH	BD5-8	BD5
-	-46.9	0.0	0.0	90.0	This study	-82.0			0		SO-CMD-NORTH	BD6-1	BD6
-	-42.9	0.0	0.0	90.0	This study	-87.0			0		SO-CMD-NORTH	BD6-2	BD6
-	-47.9	0.0	0.0	90.0	This study	-91.0			0		SO-CMD-NORTH	BD6-3	BD6
-	-44.9	0.0	0.0	90.0	This study	-87.0			0		SO-CMD-NORTH	BD6-4	BD6
-	-35.9	0.0	0.0	90.0	This study	-68.0			0		SO-CMD-NORTH	BD6-5	BD6
-	-43.9	0.0	0.0	90.0	This study	-62.0			0		SO-CMD-NORTH	BD6-6	BD6
-	264.1	0.0	0.0	90.0	This study	-50.0			0		SO-CMD-NORTH	BD6-7	BD6
-	255.1	0.0	0.0	90.0	This study	-46.0			0		SO-CMD-NORTH	BD6-8	BD6
-	255.1	0.0	0.0	90.0	This study	-43.0			0		SO-CMD-NORTH	BD6-9	BD6
-	-60.9	0.0	0.0	90.0	This study	-87.0			0		SO-CMD-NORTH	BD7-1	BD7
-	-58.9	0.0	0.0	90.0	This study	-89.0			0		SO-CMD-NORTH	BD7-2	BD7
-	-68.9	0.0	0.0	90.0	This study	-88.0			0		SO-CMD-NORTH	BD7-3	BD7
-	-65.9	0.0	0.0	90.0	This study	-90.0			0		SO-CMD-NORTH	BD7-4	BD7
-	-64.9	0.0	0.0	90.0	This study	-90.0			0		SO-CMD-NORTH	BD7-5	BD7
-	-64.9	0.0	0.0	90.0	This study	-90.0			0		SO-CMD-NORTH	BD7-6	BD7
-	-71.2	0.0	0.0	90.0	This study	-67.0			0		SO-CMD-NORTH	BD7-7	BD7
-	-30.4	0.0	0.0	90.0	This study	-56.0			0		SO-CMD-NORTH	BD8-1	BD8
-	-32.9	0.0	0.0	90.0	This study	-61.0			0		SO-CMD-NORTH	BD8-2	BD8
-	-50.3	0.0	0.0	90.0	This study	-63.0			0		SO-CMD-NORTH	BD8-3	BD8
-	-41.1	0.0	0.0	90.0	This study	-19.0			0		SO-CMD-NORTH	BD8-4	BD8
-	-44.4	0.0	0.0	90.0	This study	-38.0			0		SO-CMD-NORTH	BD8-5	BD8
-	-56.1	0.0	0.0	90.0	This study	-66.0			0		SO-CMD-NORTH	BD8-6	BD8
-	-48.8	0.0	0.0	90.0	This study	-58.0			0		SO-CMD-NORTH	BD8-7	BD8
-	-52.8	0.0	0.0	90.0	This study	-55.0			0		SO-CMD-NORTH	BD8-8	BD8
-	-52.7	0.0	0.0	90.0	This study	-48.0			0		SO-CMD-NORTH	BD8-9	BD8
-	-52.0	0.0	0.0	90.0	This study	-33.0			0		SO-CMD-NORTH	BD8-10	BD8
-	13.7	0.0	0.0	90.0	This study	-46.0			0		SO-CMD-NORTH	BD9-1	BD9
-	20.6	0.0	0.0	90.0	This study	-41.0			0		SO-CMD-NORTH	BD9-2	BD9
-	5.6	0.0	0.0	90.0	This study	-37.0			0		SO-CMD-NORTH	BD9-3	BD9
-	-8.5	0.0	0.0	90.0	This study	-46.0			0		SO-CMD-NORTH	BD9-4	BD9
-	-55.9	0.0	0.0	90.0	This study	-72.0			0		SO-CMD-NORTH	BD9-5	BD9
-	-69.5	0.0	0.0	90.0	This study	-72.0			0		SO-CMD-NORTH	BD9-6	BD9
-	-75.2	0.0	0.0	90.0	This study	-70.0			0		SO-CMD-NORTH	BD9-7	BD9
-	-78.2	0.0	0.0	90.0	This study	-51.0			0		SO-CMD-NORTH	BD9-8	BD9
+tab 	samples
+analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citations	dip	geologic_classes	geologic_types	height	lat	lithologies	lon	method_codes	result_quality	result_type	sample	site
+Yiming Zhang	341.1	0	0	90	This study	-93	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX1-1	AX1
+Yiming Zhang	12.1	0	0	90	This study	-82	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX1-2	AX1
+Yiming Zhang	8.1	0	0	90	This study	-84	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX1-3	AX1
+Yiming Zhang	7.8	0	0	90	This study	-77	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX1-4	AX1
+Yiming Zhang	7.5	0	0	90	This study	-81	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX1-5	AX1
+Yiming Zhang	350.5	0	0	90	This study	-90	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX1-6	AX1
+Yiming Zhang	10.7	0	0	90	This study	-86	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX1-7	AX1
+Yiming Zhang	34.7	0	0	90	This study	-87	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX1-8	AX1
+Yiming Zhang	228.2	0	0	90	This study	-64	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX2-1	AX2
+Yiming Zhang	228.2	0	0	90	This study	-64	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX2-2	AX2
+Yiming Zhang	202.2	0	0	90	This study	-43	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX2-3	AX2
+Yiming Zhang	278.2	0	0	90	This study	-105	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX2-4	AX2
+Yiming Zhang	295.2	0	0	90	This study	-102	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX2-5	AX2
+Yiming Zhang	292.2	0	0	90	This study	-91	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX2-6	AX2
+Yiming Zhang	208.2	0	0	90	This study	-39	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX2-7	AX2
+Yiming Zhang	212.2	0	0	90	This study	-35	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX2-8	AX2
+Yiming Zhang	227.2	0	0	90	This study	-35	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX2-9	AX2
+Yiming Zhang	350.7	0	0	90	This study	-63	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX3-1	AX3
+Yiming Zhang	351.7	0	0	90	This study	-71	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX3-2	AX3
+Yiming Zhang	339.7	0	0	90	This study	-62	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX3-3	AX3
+Yiming Zhang	340.7	0	0	90	This study	-83	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX3-4	AX3
+Yiming Zhang	339.7	0	0	90	This study	-53	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX3-5	AX3
+Yiming Zhang	342.7	0	0	90	This study	-75	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX3-6	AX3
+Yiming Zhang	341.7	0	0	90	This study	-81	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX3-7	AX3
+Yiming Zhang	344.7	0	0	90	This study	-65	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX3-8	AX3
+Yiming Zhang	330.7	0	0	90	This study	-67	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX3-9	AX3
+Yiming Zhang	335.7	0	0	90	This study	-73	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX3-10	AX3
+Yiming Zhang	316.6	0	0	90	This study	-70	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX4-1	AX4
+Yiming Zhang	316.6	0	0	90	This study	-65	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX4-2	AX4
+Yiming Zhang	310.2	0	0	90	This study	-66	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX4-3	AX4
+Yiming Zhang	306.2	0	0	90	This study	-79	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX4-4	AX4
+Yiming Zhang	319.9	0	0	90	This study	-74	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX4-5	AX4
+Yiming Zhang	319.9	0	0	90	This study	-94	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX4-6	AX4
+Yiming Zhang	317.1	0	0	90	This study	-95	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX4-7	AX4
+Yiming Zhang	306.1	0	0	90	This study	-87	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX4-8	AX4
+Yiming Zhang	64.2	0	0	90	This study	-68	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX5-1	AX5
+Yiming Zhang	66.9	0	0	90	This study	-64	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX5-3	AX5
+Yiming Zhang	57	0	0	90	This study	-44	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX6-1	AX6
+Yiming Zhang	75.3	0	0	90	This study	-47	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX6-2	AX6
+Yiming Zhang	78.4	0	0	90	This study	-64	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX6-3	AX6
+Yiming Zhang	53.6	0	0	90	This study	-55	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX7-1	AX7
+Yiming Zhang	46.2	0	0	90	This study	-51	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX7-2	AX7
+Yiming Zhang	11.9	0	0	90	This study	-19	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX8-1	AX8
+Yiming Zhang	0.1	0	0	90	This study	-17	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX8-2	AX8
+Yiming Zhang	2.1	0	0	90	This study	-24	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX8-3	AX8
+Yiming Zhang	335.7	0	0	90	This study	-29	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX9-1	AX9
+Yiming Zhang	29.8	0	0	90	This study	-12	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX9-2	AX9
+Yiming Zhang	2.2	0	0	90	This study	-35	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX10-1	AX10
+Yiming Zhang	3.4	0	0	90	This study	-35	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX10-2	AX10
+Yiming Zhang	5.4	0	0	90	This study	-37	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX10-3	AX10
+Yiming Zhang	275.7	0	0	90	This study	-68	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX11-1	AX11
+Yiming Zhang	295.7	0	0	90	This study	-86	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX11-2	AX11
+Yiming Zhang	291.5	0	0	90	This study	-89	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX11-4	AX11
+Yiming Zhang	289.5	0	0	90	This study	-81	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX11-5	AX11
+Yiming Zhang	286.4	0	0	90	This study	-83	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX11-6	AX11
+Yiming Zhang	286.8	0	0	90	This study	-80	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX11-7	AX11
+Yiming Zhang	291.8	0	0	90	This study	-86	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX11-8	AX11
+Yiming Zhang	281.2	0	0	90	This study	-81	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX11-9	AX11
+Yiming Zhang	331.1	0	0	90	This study	-88	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX12-1	AX12
+Yiming Zhang	322.1	0	0	90	This study	-72	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX12-2	AX12
+Yiming Zhang	316.1	0	0	90	This study	-96	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX12-4	AX12
+Yiming Zhang	316.1	0	0	90	This study	-94	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX12-5	AX12
+Yiming Zhang	306.1	0	0	90	This study	-66	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX12-6	AX12
+Yiming Zhang	331.1	0	0	90	This study	-92	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX12-7	AX12
+Yiming Zhang	146	0	0	90	This study	-78	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX13-1	AX13
+Yiming Zhang	153	0	0	90	This study	-91	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX13-2	AX13
+Yiming Zhang	143	0	0	90	This study	-80	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX13-3	AX13
+Yiming Zhang	151	0	0	90	This study	-98	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX13-4	AX13
+Yiming Zhang	146	0	0	90	This study	-82	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX13-5	AX13
+Yiming Zhang	151	0	0	90	This study	-92	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX13-6	AX13
+Yiming Zhang	153	0	0	90	This study	-98	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX13-7	AX13
+Yiming Zhang	124	0	0	90	This study	-62	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX13-8	AX13
+Yiming Zhang	133	0	0	90	This study	-90	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX13-9	AX13
+Yiming Zhang	325.7	0	0	90	This study	-85	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX14-1	AX14
+Yiming Zhang	320.5	0	0	90	This study	-103	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX14-2	AX14
+Yiming Zhang	330.2	0	0	90	This study	-76	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX14-3	AX14
+Yiming Zhang	331.2	0	0	90	This study	-84	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX14-4	AX14
+Yiming Zhang	11	0	0	90	This study	-104	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX14-5	AX14
+Yiming Zhang	14	0	0	90	This study	-105	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX14-6	AX14
+Yiming Zhang	12.8	0	0	90	This study	-105	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX14-7	AX14
+Yiming Zhang	10.1	0	0	90	This study	-124	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX14-8	AX14
+Yiming Zhang	304	0	0	90	This study	-85	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX15-1	AX15
+Yiming Zhang	303.9	0	0	90	This study	-86	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX15-2	AX15
+Yiming Zhang	301.4	0	0	90	This study	-78	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX15-3	AX15
+Yiming Zhang	304.3	0	0	90	This study	-73	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX15-4	AX15
+Yiming Zhang	288.6	0	0	90	This study	-92	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX15-5	AX15
+Yiming Zhang	304.5	0	0	90	This study	-84	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX15-6	AX15
+Yiming Zhang	305.3	0	0	90	This study	-88	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX15-7	AX15
+Yiming Zhang	306.2	0	0	90	This study	-85	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX15-8	AX15
+Yiming Zhang	325.6	0	0	90	This study	-67	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX16-1	AX16
+Yiming Zhang	317.4	0	0	90	This study	-60	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX16-2	AX16
+Yiming Zhang	332.1	0	0	90	This study	-60	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX16-3	AX16
+Yiming Zhang	331.1	0	0	90	This study	-63	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX16-4	AX16
+Yiming Zhang	341.1	0	0	90	This study	-60	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX16-5	AX16
+Yiming Zhang	327.1	0	0	90	This study	-51	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX16-6	AX16
+Yiming Zhang	336.1	0	0	90	This study	-51	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX16-7	AX16
+Yiming Zhang	331.1	0	0	90	This study	-60	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX16-8	AX16
+Yiming Zhang	283.6	0	0	90	This study	-59	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX17-1	AX17
+Yiming Zhang	293.1	0	0	90	This study	-54	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX17-2	AX17
+Yiming Zhang	292.9	0	0	90	This study	-58	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX17-3	AX17
+Yiming Zhang	335.2	0	0	90	This study	-72	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX17-4	AX17
+Yiming Zhang	337.7	0	0	90	This study	-71	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX17-5	AX17
+Yiming Zhang	325.5	0	0	90	This study	-65	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX17-6	AX17
+Yiming Zhang	328	0	0	90	This study	-65	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX17-7	AX17
+Yiming Zhang	332.5	0	0	90	This study	-68	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX17-8	AX17
+Yiming Zhang	280.1	0	0	90	This study	-71	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX18-1	AX18
+Yiming Zhang	276.1	0	0	90	This study	-63	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX18-2	AX18
+Yiming Zhang	280.1	0	0	90	This study	-59	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX18-3	AX18
+Yiming Zhang	291.1	0	0	90	This study	-34	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX18-4	AX18
+Yiming Zhang	269.1	0	0	90	This study	-29	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX18-5	AX18
+Yiming Zhang	305.1	0	0	90	This study	-30	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX18-6	AX18
+Yiming Zhang	282.1	0	0	90	This study	-46	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX18-7	AX18
+Yiming Zhang	270.1	0	0	90	This study	-51	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX18-8	AX18
+Yiming Zhang	275.1	0	0	90	This study	-71	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX18-9	AX18
+Yiming Zhang	299.1	0	0	90	This study	-56	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX19-1	AX19
+Yiming Zhang	301.1	0	0	90	This study	-49	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX19-2	AX19
+Yiming Zhang	300.1	0	0	90	This study	-48	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX19-3	AX19
+Yiming Zhang	301.1	0	0	90	This study	-47	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX19-4	AX19
+Yiming Zhang	298.1	0	0	90	This study	-42	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX19-5	AX19
+Yiming Zhang	298.1	0	0	90	This study	-45	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX19-6	AX19
+Yiming Zhang	298.1	0	0	90	This study	-42	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX19-7	AX19
+Yiming Zhang	295.1	0	0	90	This study	-43	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX19-8	AX19
+Yiming Zhang	335.1	0	0	90	This study	-84	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX20-1	AX20
+Yiming Zhang	340.1	0	0	90	This study	-89	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX20-2	AX20
+Yiming Zhang	341.1	0	0	90	This study	-81	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX20-3	AX20
+Yiming Zhang	337.7	0	0	90	This study	-91	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX20-4	AX20
+Yiming Zhang	348.5	0	0	90	This study	-80	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX20-5	AX20
+Yiming Zhang	263.1	0	0	90	This study	-52	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX21-1	AX21
+Yiming Zhang	264.1	0	0	90	This study	-56	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX21-2	AX21
+Yiming Zhang	260.1	0	0	90	This study	-60	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX21-3	AX21
+Yiming Zhang	250.1	0	0	90	This study	-65	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX21-4	AX21
+Yiming Zhang	255.1	0	0	90	This study	-57	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX21-5	AX21
+Yiming Zhang	257.1	0	0	90	This study	-44	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX21-6	AX21
+Yiming Zhang	248.1	0	0	90	This study	-50	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX21-7	AX21
+Yiming Zhang	252.1	0	0	90	This study	-61	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX21-8	AX21
+Yiming Zhang	11.2	0	0	90	This study	-49	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX22-1	AX22
+Yiming Zhang	324.3	0	0	90	This study	-13	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX22-2	AX22
+Yiming Zhang	55.2	0	0	90	This study	-7	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX22-3	AX22
+Yiming Zhang	42.2	0	0	90	This study	-13	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX22-4	AX22
+Yiming Zhang	341.2	0	0	90	This study	-40	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX22-5	AX22
+Yiming Zhang	17.2	0	0	90	This study	-46	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX22-6	AX22
+Yiming Zhang	289.2	0	0	90	This study	-5	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX22-7	AX22
+Yiming Zhang	323.2	0	0	90	This study	-41	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX22-8	AX22
+Yiming Zhang	356.2	0	0	90	This study	-47	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX22-9	AX22
+Yiming Zhang	353.2	0	0	90	This study	-68	Igneous:Intrusive	Not Specified	0		Anorthosite		SO-CMD-NORTH	g	i	AX22-10	AX22
+Yiming Zhang	358.2	0	0	90	This study	-25	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-1	BD1
+Yiming Zhang	352	0	0	90	This study	-47	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-2	BD1
+Yiming Zhang	328.7	0	0	90	This study	-49	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-3	BD1
+Yiming Zhang	312.3	0	0	90	This study	-52	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-4	BD1
+Yiming Zhang	315.2	0	0	90	This study	-55	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-5	BD1
+Yiming Zhang	270.2	0	0	90	This study	-78	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-6	BD1
+Yiming Zhang	263.2	0	0	90	This study	-75	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-7	BD1
+Yiming Zhang	13.2	0	0	90	This study	-60	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-8	BD1
+Yiming Zhang	349.2	0	0	90	This study	-16	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-9	BD1
+Yiming Zhang	191.2	0	0	90	This study	-55	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-10	BD1
+Yiming Zhang	197.2	0	0	90	This study	-52	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-11	BD1
+Yiming Zhang	224.2	0	0	90	This study	-56	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-12	BD1
+Yiming Zhang	228.2	0	0	90	This study	-60	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-13	BD1
+Yiming Zhang	228.2	0	0	90	This study	-60	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-14	BD1
+Yiming Zhang	238.2	0	0	90	This study	-58	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD1-15	BD1
+Yiming Zhang	319.7	0	0	90	This study	-62	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD2-1	BD2
+Yiming Zhang	355.7	0	0	90	This study	-71	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD2-2	BD2
+Yiming Zhang	359.7	0	0	90	This study	-81	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD2-3	BD2
+Yiming Zhang	334.7	0	0	90	This study	-70	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD2-4	BD2
+Yiming Zhang	336.7	0	0	90	This study	-70	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD2-5	BD2
+Yiming Zhang	342.7	0	0	90	This study	-70	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD2-6	BD2
+Yiming Zhang	345.7	0	0	90	This study	-71	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD2-7	BD2
+Yiming Zhang	344.7	0	0	90	This study	-71	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD2-8	BD2
+Yiming Zhang	323.8	0	0	90	This study	-70	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD3-1	BD3
+Yiming Zhang	322	0	0	90	This study	-62	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD3-2	BD3
+Yiming Zhang	317.6	0	0	90	This study	-76	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD3-3	BD3
+Yiming Zhang	318	0	0	90	This study	-70	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD3-4	BD3
+Yiming Zhang	320.8	0	0	90	This study	-61	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD3-5	BD3
+Yiming Zhang	311.5	0	0	90	This study	-70	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD3-6	BD3
+Yiming Zhang	299.3	0	0	90	This study	-63	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD3-7	BD3
+Yiming Zhang	292.7	0	0	90	This study	-54	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD3-8	BD3
+Yiming Zhang	338.1	0	0	90	This study	-39	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD4-1	BD4
+Yiming Zhang	354.1	0	0	90	This study	-44	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD4-2	BD4
+Yiming Zhang	336.1	0	0	90	This study	-41	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD4-3	BD4
+Yiming Zhang	336.1	0	0	90	This study	-52	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD4-4	BD4
+Yiming Zhang	318.3	0	0	90	This study	-67	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD4-5	BD4
+Yiming Zhang	320.9	0	0	90	This study	-86	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD4-6	BD4
+Yiming Zhang	323.1	0	0	90	This study	-80	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD4-7	BD4
+Yiming Zhang	325.7	0	0	90	This study	-74	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD4-8	BD4
+Yiming Zhang	302.5	0	0	90	This study	-63	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD5-1	BD5
+Yiming Zhang	308.4	0	0	90	This study	-51	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD5-2	BD5
+Yiming Zhang	294.4	0	0	90	This study	-57	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD5-3	BD5
+Yiming Zhang	293.9	0	0	90	This study	-59	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD5-4	BD5
+Yiming Zhang	285.3	0	0	90	This study	-84	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD5-5	BD5
+Yiming Zhang	290.2	0	0	90	This study	-59	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD5-6	BD5
+Yiming Zhang	292.7	0	0	90	This study	-60	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD5-7	BD5
+Yiming Zhang	273.5	0	0	90	This study	-76	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD5-8	BD5
+Yiming Zhang	313.1	0	0	90	This study	-82	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD6-1	BD6
+Yiming Zhang	317.1	0	0	90	This study	-87	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD6-2	BD6
+Yiming Zhang	312.1	0	0	90	This study	-91	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD6-3	BD6
+Yiming Zhang	315.1	0	0	90	This study	-87	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD6-4	BD6
+Yiming Zhang	324.1	0	0	90	This study	-68	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD6-5	BD6
+Yiming Zhang	316.1	0	0	90	This study	-62	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD6-6	BD6
+Yiming Zhang	264.1	0	0	90	This study	-50	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD6-7	BD6
+Yiming Zhang	255.1	0	0	90	This study	-46	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD6-8	BD6
+Yiming Zhang	255.1	0	0	90	This study	-43	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD6-9	BD6
+Yiming Zhang	299.1	0	0	90	This study	-87	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD7-1	BD7
+Yiming Zhang	301.1	0	0	90	This study	-89	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD7-2	BD7
+Yiming Zhang	291.1	0	0	90	This study	-88	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD7-3	BD7
+Yiming Zhang	294.1	0	0	90	This study	-90	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD7-4	BD7
+Yiming Zhang	295.1	0	0	90	This study	-90	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD7-5	BD7
+Yiming Zhang	295.1	0	0	90	This study	-90	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD7-6	BD7
+Yiming Zhang	288.8	0	0	90	This study	-67	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD7-7	BD7
+Yiming Zhang	329.6	0	0	90	This study	-56	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD8-1	BD8
+Yiming Zhang	327.1	0	0	90	This study	-61	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD8-2	BD8
+Yiming Zhang	309.7	0	0	90	This study	-63	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD8-3	BD8
+Yiming Zhang	318.9	0	0	90	This study	-19	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD8-4	BD8
+Yiming Zhang	315.6	0	0	90	This study	-38	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD8-5	BD8
+Yiming Zhang	303.9	0	0	90	This study	-66	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD8-6	BD8
+Yiming Zhang	311.2	0	0	90	This study	-58	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD8-7	BD8
+Yiming Zhang	307.2	0	0	90	This study	-55	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD8-8	BD8
+Yiming Zhang	307.3	0	0	90	This study	-48	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD8-9	BD8
+Yiming Zhang	308	0	0	90	This study	-33	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD8-10	BD8
+Yiming Zhang	13.7	0	0	90	This study	-46	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD9-1	BD9
+Yiming Zhang	20.6	0	0	90	This study	-41	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD9-2	BD9
+Yiming Zhang	5.6	0	0	90	This study	-37	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD9-3	BD9
+Yiming Zhang	351.5	0	0	90	This study	-46	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD9-4	BD9
+Yiming Zhang	304.1	0	0	90	This study	-72	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD9-5	BD9
+Yiming Zhang	290.5	0	0	90	This study	-72	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD9-6	BD9
+Yiming Zhang	284.8	0	0	90	This study	-70	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD9-7	BD9
+Yiming Zhang	281.8	0	0	90	This study	-51	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD9-8	BD9
+Yiming Zhang	4.2	0	0	90	This study	-37	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD10-1	BD10
+Yiming Zhang	10.2	0	0	90	This study	-46	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD10-2	BD10
+Yiming Zhang	27	0	0	90	This study	-52	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD10-3	BD10
+Yiming Zhang	2.2	0	0	90	This study	-70	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD10-4	BD10
+Yiming Zhang	322.8	0	0	90	This study	-46	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD10-5	BD10
+Yiming Zhang	300.4	0	0	90	This study	-12	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD10-6	BD10
+Yiming Zhang	356.1	0	0	90	This study	-79	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD10-7	BD10
+Yiming Zhang	0.3	0	0	90	This study	-80	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD10-8	BD10
+Yiming Zhang	18.2	0	0	90	This study	-70	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD10-9	BD10
+Yiming Zhang	27.2	0	0	90	This study	-72	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD10-10	BD10
+Yiming Zhang	310.3	0	0	90	This study	-84	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD11-1	BD11
+Yiming Zhang	310.3	0	0	90	This study	-74	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD11-2	BD11
+Yiming Zhang	349.3	0	0	90	This study	-78	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD11-3	BD11
+Yiming Zhang	349.3	0	0	90	This study	-72	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD11-4	BD11
+Yiming Zhang	295.3	0	0	90	This study	-75	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD11-5	BD11
+Yiming Zhang	295.3	0	0	90	This study	-78	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD11-6	BD11
+Yiming Zhang	296.3	0	0	90	This study	-72	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD11-7	BD11
+Yiming Zhang	292.3	0	0	90	This study	-66	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD11-8	BD11
+Yiming Zhang	154.4	0	0	90	This study	-25	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD12-1	BD12
+Yiming Zhang	150.4	0	0	90	This study	-29	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD12-2	BD12
+Yiming Zhang	144.4	0	0	90	This study	-24	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD12-3	BD12
+Yiming Zhang	135.4	0	0	90	This study	-24	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD12-4	BD12
+Yiming Zhang	122.4	0	0	90	This study	-26	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD12-5	BD12
+Yiming Zhang	63.4	0	0	90	This study	-19	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD12-6	BD12
+Yiming Zhang	127.6	0	0	90	This study	-81	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD12-7	BD12
+Yiming Zhang	137.4	0	0	90	This study	-66	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD12-8	BD12
+Yiming Zhang	279.8	0	0	90	This study	-83	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD13-1	BD13
+Yiming Zhang	277.9	0	0	90	This study	-78	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD13-2	BD13
+Yiming Zhang	279.5	0	0	90	This study	-81	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD13-3	BD13
+Yiming Zhang	280.3	0	0	90	This study	-90	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD13-4	BD13
+Yiming Zhang	275.5	0	0	90	This study	-92	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD13-5	BD13
+Yiming Zhang	283.7	0	0	90	This study	-82	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD13-6	BD13
+Yiming Zhang	272.9	0	0	90	This study	-89	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD13-7	BD13
+Yiming Zhang	285.8	0	0	90	This study	-79	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD13-8	BD13
+Yiming Zhang	268.7	0	0	90	This study	-67	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD14-1	BD14
+Yiming Zhang	236.7	0	0	90	This study	-72	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD14-2	BD14
+Yiming Zhang	333.7	0	0	90	This study	-78	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD14-3	BD14
+Yiming Zhang	307.7	0	0	90	This study	-85	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD14-4	BD14
+Yiming Zhang	252.2	0	0	90	This study	-47	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD14-5	BD14
+Yiming Zhang	251.5	0	0	90	This study	-50	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD14-6	BD14
+Yiming Zhang	270.8	0	0	90	This study	-65	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD14-7	BD14
+Yiming Zhang	220.7	0	0	90	This study	-52	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD14-8	BD14
+Yiming Zhang	249.7	0	0	90	This study	-81	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD15-1	BD15
+Yiming Zhang	242.7	0	0	90	This study	-85	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD15-2	BD15
+Yiming Zhang	244.7	0	0	90	This study	-63	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD15-3	BD15
+Yiming Zhang	206.7	0	0	90	This study	-72	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD15-4	BD15
+Yiming Zhang	204.7	0	0	90	This study	-72	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD15-5	BD15
+Yiming Zhang	206.7	0	0	90	This study	-70	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD15-6	BD15
+Yiming Zhang	204.7	0	0	90	This study	-70	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD15-7	BD15
+Yiming Zhang	205.7	0	0	90	This study	-73	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD15-8	BD15
+Yiming Zhang	350.8	0	0	90	This study	-78	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD16-1	BD16
+Yiming Zhang	6.8	0	0	90	This study	-78	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD16-2	BD16
+Yiming Zhang	193.8	0	0	90	This study	-14	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD16-3	BD16
+Yiming Zhang	180.8	0	0	90	This study	-11	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD16-4	BD16
+Yiming Zhang	321.8	0	0	90	This study	-20	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD16-5	BD16
+Yiming Zhang	328.8	0	0	90	This study	-20	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD16-6	BD16
+Yiming Zhang	135.8	0	0	90	This study	-68	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD16-7	BD16
+Yiming Zhang	137.8	0	0	90	This study	-68	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD16-8	BD16
+Yiming Zhang	108.2	0	0	90	This study	-74	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD17-1	BD17
+Yiming Zhang	106.2	0	0	90	This study	-74	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD17-2	BD17
+Yiming Zhang	125.2	0	0	90	This study	-66	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD17-3	BD17
+Yiming Zhang	123.2	0	0	90	This study	-67	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD17-4	BD17
+Yiming Zhang	126.2	0	0	90	This study	-60	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD17-5	BD17
+Yiming Zhang	126.2	0	0	90	This study	-61	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD17-6	BD17
+Yiming Zhang	116.2	0	0	90	This study	-60	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD17-7	BD17
+Yiming Zhang	118.2	0	0	90	This study	-64	Igneous:Intrusive	Diabase	0		Diabase		SO-CMD-NORTH	g	i	BD17-8	BD17
+Yiming Zhang	341.1	0	12.9	128.7	This study	-93	Intrusive:Igneous	Not Specified	0	47.2005	Anorthosite	268.6206	SO-CMD-NORTH	g	i	AX1-1	AX1
+Yiming Zhang	12.1	0	12.9	128.7	This study	-82	Intrusive:Igneous	Not Specified	0	47.2005	Anorthosite	268.6206	SO-CMD-NORTH	g	i	AX1-2	AX1
+Yiming Zhang	8.1	0	12.9	128.7	This study	-84	Intrusive:Igneous	Not Specified	0	47.2005	Anorthosite	268.6206	SO-CMD-NORTH	g	i	AX1-3	AX1
+Yiming Zhang	7.8	0	12.9	128.7	This study	-77	Intrusive:Igneous	Not Specified	0	47.2005	Anorthosite	268.6206	SO-CMD-NORTH	g	i	AX1-4	AX1
+Yiming Zhang	7.5	0	12.9	128.7	This study	-81	Intrusive:Igneous	Not Specified	0	47.2005	Anorthosite	268.6206	SO-CMD-NORTH	g	i	AX1-5	AX1
+Yiming Zhang	350.5	0	12.9	128.7	This study	-90	Intrusive:Igneous	Not Specified	0	47.2005	Anorthosite	268.6206	SO-CMD-NORTH	g	i	AX1-6	AX1
+Yiming Zhang	10.7	0	12.9	128.7	This study	-86	Intrusive:Igneous	Not Specified	0	47.2005	Anorthosite	268.6206	SO-CMD-NORTH	g	i	AX1-7	AX1
+Yiming Zhang	34.7	0	12.9	128.7	This study	-87	Intrusive:Igneous	Not Specified	0	47.2005	Anorthosite	268.6206	SO-CMD-NORTH	g	i	AX1-8	AX1
+Yiming Zhang	228.2	0	12.9	128.7	This study	-64	Intrusive:Igneous	Not Specified	0	47.1979	Anorthosite	268.6174	SO-CMD-NORTH	g	i	AX2-1	AX2
+Yiming Zhang	228.2	0	12.9	128.7	This study	-64	Intrusive:Igneous	Not Specified	0	47.1979	Anorthosite	268.6174	SO-CMD-NORTH	g	i	AX2-2	AX2
+Yiming Zhang	202.2	0	12.9	128.7	This study	-43	Intrusive:Igneous	Not Specified	0	47.1979	Anorthosite	268.6174	SO-CMD-NORTH	g	i	AX2-3	AX2
+Yiming Zhang	278.2	0	12.9	128.7	This study	-105	Intrusive:Igneous	Not Specified	0	47.1979	Anorthosite	268.6174	SO-CMD-NORTH	g	i	AX2-4	AX2
+Yiming Zhang	295.2	0	12.9	128.7	This study	-102	Intrusive:Igneous	Not Specified	0	47.1979	Anorthosite	268.6174	SO-CMD-NORTH	g	i	AX2-5	AX2
+Yiming Zhang	292.2	0	12.9	128.7	This study	-91	Intrusive:Igneous	Not Specified	0	47.1979	Anorthosite	268.6174	SO-CMD-NORTH	g	i	AX2-6	AX2
+Yiming Zhang	208.2	0	12.9	128.7	This study	-39	Intrusive:Igneous	Not Specified	0	47.1979	Anorthosite	268.6174	SO-CMD-NORTH	g	i	AX2-7	AX2
+Yiming Zhang	212.2	0	12.9	128.7	This study	-35	Intrusive:Igneous	Not Specified	0	47.1979	Anorthosite	268.6174	SO-CMD-NORTH	g	i	AX2-8	AX2
+Yiming Zhang	227.2	0	12.9	128.7	This study	-35	Intrusive:Igneous	Not Specified	0	47.1979	Anorthosite	268.6174	SO-CMD-NORTH	g	i	AX2-9	AX2
+Yiming Zhang	350.7	0	13.1	145.6	This study	-63	Intrusive:Igneous	Not Specified	0	47.5845	Anorthosite	269.1442	SO-CMD-NORTH	g	i	AX3-1	AX3
+Yiming Zhang	351.7	0	13.1	145.6	This study	-71	Intrusive:Igneous	Not Specified	0	47.5845	Anorthosite	269.1442	SO-CMD-NORTH	g	i	AX3-2	AX3
+Yiming Zhang	339.7	0	13.1	145.6	This study	-62	Intrusive:Igneous	Not Specified	0	47.5845	Anorthosite	269.1442	SO-CMD-NORTH	g	i	AX3-3	AX3
+Yiming Zhang	340.7	0	13.1	145.6	This study	-83	Intrusive:Igneous	Not Specified	0	47.5845	Anorthosite	269.1442	SO-CMD-NORTH	g	i	AX3-4	AX3
+Yiming Zhang	339.7	0	13.1	145.6	This study	-53	Intrusive:Igneous	Not Specified	0	47.5845	Anorthosite	269.1442	SO-CMD-NORTH	g	i	AX3-5	AX3
+Yiming Zhang	342.7	0	13.1	145.6	This study	-75	Intrusive:Igneous	Not Specified	0	47.5845	Anorthosite	269.1442	SO-CMD-NORTH	g	i	AX3-6	AX3
+Yiming Zhang	341.7	0	13.1	145.6	This study	-81	Intrusive:Igneous	Not Specified	0	47.5845	Anorthosite	269.1442	SO-CMD-NORTH	g	i	AX3-7	AX3
+Yiming Zhang	344.7	0	13.1	145.6	This study	-65	Intrusive:Igneous	Not Specified	0	47.5845	Anorthosite	269.1442	SO-CMD-NORTH	g	i	AX3-8	AX3
+Yiming Zhang	330.7	0	13.1	145.6	This study	-67	Intrusive:Igneous	Not Specified	0	47.5845	Anorthosite	269.1442	SO-CMD-NORTH	g	i	AX3-9	AX3
+Yiming Zhang	335.7	0	13.1	145.6	This study	-73	Intrusive:Igneous	Not Specified	0	47.5845	Anorthosite	269.1442	SO-CMD-NORTH	g	i	AX3-10	AX3
+Yiming Zhang	316.6	0	13.1	145.6	This study	-70	Intrusive:Igneous	Not Specified	0	47.5826	Anorthosite	269.1431	SO-CMD-NORTH	g	i	AX4-1	AX4
+Yiming Zhang	316.6	0	13.1	145.6	This study	-65	Intrusive:Igneous	Not Specified	0	47.5826	Anorthosite	269.1431	SO-CMD-NORTH	g	i	AX4-2	AX4
+Yiming Zhang	310.2	0	13.1	145.6	This study	-66	Intrusive:Igneous	Not Specified	0	47.5826	Anorthosite	269.1431	SO-CMD-NORTH	g	i	AX4-3	AX4
+Yiming Zhang	306.2	0	13.1	145.6	This study	-79	Intrusive:Igneous	Not Specified	0	47.5826	Anorthosite	269.1431	SO-CMD-NORTH	g	i	AX4-4	AX4
+Yiming Zhang	319.9	0	13.1	145.6	This study	-74	Intrusive:Igneous	Not Specified	0	47.5826	Anorthosite	269.1431	SO-CMD-NORTH	g	i	AX4-5	AX4
+Yiming Zhang	319.9	0	13.1	145.6	This study	-94	Intrusive:Igneous	Not Specified	0	47.5826	Anorthosite	269.1431	SO-CMD-NORTH	g	i	AX4-6	AX4
+Yiming Zhang	317.1	0	13.1	145.6	This study	-95	Intrusive:Igneous	Not Specified	0	47.5826	Anorthosite	269.1431	SO-CMD-NORTH	g	i	AX4-7	AX4
+Yiming Zhang	306.1	0	13.1	145.6	This study	-87	Intrusive:Igneous	Not Specified	0	47.5826	Anorthosite	269.1431	SO-CMD-NORTH	g	i	AX4-8	AX4
+Yiming Zhang	64.2	0	13.1	145.6	This study	-68	Intrusive:Igneous	Not Specified	0	47.5827	Anorthosite	269.1438	SO-CMD-NORTH	g	i	AX5-1	AX5
+Yiming Zhang	66.9	0	13.1	145.6	This study	-64	Intrusive:Igneous	Not Specified	0	47.5827	Anorthosite	269.1438	SO-CMD-NORTH	g	i	AX5-3	AX5
+Yiming Zhang	57	0	13.1	145.6	This study	-44	Intrusive:Igneous	Not Specified	0	47.5827	Anorthosite	269.1438	SO-CMD-NORTH	g	i	AX6-1	AX6
+Yiming Zhang	75.3	0	13.1	145.6	This study	-47	Intrusive:Igneous	Not Specified	0	47.5827	Anorthosite	269.1438	SO-CMD-NORTH	g	i	AX6-2	AX6
+Yiming Zhang	78.4	0	13.1	145.6	This study	-64	Intrusive:Igneous	Not Specified	0	47.5827	Anorthosite	269.1438	SO-CMD-NORTH	g	i	AX6-3	AX6
+Yiming Zhang	53.6	0	13.1	145.6	This study	-55	Intrusive:Igneous	Not Specified	0	47.5827	Anorthosite	269.1438	SO-CMD-NORTH	g	i	AX7-1	AX7
+Yiming Zhang	46.2	0	13.1	145.6	This study	-51	Intrusive:Igneous	Not Specified	0	47.5827	Anorthosite	269.1438	SO-CMD-NORTH	g	i	AX7-2	AX7
+Yiming Zhang	11.9	0	13.1	145.6	This study	-19	Intrusive:Igneous	Not Specified	0	47.5827	Anorthosite	269.1438	SO-CMD-NORTH	g	i	AX8-1	AX8
+Yiming Zhang	0.1	0	13.1	145.6	This study	-17	Intrusive:Igneous	Not Specified	0	47.5827	Anorthosite	269.1438	SO-CMD-NORTH	g	i	AX8-2	AX8
+Yiming Zhang	2.1	0	13.1	145.6	This study	-24	Intrusive:Igneous	Not Specified	0	47.5827	Anorthosite	269.1438	SO-CMD-NORTH	g	i	AX8-3	AX8
+Yiming Zhang	2.2	0	13.1	145.6	This study	-35	Intrusive:Igneous	Not Specified	0	47.5827	Anorthosite	269.1438	SO-CMD-NORTH	g	i	AX10-1	AX10
+Yiming Zhang	3.4	0	13.1	145.6	This study	-35	Intrusive:Igneous	Not Specified	0	47.5827	Anorthosite	269.1438	SO-CMD-NORTH	g	i	AX10-2	AX10
+Yiming Zhang	5.4	0	13.1	145.6	This study	-37	Intrusive:Igneous	Not Specified	0	47.5827	Anorthosite	269.1438	SO-CMD-NORTH	g	i	AX10-3	AX10
+Yiming Zhang	275.7	0	12.9	128.7	This study	-68	Intrusive:Igneous	Not Specified	0	47.37	Anorthosite	268.8335	SO-CMD-NORTH	g	i	AX11-1	AX11
+Yiming Zhang	295.7	0	12.9	128.7	This study	-86	Intrusive:Igneous	Not Specified	0	47.37	Anorthosite	268.8335	SO-CMD-NORTH	g	i	AX11-2	AX11
+Yiming Zhang	291.5	0	12.9	128.7	This study	-89	Intrusive:Igneous	Not Specified	0	47.37	Anorthosite	268.8335	SO-CMD-NORTH	g	i	AX11-4	AX11
+Yiming Zhang	289.5	0	12.9	128.7	This study	-81	Intrusive:Igneous	Not Specified	0	47.37	Anorthosite	268.8335	SO-CMD-NORTH	g	i	AX11-5	AX11
+Yiming Zhang	286.4	0	12.9	128.7	This study	-83	Intrusive:Igneous	Not Specified	0	47.37	Anorthosite	268.8335	SO-CMD-NORTH	g	i	AX11-6	AX11
+Yiming Zhang	286.8	0	12.9	128.7	This study	-80	Intrusive:Igneous	Not Specified	0	47.37	Anorthosite	268.8335	SO-CMD-NORTH	g	i	AX11-7	AX11
+Yiming Zhang	291.8	0	12.9	128.7	This study	-86	Intrusive:Igneous	Not Specified	0	47.37	Anorthosite	268.8335	SO-CMD-NORTH	g	i	AX11-8	AX11
+Yiming Zhang	281.2	0	12.9	128.7	This study	-81	Intrusive:Igneous	Not Specified	0	47.37	Anorthosite	268.8335	SO-CMD-NORTH	g	i	AX11-9	AX11
+Yiming Zhang	331.1	0	12.9	128.7	This study	-88	Intrusive:Igneous	Not Specified	0	47.2921	Anorthosite	268.7399	SO-CMD-NORTH	g	i	AX12-1	AX12
+Yiming Zhang	322.1	0	12.9	128.7	This study	-72	Intrusive:Igneous	Not Specified	0	47.2921	Anorthosite	268.7399	SO-CMD-NORTH	g	i	AX12-2	AX12
+Yiming Zhang	316.1	0	12.9	128.7	This study	-96	Intrusive:Igneous	Not Specified	0	47.2921	Anorthosite	268.7399	SO-CMD-NORTH	g	i	AX12-4	AX12
+Yiming Zhang	316.1	0	12.9	128.7	This study	-94	Intrusive:Igneous	Not Specified	0	47.2921	Anorthosite	268.7399	SO-CMD-NORTH	g	i	AX12-5	AX12
+Yiming Zhang	306.1	0	12.9	128.7	This study	-66	Intrusive:Igneous	Not Specified	0	47.2921	Anorthosite	268.7399	SO-CMD-NORTH	g	i	AX12-6	AX12
+Yiming Zhang	331.1	0	12.9	128.7	This study	-92	Intrusive:Igneous	Not Specified	0	47.2921	Anorthosite	268.7399	SO-CMD-NORTH	g	i	AX12-7	AX12
+Yiming Zhang	146	0	12.9	128.7	This study	-78	Intrusive:Igneous	Not Specified	0	47.3689	Anorthosite	268.833	SO-CMD-NORTH	g	i	AX13-1	AX13
+Yiming Zhang	153	0	12.9	128.7	This study	-91	Intrusive:Igneous	Not Specified	0	47.3689	Anorthosite	268.833	SO-CMD-NORTH	g	i	AX13-2	AX13
+Yiming Zhang	143	0	12.9	128.7	This study	-80	Intrusive:Igneous	Not Specified	0	47.3689	Anorthosite	268.833	SO-CMD-NORTH	g	i	AX13-3	AX13
+Yiming Zhang	151	0	12.9	128.7	This study	-98	Intrusive:Igneous	Not Specified	0	47.3689	Anorthosite	268.833	SO-CMD-NORTH	g	i	AX13-4	AX13
+Yiming Zhang	146	0	12.9	128.7	This study	-82	Intrusive:Igneous	Not Specified	0	47.3689	Anorthosite	268.833	SO-CMD-NORTH	g	i	AX13-5	AX13
+Yiming Zhang	151	0	12.9	128.7	This study	-92	Intrusive:Igneous	Not Specified	0	47.3689	Anorthosite	268.833	SO-CMD-NORTH	g	i	AX13-6	AX13
+Yiming Zhang	153	0	12.9	128.7	This study	-98	Intrusive:Igneous	Not Specified	0	47.3689	Anorthosite	268.833	SO-CMD-NORTH	g	i	AX13-7	AX13
+Yiming Zhang	124	0	12.9	128.7	This study	-62	Intrusive:Igneous	Not Specified	0	47.3689	Anorthosite	268.833	SO-CMD-NORTH	g	i	AX13-8	AX13
+Yiming Zhang	133	0	12.9	128.7	This study	-90	Intrusive:Igneous	Not Specified	0	47.3689	Anorthosite	268.833	SO-CMD-NORTH	g	i	AX13-9	AX13
+Yiming Zhang	325.7	0	12.9	128.7	This study	-85	Intrusive:Igneous	Not Specified	0	47.293	Anorthosite	268.7407	SO-CMD-NORTH	g	i	AX14-1	AX14
+Yiming Zhang	320.5	0	12.9	128.7	This study	-103	Intrusive:Igneous	Not Specified	0	47.293	Anorthosite	268.7407	SO-CMD-NORTH	g	i	AX14-2	AX14
+Yiming Zhang	330.2	0	12.9	128.7	This study	-76	Intrusive:Igneous	Not Specified	0	47.293	Anorthosite	268.7407	SO-CMD-NORTH	g	i	AX14-3	AX14
+Yiming Zhang	331.2	0	12.9	128.7	This study	-84	Intrusive:Igneous	Not Specified	0	47.293	Anorthosite	268.7407	SO-CMD-NORTH	g	i	AX14-4	AX14
+Yiming Zhang	11	0	12.9	128.7	This study	-104	Intrusive:Igneous	Not Specified	0	47.293	Anorthosite	268.7407	SO-CMD-NORTH	g	i	AX14-5	AX14
+Yiming Zhang	14	0	12.9	128.7	This study	-105	Intrusive:Igneous	Not Specified	0	47.293	Anorthosite	268.7407	SO-CMD-NORTH	g	i	AX14-6	AX14
+Yiming Zhang	12.8	0	12.9	128.7	This study	-105	Intrusive:Igneous	Not Specified	0	47.293	Anorthosite	268.7407	SO-CMD-NORTH	g	i	AX14-7	AX14
+Yiming Zhang	10.1	0	12.9	128.7	This study	-124	Intrusive:Igneous	Not Specified	0	47.293	Anorthosite	268.7407	SO-CMD-NORTH	g	i	AX14-8	AX14
+Yiming Zhang	304	0	12.9	128.7	This study	-85	Intrusive:Igneous	Not Specified	0	47.2887	Anorthosite	268.7362	SO-CMD-NORTH	g	i	AX15-1	AX15
+Yiming Zhang	303.9	0	12.9	128.7	This study	-86	Intrusive:Igneous	Not Specified	0	47.2887	Anorthosite	268.7362	SO-CMD-NORTH	g	i	AX15-2	AX15
+Yiming Zhang	301.4	0	12.9	128.7	This study	-78	Intrusive:Igneous	Not Specified	0	47.2887	Anorthosite	268.7362	SO-CMD-NORTH	g	i	AX15-3	AX15
+Yiming Zhang	304.3	0	12.9	128.7	This study	-73	Intrusive:Igneous	Not Specified	0	47.2887	Anorthosite	268.7362	SO-CMD-NORTH	g	i	AX15-4	AX15
+Yiming Zhang	288.6	0	12.9	128.7	This study	-92	Intrusive:Igneous	Not Specified	0	47.2887	Anorthosite	268.7362	SO-CMD-NORTH	g	i	AX15-5	AX15
+Yiming Zhang	304.5	0	12.9	128.7	This study	-84	Intrusive:Igneous	Not Specified	0	47.2887	Anorthosite	268.7362	SO-CMD-NORTH	g	i	AX15-6	AX15
+Yiming Zhang	305.3	0	12.9	128.7	This study	-88	Intrusive:Igneous	Not Specified	0	47.2887	Anorthosite	268.7362	SO-CMD-NORTH	g	i	AX15-7	AX15
+Yiming Zhang	306.2	0	12.9	128.7	This study	-85	Intrusive:Igneous	Not Specified	0	47.2887	Anorthosite	268.7362	SO-CMD-NORTH	g	i	AX15-8	AX15
+Yiming Zhang	325.6	0	12.9	128.7	This study	-67	Intrusive:Igneous	Not Specified	0	47.2889	Anorthosite	268.7363	SO-CMD-NORTH	g	i	AX16-1	AX16
+Yiming Zhang	317.4	0	12.9	128.7	This study	-60	Intrusive:Igneous	Not Specified	0	47.2889	Anorthosite	268.7363	SO-CMD-NORTH	g	i	AX16-2	AX16
+Yiming Zhang	332.1	0	12.9	128.7	This study	-60	Intrusive:Igneous	Not Specified	0	47.2889	Anorthosite	268.7363	SO-CMD-NORTH	g	i	AX16-3	AX16
+Yiming Zhang	331.1	0	12.9	128.7	This study	-63	Intrusive:Igneous	Not Specified	0	47.2889	Anorthosite	268.7363	SO-CMD-NORTH	g	i	AX16-4	AX16
+Yiming Zhang	341.1	0	12.9	128.7	This study	-60	Intrusive:Igneous	Not Specified	0	47.2889	Anorthosite	268.7363	SO-CMD-NORTH	g	i	AX16-5	AX16
+Yiming Zhang	327.1	0	12.9	128.7	This study	-51	Intrusive:Igneous	Not Specified	0	47.2889	Anorthosite	268.7363	SO-CMD-NORTH	g	i	AX16-6	AX16
+Yiming Zhang	336.1	0	12.9	128.7	This study	-51	Intrusive:Igneous	Not Specified	0	47.2889	Anorthosite	268.7363	SO-CMD-NORTH	g	i	AX16-7	AX16
+Yiming Zhang	331.1	0	12.9	128.7	This study	-60	Intrusive:Igneous	Not Specified	0	47.2889	Anorthosite	268.7363	SO-CMD-NORTH	g	i	AX16-8	AX16
+Yiming Zhang	283.6	0	12.9	128.7	This study	-59	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7366	SO-CMD-NORTH	g	i	AX17-1	AX17
+Yiming Zhang	293.1	0	12.9	128.7	This study	-54	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7366	SO-CMD-NORTH	g	i	AX17-2	AX17
+Yiming Zhang	292.9	0	12.9	128.7	This study	-58	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7366	SO-CMD-NORTH	g	i	AX17-3	AX17
+Yiming Zhang	335.2	0	12.9	128.7	This study	-72	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7366	SO-CMD-NORTH	g	i	AX17-4	AX17
+Yiming Zhang	337.7	0	12.9	128.7	This study	-71	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7366	SO-CMD-NORTH	g	i	AX17-5	AX17
+Yiming Zhang	325.5	0	12.9	128.7	This study	-65	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7366	SO-CMD-NORTH	g	i	AX17-6	AX17
+Yiming Zhang	328	0	12.9	128.7	This study	-65	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7366	SO-CMD-NORTH	g	i	AX17-7	AX17
+Yiming Zhang	332.5	0	12.9	128.7	This study	-68	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7366	SO-CMD-NORTH	g	i	AX17-8	AX17
+Yiming Zhang	280.1	0	12.9	128.7	This study	-71	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7368	SO-CMD-NORTH	g	i	AX18-1	AX18
+Yiming Zhang	276.1	0	12.9	128.7	This study	-63	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7368	SO-CMD-NORTH	g	i	AX18-2	AX18
+Yiming Zhang	280.1	0	12.9	128.7	This study	-59	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7368	SO-CMD-NORTH	g	i	AX18-3	AX18
+Yiming Zhang	291.1	0	12.9	128.7	This study	-34	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7368	SO-CMD-NORTH	g	i	AX18-4	AX18
+Yiming Zhang	269.1	0	12.9	128.7	This study	-29	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7368	SO-CMD-NORTH	g	i	AX18-5	AX18
+Yiming Zhang	305.1	0	12.9	128.7	This study	-30	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7368	SO-CMD-NORTH	g	i	AX18-6	AX18
+Yiming Zhang	282.1	0	12.9	128.7	This study	-46	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7368	SO-CMD-NORTH	g	i	AX18-7	AX18
+Yiming Zhang	270.1	0	12.9	128.7	This study	-51	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7368	SO-CMD-NORTH	g	i	AX18-8	AX18
+Yiming Zhang	275.1	0	12.9	128.7	This study	-71	Intrusive:Igneous	Not Specified	0	47.2891	Anorthosite	268.7368	SO-CMD-NORTH	g	i	AX18-9	AX18
+Yiming Zhang	299.1	0	12.9	128.7	This study	-56	Intrusive:Igneous	Not Specified	0	47.2632	Anorthosite	268.7067	SO-CMD-NORTH	g	i	AX19-1	AX19
+Yiming Zhang	301.1	0	12.9	128.7	This study	-49	Intrusive:Igneous	Not Specified	0	47.2632	Anorthosite	268.7067	SO-CMD-NORTH	g	i	AX19-2	AX19
+Yiming Zhang	300.1	0	12.9	128.7	This study	-48	Intrusive:Igneous	Not Specified	0	47.2632	Anorthosite	268.7067	SO-CMD-NORTH	g	i	AX19-3	AX19
+Yiming Zhang	301.1	0	12.9	128.7	This study	-47	Intrusive:Igneous	Not Specified	0	47.2632	Anorthosite	268.7067	SO-CMD-NORTH	g	i	AX19-4	AX19
+Yiming Zhang	298.1	0	12.9	128.7	This study	-42	Intrusive:Igneous	Not Specified	0	47.2632	Anorthosite	268.7067	SO-CMD-NORTH	g	i	AX19-5	AX19
+Yiming Zhang	298.1	0	12.9	128.7	This study	-45	Intrusive:Igneous	Not Specified	0	47.2632	Anorthosite	268.7067	SO-CMD-NORTH	g	i	AX19-6	AX19
+Yiming Zhang	298.1	0	12.9	128.7	This study	-42	Intrusive:Igneous	Not Specified	0	47.2632	Anorthosite	268.7067	SO-CMD-NORTH	g	i	AX19-7	AX19
+Yiming Zhang	295.1	0	12.9	128.7	This study	-43	Intrusive:Igneous	Not Specified	0	47.2632	Anorthosite	268.7067	SO-CMD-NORTH	g	i	AX19-8	AX19
+Yiming Zhang	335.1	0	12.9	128.7	This study	-84	Intrusive:Igneous	Not Specified	0	47.2666	Anorthosite	268.7116	SO-CMD-NORTH	g	i	AX20-1	AX20
+Yiming Zhang	340.1	0	12.9	128.7	This study	-89	Intrusive:Igneous	Not Specified	0	47.2666	Anorthosite	268.7116	SO-CMD-NORTH	g	i	AX20-2	AX20
+Yiming Zhang	341.1	0	12.9	128.7	This study	-81	Intrusive:Igneous	Not Specified	0	47.2666	Anorthosite	268.7116	SO-CMD-NORTH	g	i	AX20-3	AX20
+Yiming Zhang	337.7	0	12.9	128.7	This study	-91	Intrusive:Igneous	Not Specified	0	47.2666	Anorthosite	268.7116	SO-CMD-NORTH	g	i	AX20-4	AX20
+Yiming Zhang	348.5	0	12.9	128.7	This study	-80	Intrusive:Igneous	Not Specified	0	47.2666	Anorthosite	268.7116	SO-CMD-NORTH	g	i	AX20-5	AX20
+Yiming Zhang	263.1	0	12.9	128.7	This study	-52	Intrusive:Igneous	Not Specified	0	47.2685	Anorthosite	268.709	SO-CMD-NORTH	g	i	AX21-1	AX21
+Yiming Zhang	264.1	0	12.9	128.7	This study	-56	Intrusive:Igneous	Not Specified	0	47.2685	Anorthosite	268.709	SO-CMD-NORTH	g	i	AX21-2	AX21
+Yiming Zhang	260.1	0	12.9	128.7	This study	-60	Intrusive:Igneous	Not Specified	0	47.2685	Anorthosite	268.709	SO-CMD-NORTH	g	i	AX21-3	AX21
+Yiming Zhang	250.1	0	12.9	128.7	This study	-65	Intrusive:Igneous	Not Specified	0	47.2685	Anorthosite	268.709	SO-CMD-NORTH	g	i	AX21-4	AX21
+Yiming Zhang	255.1	0	12.9	128.7	This study	-57	Intrusive:Igneous	Not Specified	0	47.2685	Anorthosite	268.709	SO-CMD-NORTH	g	i	AX21-5	AX21
+Yiming Zhang	257.1	0	12.9	128.7	This study	-44	Intrusive:Igneous	Not Specified	0	47.2685	Anorthosite	268.709	SO-CMD-NORTH	g	i	AX21-6	AX21
+Yiming Zhang	248.1	0	12.9	128.7	This study	-50	Intrusive:Igneous	Not Specified	0	47.2685	Anorthosite	268.709	SO-CMD-NORTH	g	i	AX21-7	AX21
+Yiming Zhang	252.1	0	12.9	128.7	This study	-61	Intrusive:Igneous	Not Specified	0	47.2685	Anorthosite	268.709	SO-CMD-NORTH	g	i	AX21-8	AX21
+Yiming Zhang	11.2	0	12.9	128.7	This study	-49	Intrusive:Igneous	Not Specified	0	47.4113	Anorthosite	268.8408	SO-CMD-NORTH	g	i	AX22-1	AX22
+Yiming Zhang	324.3	0	12.9	128.7	This study	-13	Intrusive:Igneous	Not Specified	0	47.4113	Anorthosite	268.8408	SO-CMD-NORTH	g	i	AX22-2	AX22
+Yiming Zhang	55.2	0	12.9	128.7	This study	-7	Intrusive:Igneous	Not Specified	0	47.4113	Anorthosite	268.8408	SO-CMD-NORTH	g	i	AX22-3	AX22
+Yiming Zhang	42.2	0	12.9	128.7	This study	-13	Intrusive:Igneous	Not Specified	0	47.4113	Anorthosite	268.8408	SO-CMD-NORTH	g	i	AX22-4	AX22
+Yiming Zhang	341.2	0	12.9	128.7	This study	-40	Intrusive:Igneous	Not Specified	0	47.4113	Anorthosite	268.8408	SO-CMD-NORTH	g	i	AX22-5	AX22
+Yiming Zhang	17.2	0	12.9	128.7	This study	-46	Intrusive:Igneous	Not Specified	0	47.4113	Anorthosite	268.8408	SO-CMD-NORTH	g	i	AX22-6	AX22
+Yiming Zhang	289.2	0	12.9	128.7	This study	-5	Intrusive:Igneous	Not Specified	0	47.4113	Anorthosite	268.8408	SO-CMD-NORTH	g	i	AX22-7	AX22
+Yiming Zhang	323.2	0	12.9	128.7	This study	-41	Intrusive:Igneous	Not Specified	0	47.4113	Anorthosite	268.8408	SO-CMD-NORTH	g	i	AX22-8	AX22
+Yiming Zhang	356.2	0	12.9	128.7	This study	-47	Intrusive:Igneous	Not Specified	0	47.4113	Anorthosite	268.8408	SO-CMD-NORTH	g	i	AX22-9	AX22
+Yiming Zhang	353.2	0	12.9	128.7	This study	-68	Intrusive:Igneous	Not Specified	0	47.4113	Anorthosite	268.8408	SO-CMD-NORTH	g	i	AX22-10	AX22
+Yiming Zhang	358.2	0	12.9	128.7	This study	-25	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-1	BD1
+Yiming Zhang	352	0	12.9	128.7	This study	-47	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-2	BD1
+Yiming Zhang	328.7	0	12.9	128.7	This study	-49	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-3	BD1
+Yiming Zhang	312.3	0	12.9	128.7	This study	-52	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-4	BD1
+Yiming Zhang	315.2	0	12.9	128.7	This study	-55	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-5	BD1
+Yiming Zhang	270.2	0	12.9	128.7	This study	-78	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-6	BD1
+Yiming Zhang	263.2	0	12.9	128.7	This study	-75	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-7	BD1
+Yiming Zhang	13.2	0	12.9	128.7	This study	-60	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-8	BD1
+Yiming Zhang	349.2	0	12.9	128.7	This study	-16	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-9	BD1
+Yiming Zhang	191.2	0	12.9	128.7	This study	-55	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-10	BD1
+Yiming Zhang	197.2	0	12.9	128.7	This study	-52	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-11	BD1
+Yiming Zhang	224.2	0	12.9	128.7	This study	-56	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-12	BD1
+Yiming Zhang	228.2	0	12.9	128.7	This study	-60	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-13	BD1
+Yiming Zhang	228.2	0	12.9	128.7	This study	-60	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-14	BD1
+Yiming Zhang	238.2	0	12.9	128.7	This study	-58	Intrusive:Igneous	Diabase	0	47.2004	Diabase	268.6208	SO-CMD-NORTH	g	i	BD1-15	BD1
+Yiming Zhang	319.7	0	13.1	145.6	This study	-62	Intrusive:Igneous	Diabase	0	47.5827	Diabase	269.1437	SO-CMD-NORTH	g	i	BD2-1	BD2
+Yiming Zhang	355.7	0	13.1	145.6	This study	-71	Intrusive:Igneous	Diabase	0	47.5827	Diabase	269.1437	SO-CMD-NORTH	g	i	BD2-2	BD2
+Yiming Zhang	359.7	0	13.1	145.6	This study	-81	Intrusive:Igneous	Diabase	0	47.5827	Diabase	269.1437	SO-CMD-NORTH	g	i	BD2-3	BD2
+Yiming Zhang	334.7	0	13.1	145.6	This study	-70	Intrusive:Igneous	Diabase	0	47.5827	Diabase	269.1437	SO-CMD-NORTH	g	i	BD2-4	BD2
+Yiming Zhang	336.7	0	13.1	145.6	This study	-70	Intrusive:Igneous	Diabase	0	47.5827	Diabase	269.1437	SO-CMD-NORTH	g	i	BD2-5	BD2
+Yiming Zhang	342.7	0	13.1	145.6	This study	-70	Intrusive:Igneous	Diabase	0	47.5827	Diabase	269.1437	SO-CMD-NORTH	g	i	BD2-6	BD2
+Yiming Zhang	345.7	0	13.1	145.6	This study	-71	Intrusive:Igneous	Diabase	0	47.5827	Diabase	269.1437	SO-CMD-NORTH	g	i	BD2-7	BD2
+Yiming Zhang	344.7	0	13.1	145.6	This study	-71	Intrusive:Igneous	Diabase	0	47.5827	Diabase	269.1437	SO-CMD-NORTH	g	i	BD2-8	BD2
+Yiming Zhang	323.8	0	12.9	128.7	This study	-70	Intrusive:Igneous	Diabase	0	47.3689	Diabase	268.8326	SO-CMD-NORTH	g	i	BD3-1	BD3
+Yiming Zhang	322	0	12.9	128.7	This study	-62	Intrusive:Igneous	Diabase	0	47.3689	Diabase	268.8326	SO-CMD-NORTH	g	i	BD3-2	BD3
+Yiming Zhang	317.6	0	12.9	128.7	This study	-76	Intrusive:Igneous	Diabase	0	47.3689	Diabase	268.8326	SO-CMD-NORTH	g	i	BD3-3	BD3
+Yiming Zhang	318	0	12.9	128.7	This study	-70	Intrusive:Igneous	Diabase	0	47.3689	Diabase	268.8326	SO-CMD-NORTH	g	i	BD3-4	BD3
+Yiming Zhang	320.8	0	12.9	128.7	This study	-61	Intrusive:Igneous	Diabase	0	47.3689	Diabase	268.8326	SO-CMD-NORTH	g	i	BD3-5	BD3
+Yiming Zhang	311.5	0	12.9	128.7	This study	-70	Intrusive:Igneous	Diabase	0	47.3689	Diabase	268.8326	SO-CMD-NORTH	g	i	BD3-6	BD3
+Yiming Zhang	299.3	0	12.9	128.7	This study	-63	Intrusive:Igneous	Diabase	0	47.3689	Diabase	268.8326	SO-CMD-NORTH	g	i	BD3-7	BD3
+Yiming Zhang	292.7	0	12.9	128.7	This study	-54	Intrusive:Igneous	Diabase	0	47.3689	Diabase	268.8326	SO-CMD-NORTH	g	i	BD3-8	BD3
+Yiming Zhang	338.1	0	12.9	128.7	This study	-39	Intrusive:Igneous	Diabase	0	47.2918	Diabase	268.7396	SO-CMD-NORTH	g	i	BD4-1	BD4
+Yiming Zhang	354.1	0	12.9	128.7	This study	-44	Intrusive:Igneous	Diabase	0	47.2918	Diabase	268.7396	SO-CMD-NORTH	g	i	BD4-2	BD4
+Yiming Zhang	336.1	0	12.9	128.7	This study	-41	Intrusive:Igneous	Diabase	0	47.2918	Diabase	268.7396	SO-CMD-NORTH	g	i	BD4-3	BD4
+Yiming Zhang	336.1	0	12.9	128.7	This study	-52	Intrusive:Igneous	Diabase	0	47.2918	Diabase	268.7396	SO-CMD-NORTH	g	i	BD4-4	BD4
+Yiming Zhang	318.3	0	12.9	128.7	This study	-67	Intrusive:Igneous	Diabase	0	47.2918	Diabase	268.7396	SO-CMD-NORTH	g	i	BD4-5	BD4
+Yiming Zhang	320.9	0	12.9	128.7	This study	-86	Intrusive:Igneous	Diabase	0	47.2918	Diabase	268.7396	SO-CMD-NORTH	g	i	BD4-6	BD4
+Yiming Zhang	323.1	0	12.9	128.7	This study	-80	Intrusive:Igneous	Diabase	0	47.2918	Diabase	268.7396	SO-CMD-NORTH	g	i	BD4-7	BD4
+Yiming Zhang	325.7	0	12.9	128.7	This study	-74	Intrusive:Igneous	Diabase	0	47.2918	Diabase	268.7396	SO-CMD-NORTH	g	i	BD4-8	BD4
+Yiming Zhang	302.5	0	12.9	128.7	This study	-63	Intrusive:Igneous	Diabase	0	47.2887	Diabase	268.7363	SO-CMD-NORTH	g	i	BD5-1	BD5
+Yiming Zhang	308.4	0	12.9	128.7	This study	-51	Intrusive:Igneous	Diabase	0	47.2887	Diabase	268.7363	SO-CMD-NORTH	g	i	BD5-2	BD5
+Yiming Zhang	294.4	0	12.9	128.7	This study	-57	Intrusive:Igneous	Diabase	0	47.2887	Diabase	268.7363	SO-CMD-NORTH	g	i	BD5-3	BD5
+Yiming Zhang	293.9	0	12.9	128.7	This study	-59	Intrusive:Igneous	Diabase	0	47.2887	Diabase	268.7363	SO-CMD-NORTH	g	i	BD5-4	BD5
+Yiming Zhang	285.3	0	12.9	128.7	This study	-84	Intrusive:Igneous	Diabase	0	47.2887	Diabase	268.7363	SO-CMD-NORTH	g	i	BD5-5	BD5
+Yiming Zhang	290.2	0	12.9	128.7	This study	-59	Intrusive:Igneous	Diabase	0	47.2887	Diabase	268.7363	SO-CMD-NORTH	g	i	BD5-6	BD5
+Yiming Zhang	292.7	0	12.9	128.7	This study	-60	Intrusive:Igneous	Diabase	0	47.2887	Diabase	268.7363	SO-CMD-NORTH	g	i	BD5-7	BD5
+Yiming Zhang	273.5	0	12.9	128.7	This study	-76	Intrusive:Igneous	Diabase	0	47.2887	Diabase	268.7363	SO-CMD-NORTH	g	i	BD5-8	BD5
+Yiming Zhang	313.1	0	12.9	128.7	This study	-82	Intrusive:Igneous	Diabase	0	47.2634	Diabase	268.7071	SO-CMD-NORTH	g	i	BD6-1	BD6
+Yiming Zhang	317.1	0	12.9	128.7	This study	-87	Intrusive:Igneous	Diabase	0	47.2634	Diabase	268.7071	SO-CMD-NORTH	g	i	BD6-2	BD6
+Yiming Zhang	312.1	0	12.9	128.7	This study	-91	Intrusive:Igneous	Diabase	0	47.2634	Diabase	268.7071	SO-CMD-NORTH	g	i	BD6-3	BD6
+Yiming Zhang	315.1	0	12.9	128.7	This study	-87	Intrusive:Igneous	Diabase	0	47.2634	Diabase	268.7071	SO-CMD-NORTH	g	i	BD6-4	BD6
+Yiming Zhang	324.1	0	12.9	128.7	This study	-68	Intrusive:Igneous	Diabase	0	47.2634	Diabase	268.7071	SO-CMD-NORTH	g	i	BD6-5	BD6
+Yiming Zhang	316.1	0	12.9	128.7	This study	-62	Intrusive:Igneous	Diabase	0	47.2634	Diabase	268.7071	SO-CMD-NORTH	g	i	BD6-6	BD6
+Yiming Zhang	264.1	0	12.9	128.7	This study	-50	Intrusive:Igneous	Diabase	0	47.2634	Diabase	268.7071	SO-CMD-NORTH	g	i	BD6-7	BD6
+Yiming Zhang	255.1	0	12.9	128.7	This study	-46	Intrusive:Igneous	Diabase	0	47.2634	Diabase	268.7071	SO-CMD-NORTH	g	i	BD6-8	BD6
+Yiming Zhang	255.1	0	12.9	128.7	This study	-43	Intrusive:Igneous	Diabase	0	47.2634	Diabase	268.7071	SO-CMD-NORTH	g	i	BD6-9	BD6
+Yiming Zhang	299.1	0	12.9	128.7	This study	-87	Intrusive:Igneous	Diabase	0	47.2666	Diabase	268.7116	SO-CMD-NORTH	g	i	BD7-1	BD7
+Yiming Zhang	301.1	0	12.9	128.7	This study	-89	Intrusive:Igneous	Diabase	0	47.2666	Diabase	268.7116	SO-CMD-NORTH	g	i	BD7-2	BD7
+Yiming Zhang	291.1	0	12.9	128.7	This study	-88	Intrusive:Igneous	Diabase	0	47.2666	Diabase	268.7116	SO-CMD-NORTH	g	i	BD7-3	BD7
+Yiming Zhang	294.1	0	12.9	128.7	This study	-90	Intrusive:Igneous	Diabase	0	47.2666	Diabase	268.7116	SO-CMD-NORTH	g	i	BD7-4	BD7
+Yiming Zhang	295.1	0	12.9	128.7	This study	-90	Intrusive:Igneous	Diabase	0	47.2666	Diabase	268.7116	SO-CMD-NORTH	g	i	BD7-5	BD7
+Yiming Zhang	295.1	0	12.9	128.7	This study	-90	Intrusive:Igneous	Diabase	0	47.2666	Diabase	268.7116	SO-CMD-NORTH	g	i	BD7-6	BD7
+Yiming Zhang	288.8	0	12.9	128.7	This study	-67	Intrusive:Igneous	Diabase	0	47.2666	Diabase	268.7116	SO-CMD-NORTH	g	i	BD7-7	BD7
+Yiming Zhang	329.6	0	12.9	128.7	This study	-56	Intrusive:Igneous	Diabase	0	47.2126	Diabase	268.6438	SO-CMD-NORTH	g	i	BD8-1	BD8
+Yiming Zhang	327.1	0	12.9	128.7	This study	-61	Intrusive:Igneous	Diabase	0	47.2126	Diabase	268.6438	SO-CMD-NORTH	g	i	BD8-2	BD8
+Yiming Zhang	309.7	0	12.9	128.7	This study	-63	Intrusive:Igneous	Diabase	0	47.2126	Diabase	268.6438	SO-CMD-NORTH	g	i	BD8-3	BD8
+Yiming Zhang	318.9	0	12.9	128.7	This study	-19	Intrusive:Igneous	Diabase	0	47.2126	Diabase	268.6438	SO-CMD-NORTH	g	i	BD8-4	BD8
+Yiming Zhang	315.6	0	12.9	128.7	This study	-38	Intrusive:Igneous	Diabase	0	47.2126	Diabase	268.6438	SO-CMD-NORTH	g	i	BD8-5	BD8
+Yiming Zhang	303.9	0	12.9	128.7	This study	-66	Intrusive:Igneous	Diabase	0	47.2126	Diabase	268.6438	SO-CMD-NORTH	g	i	BD8-6	BD8
+Yiming Zhang	311.2	0	12.9	128.7	This study	-58	Intrusive:Igneous	Diabase	0	47.2126	Diabase	268.6438	SO-CMD-NORTH	g	i	BD8-7	BD8
+Yiming Zhang	307.2	0	12.9	128.7	This study	-55	Intrusive:Igneous	Diabase	0	47.2126	Diabase	268.6438	SO-CMD-NORTH	g	i	BD8-8	BD8
+Yiming Zhang	307.3	0	12.9	128.7	This study	-48	Intrusive:Igneous	Diabase	0	47.2126	Diabase	268.6438	SO-CMD-NORTH	g	i	BD8-9	BD8
+Yiming Zhang	308	0	12.9	128.7	This study	-33	Intrusive:Igneous	Diabase	0	47.2126	Diabase	268.6438	SO-CMD-NORTH	g	i	BD8-10	BD8
+Yiming Zhang	13.7	0	12.9	128.7	This study	-46	Intrusive:Igneous	Diabase	0	47.2243	Diabase	268.6529	SO-CMD-NORTH	g	i	BD9-1	BD9
+Yiming Zhang	20.6	0	12.9	128.7	This study	-41	Intrusive:Igneous	Diabase	0	47.2243	Diabase	268.6529	SO-CMD-NORTH	g	i	BD9-2	BD9
+Yiming Zhang	5.6	0	12.9	128.7	This study	-37	Intrusive:Igneous	Diabase	0	47.2243	Diabase	268.6529	SO-CMD-NORTH	g	i	BD9-3	BD9
+Yiming Zhang	351.5	0	12.9	128.7	This study	-46	Intrusive:Igneous	Diabase	0	47.2243	Diabase	268.6529	SO-CMD-NORTH	g	i	BD9-4	BD9
+Yiming Zhang	304.1	0	12.9	128.7	This study	-72	Intrusive:Igneous	Diabase	0	47.2243	Diabase	268.6529	SO-CMD-NORTH	g	i	BD9-5	BD9
+Yiming Zhang	290.5	0	12.9	128.7	This study	-72	Intrusive:Igneous	Diabase	0	47.2243	Diabase	268.6529	SO-CMD-NORTH	g	i	BD9-6	BD9
+Yiming Zhang	284.8	0	12.9	128.7	This study	-70	Intrusive:Igneous	Diabase	0	47.2243	Diabase	268.6529	SO-CMD-NORTH	g	i	BD9-7	BD9
+Yiming Zhang	281.8	0	12.9	128.7	This study	-51	Intrusive:Igneous	Diabase	0	47.2243	Diabase	268.6529	SO-CMD-NORTH	g	i	BD9-8	BD9
+Yiming Zhang	4.2	0	12.9	128.7	This study	-37	Intrusive:Igneous	Diabase	0	47.4114	Diabase	268.8408	SO-CMD-NORTH	g	i	BD10-1	BD10
+Yiming Zhang	10.2	0	12.9	128.7	This study	-46	Intrusive:Igneous	Diabase	0	47.4114	Diabase	268.8408	SO-CMD-NORTH	g	i	BD10-2	BD10
+Yiming Zhang	27	0	12.9	128.7	This study	-52	Intrusive:Igneous	Diabase	0	47.4114	Diabase	268.8408	SO-CMD-NORTH	g	i	BD10-3	BD10
+Yiming Zhang	2.2	0	12.9	128.7	This study	-70	Intrusive:Igneous	Diabase	0	47.4114	Diabase	268.8408	SO-CMD-NORTH	g	i	BD10-4	BD10
+Yiming Zhang	322.8	0	12.9	128.7	This study	-46	Intrusive:Igneous	Diabase	0	47.4114	Diabase	268.8408	SO-CMD-NORTH	g	i	BD10-5	BD10
+Yiming Zhang	300.4	0	12.9	128.7	This study	-12	Intrusive:Igneous	Diabase	0	47.4114	Diabase	268.8408	SO-CMD-NORTH	g	i	BD10-6	BD10
+Yiming Zhang	356.1	0	12.9	128.7	This study	-79	Intrusive:Igneous	Diabase	0	47.4114	Diabase	268.8408	SO-CMD-NORTH	g	i	BD10-7	BD10
+Yiming Zhang	0.3	0	12.9	128.7	This study	-80	Intrusive:Igneous	Diabase	0	47.4114	Diabase	268.8408	SO-CMD-NORTH	g	i	BD10-8	BD10
+Yiming Zhang	18.2	0	12.9	128.7	This study	-70	Intrusive:Igneous	Diabase	0	47.4114	Diabase	268.8408	SO-CMD-NORTH	g	i	BD10-9	BD10
+Yiming Zhang	27.2	0	12.9	128.7	This study	-72	Intrusive:Igneous	Diabase	0	47.4114	Diabase	268.8408	SO-CMD-NORTH	g	i	BD10-10	BD10
+Yiming Zhang	310.3	0	12.9	128.7	This study	-84	Intrusive:Igneous	Diabase	0	47.368	Diabase	268.7258	SO-CMD-NORTH	g	i	BD11-1	BD11
+Yiming Zhang	310.3	0	12.9	128.7	This study	-74	Intrusive:Igneous	Diabase	0	47.368	Diabase	268.7258	SO-CMD-NORTH	g	i	BD11-2	BD11
+Yiming Zhang	349.3	0	12.9	128.7	This study	-78	Intrusive:Igneous	Diabase	0	47.368	Diabase	268.7258	SO-CMD-NORTH	g	i	BD11-3	BD11
+Yiming Zhang	349.3	0	12.9	128.7	This study	-72	Intrusive:Igneous	Diabase	0	47.368	Diabase	268.7258	SO-CMD-NORTH	g	i	BD11-4	BD11
+Yiming Zhang	295.3	0	12.9	128.7	This study	-75	Intrusive:Igneous	Diabase	0	47.368	Diabase	268.7258	SO-CMD-NORTH	g	i	BD11-5	BD11
+Yiming Zhang	295.3	0	12.9	128.7	This study	-78	Intrusive:Igneous	Diabase	0	47.368	Diabase	268.7258	SO-CMD-NORTH	g	i	BD11-6	BD11
+Yiming Zhang	296.3	0	12.9	128.7	This study	-72	Intrusive:Igneous	Diabase	0	47.368	Diabase	268.7258	SO-CMD-NORTH	g	i	BD11-7	BD11
+Yiming Zhang	292.3	0	12.9	128.7	This study	-66	Intrusive:Igneous	Diabase	0	47.368	Diabase	268.7258	SO-CMD-NORTH	g	i	BD11-8	BD11
+Yiming Zhang	154.4	0	12.9	128.7	This study	-25	Intrusive:Igneous	Diabase	0	47.3048	Diabase	268.6712	SO-CMD-NORTH	g	i	BD12-1	BD12
+Yiming Zhang	150.4	0	12.9	128.7	This study	-29	Intrusive:Igneous	Diabase	0	47.3048	Diabase	268.6712	SO-CMD-NORTH	g	i	BD12-2	BD12
+Yiming Zhang	144.4	0	12.9	128.7	This study	-24	Intrusive:Igneous	Diabase	0	47.3048	Diabase	268.6712	SO-CMD-NORTH	g	i	BD12-3	BD12
+Yiming Zhang	135.4	0	12.9	128.7	This study	-24	Intrusive:Igneous	Diabase	0	47.3048	Diabase	268.6712	SO-CMD-NORTH	g	i	BD12-4	BD12
+Yiming Zhang	122.4	0	12.9	128.7	This study	-26	Intrusive:Igneous	Diabase	0	47.3048	Diabase	268.6712	SO-CMD-NORTH	g	i	BD12-5	BD12
+Yiming Zhang	63.4	0	12.9	128.7	This study	-19	Intrusive:Igneous	Diabase	0	47.3048	Diabase	268.6712	SO-CMD-NORTH	g	i	BD12-6	BD12
+Yiming Zhang	127.6	0	12.9	128.7	This study	-81	Intrusive:Igneous	Diabase	0	47.3048	Diabase	268.6712	SO-CMD-NORTH	g	i	BD12-7	BD12
+Yiming Zhang	137.4	0	12.9	128.7	This study	-66	Intrusive:Igneous	Diabase	0	47.3048	Diabase	268.6712	SO-CMD-NORTH	g	i	BD12-8	BD12
+Yiming Zhang	279.8	0	12.9	128.7	This study	-83	Intrusive:Igneous	Diabase	0	47.4804	Diabase	268.8763	SO-CMD-NORTH	g	i	BD13-1	BD13
+Yiming Zhang	277.9	0	12.9	128.7	This study	-78	Intrusive:Igneous	Diabase	0	47.4804	Diabase	268.8763	SO-CMD-NORTH	g	i	BD13-2	BD13
+Yiming Zhang	279.5	0	12.9	128.7	This study	-81	Intrusive:Igneous	Diabase	0	47.4804	Diabase	268.8763	SO-CMD-NORTH	g	i	BD13-3	BD13
+Yiming Zhang	280.3	0	12.9	128.7	This study	-90	Intrusive:Igneous	Diabase	0	47.4804	Diabase	268.8763	SO-CMD-NORTH	g	i	BD13-4	BD13
+Yiming Zhang	275.5	0	12.9	128.7	This study	-92	Intrusive:Igneous	Diabase	0	47.4804	Diabase	268.8763	SO-CMD-NORTH	g	i	BD13-5	BD13
+Yiming Zhang	283.7	0	12.9	128.7	This study	-82	Intrusive:Igneous	Diabase	0	47.4804	Diabase	268.8763	SO-CMD-NORTH	g	i	BD13-6	BD13
+Yiming Zhang	272.9	0	12.9	128.7	This study	-89	Intrusive:Igneous	Diabase	0	47.4804	Diabase	268.8763	SO-CMD-NORTH	g	i	BD13-7	BD13
+Yiming Zhang	285.8	0	12.9	128.7	This study	-79	Intrusive:Igneous	Diabase	0	47.4804	Diabase	268.8763	SO-CMD-NORTH	g	i	BD13-8	BD13
+Yiming Zhang	268.7	0	13.1	145.6	This study	-67	Intrusive:Igneous	Diabase	0	47.7	Diabase	269.3352	SO-CMD-NORTH	g	i	BD14-1	BD14
+Yiming Zhang	236.7	0	13.1	145.6	This study	-72	Intrusive:Igneous	Diabase	0	47.7	Diabase	269.3352	SO-CMD-NORTH	g	i	BD14-2	BD14
+Yiming Zhang	333.7	0	13.1	145.6	This study	-78	Intrusive:Igneous	Diabase	0	47.7	Diabase	269.3352	SO-CMD-NORTH	g	i	BD14-3	BD14
+Yiming Zhang	307.7	0	13.1	145.6	This study	-85	Intrusive:Igneous	Diabase	0	47.7	Diabase	269.3352	SO-CMD-NORTH	g	i	BD14-4	BD14
+Yiming Zhang	252.2	0	13.1	145.6	This study	-47	Intrusive:Igneous	Diabase	0	47.7	Diabase	269.3352	SO-CMD-NORTH	g	i	BD14-5	BD14
+Yiming Zhang	251.5	0	13.1	145.6	This study	-50	Intrusive:Igneous	Diabase	0	47.7	Diabase	269.3352	SO-CMD-NORTH	g	i	BD14-6	BD14
+Yiming Zhang	270.8	0	13.1	145.6	This study	-65	Intrusive:Igneous	Diabase	0	47.7	Diabase	269.3352	SO-CMD-NORTH	g	i	BD14-7	BD14
+Yiming Zhang	220.7	0	13.1	145.6	This study	-52	Intrusive:Igneous	Diabase	0	47.7	Diabase	269.3352	SO-CMD-NORTH	g	i	BD14-8	BD14
+Yiming Zhang	249.7	0	13.1	145.6	This study	-81	Intrusive:Igneous	Diabase	0	47.7004	Diabase	269.3604	SO-CMD-NORTH	g	i	BD15-1	BD15
+Yiming Zhang	242.7	0	13.1	145.6	This study	-85	Intrusive:Igneous	Diabase	0	47.7004	Diabase	269.3604	SO-CMD-NORTH	g	i	BD15-2	BD15
+Yiming Zhang	244.7	0	13.1	145.6	This study	-63	Intrusive:Igneous	Diabase	0	47.7004	Diabase	269.3604	SO-CMD-NORTH	g	i	BD15-3	BD15
+Yiming Zhang	206.7	0	13.1	145.6	This study	-72	Intrusive:Igneous	Diabase	0	47.7004	Diabase	269.3604	SO-CMD-NORTH	g	i	BD15-4	BD15
+Yiming Zhang	204.7	0	13.1	145.6	This study	-72	Intrusive:Igneous	Diabase	0	47.7004	Diabase	269.3604	SO-CMD-NORTH	g	i	BD15-5	BD15
+Yiming Zhang	206.7	0	13.1	145.6	This study	-70	Intrusive:Igneous	Diabase	0	47.7004	Diabase	269.3604	SO-CMD-NORTH	g	i	BD15-6	BD15
+Yiming Zhang	204.7	0	13.1	145.6	This study	-70	Intrusive:Igneous	Diabase	0	47.7004	Diabase	269.3604	SO-CMD-NORTH	g	i	BD15-7	BD15
+Yiming Zhang	205.7	0	13.1	145.6	This study	-73	Intrusive:Igneous	Diabase	0	47.7004	Diabase	269.3604	SO-CMD-NORTH	g	i	BD15-8	BD15
+Yiming Zhang	350.8	0	13.1	145.6	This study	-78	Intrusive:Igneous	Diabase	0	47.6659	Diabase	269.2838	SO-CMD-NORTH	g	i	BD16-1	BD16
+Yiming Zhang	6.8	0	13.1	145.6	This study	-78	Intrusive:Igneous	Diabase	0	47.6659	Diabase	269.2838	SO-CMD-NORTH	g	i	BD16-2	BD16
+Yiming Zhang	193.8	0	13.1	145.6	This study	-14	Intrusive:Igneous	Diabase	0	47.6659	Diabase	269.2838	SO-CMD-NORTH	g	i	BD16-3	BD16
+Yiming Zhang	180.8	0	13.1	145.6	This study	-11	Intrusive:Igneous	Diabase	0	47.6659	Diabase	269.2838	SO-CMD-NORTH	g	i	BD16-4	BD16
+Yiming Zhang	321.8	0	13.1	145.6	This study	-20	Intrusive:Igneous	Diabase	0	47.6659	Diabase	269.2838	SO-CMD-NORTH	g	i	BD16-5	BD16
+Yiming Zhang	328.8	0	13.1	145.6	This study	-20	Intrusive:Igneous	Diabase	0	47.6659	Diabase	269.2838	SO-CMD-NORTH	g	i	BD16-6	BD16
+Yiming Zhang	135.8	0	13.1	145.6	This study	-68	Intrusive:Igneous	Diabase	0	47.6659	Diabase	269.2838	SO-CMD-NORTH	g	i	BD16-7	BD16
+Yiming Zhang	137.8	0	13.1	145.6	This study	-68	Intrusive:Igneous	Diabase	0	47.6659	Diabase	269.2838	SO-CMD-NORTH	g	i	BD16-8	BD16
+Yiming Zhang	108.2	0	12.9	128.7	This study	-74	Intrusive:Igneous	Diabase	0	47.374	Diabase	268.8356	SO-CMD-NORTH	g	i	BD17-1	BD17
+Yiming Zhang	106.2	0	12.9	128.7	This study	-74	Intrusive:Igneous	Diabase	0	47.374	Diabase	268.8356	SO-CMD-NORTH	g	i	BD17-2	BD17
+Yiming Zhang	125.2	0	12.9	128.7	This study	-66	Intrusive:Igneous	Diabase	0	47.374	Diabase	268.8356	SO-CMD-NORTH	g	i	BD17-3	BD17
+Yiming Zhang	123.2	0	12.9	128.7	This study	-67	Intrusive:Igneous	Diabase	0	47.374	Diabase	268.8356	SO-CMD-NORTH	g	i	BD17-4	BD17
+Yiming Zhang	126.2	0	12.9	128.7	This study	-60	Intrusive:Igneous	Diabase	0	47.374	Diabase	268.8356	SO-CMD-NORTH	g	i	BD17-5	BD17
+Yiming Zhang	126.2	0	12.9	128.7	This study	-61	Intrusive:Igneous	Diabase	0	47.374	Diabase	268.8356	SO-CMD-NORTH	g	i	BD17-6	BD17
+Yiming Zhang	116.2	0	12.9	128.7	This study	-60	Intrusive:Igneous	Diabase	0	47.374	Diabase	268.8356	SO-CMD-NORTH	g	i	BD17-7	BD17
+Yiming Zhang	118.2	0	12.9	128.7	This study	-64	Intrusive:Igneous	Diabase	0	47.374	Diabase	268.8356	SO-CMD-NORTH	g	i	BD17-8	BD17

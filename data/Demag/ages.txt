@@ -1,0 +1,3 @@
+tab 	ages
+age	age_unit	citations	location	method_codes
+1092	Ma	This study	Beaver Bay Complex	GM-UPB-MA-206
