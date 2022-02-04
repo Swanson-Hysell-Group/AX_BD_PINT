@@ -11,9 +11,18 @@
 \maketitle
 
 \begin{figure*}[h!]
-\noindent\includegraphics[width=17.8 cm]{manuscript/PINT_BiCEP.pdf}
+\noindent\includegraphics[width=0.8\textwidth]{Petro_QDM_SI.png}
 \centering
-\caption{{Violin plots of site-level posterior paleointensity distributions estimated using the bias corrected estimation of paleointensity (BiCEP) method developed by ref. \ref{Cych2021a}. Assuming that paleointensity estimates from specimens that come from a same cooling unit are distributed around a true paleointensity value with the various deflections being expressed as the curvature parameter of the NRM/TRM plot \cite{Arai1963a, Paterson2011a}, the method uses all paleointensity measurement-level data without applying selection criteria. For comparison of results from this independent method with those based on our selection (as show in Fig. 4 in manuscript), we highlight the anorthosite sites that pass our paleointensity selection and make other anorthosite and diabase transparent. The results from the BiCEP method address the uncertainties associated with anorthosite AX6 and AX8. This is associated with the relatively variable specimen behaviors within these two sites. But for sites AX10, AX11, AX13, AX12, and AX16, the posterior probability distributions have very narrow bounds, consistent with the interpretation that these anorthosites are faithful paleointensity recorders that have high-quality paleointensity behaviors. }}
+\caption{{Petrographic images and magnetic images from the main manuscript with additional anisotropy experiment results. In A-F, we show that the Beaver River anorthosite often lack large oxide needles within plagioclase crystals carrying strong magnetic remanence  differences of magnetic carriers which is in contrast to what is seen in Duluth Complex anorthosites. E-H show an experiment performed on both anorthosite xenoliths where we apply a first field along the y axis of the field of view and then apply a second field of 300 mT orthogonal to the first field direction. The isothermal remanent magnetizations acquired by both anorthosites were imaged with a quantum diamond microscope after the application of each field. The magnetic images show that dipole-like remanent magnetizations of Beaver River anorthosite align well with the first applied field direction and rotated to align with the second applied field direction with little anisotropic behavior. In contrast, the remanence magnetizations carried by the magnetic needles in plagioclase 1 of the Duluth anorthosite xenolith align well with the first applied field but those in plagioclase 2 tend to acquire an oblique remanence direction with respect to the field direction (F). After the application of a 300 mT external field, magnetization of those needles in plagioclase 1 did not reverse due to strong shape anisotropy whereas those needles in plagioclase 2 reversed but still acquired remanence oblique to the field direction. This experiments illustrates that the Beaver River anorthosite xenolith has much lower degrees of magnetic anisotropy than the Duluth anorthosite xenolith. B$_z$ denotes magnetic field intensity in the vertical direction with positive values corresponding to the out of page direction.  }}
+\label{fig:Petro_QDM_SI}
+\end{figure*}
+\clearpage
+
+
+\begin{figure*}[h!]
+\noindent\includegraphics[width=17.8 cm]{PINT_BiCEP.pdf}
+\centering
+\caption{{Violin plots of site-level posterior paleointensity distributions estimated using the bias corrected estimation of paleointensity (BiCEP) method developed by \citealp{Cych2021a}. Assuming that paleointensity estimates from specimens that come from a same cooling unit are distributed around a true paleointensity value with the various deflections being expressed as the curvature parameter of the NRM/TRM plot \cite{Arai1963a, Paterson2011a}, the method uses all paleointensity measurement-level data without applying selection criteria. For comparison of results from this independent method with those based on our selection (as show in Fig. 4 in manuscript), we highlight the anorthosite sites that pass our paleointensity selection and make other anorthosite and diabase transparent. The results from the BiCEP method address the uncertainties associated with anorthosite AX6 and AX8. This is associated with the relatively variable specimen behaviors within these two sites. But for sites AX10, AX11, AX13, AX12, and AX16, the posterior probability distributions have very narrow bounds, consistent with the interpretation that these anorthosites are faithful paleointensity recorders that have high-quality paleointensity behaviors. }}
 \label{fig:PINT_BiCEP}
 \end{figure*}
 
@@ -31,7 +40,7 @@
 \begin{figure*}[h!]
 \noindent\includegraphics[width=17.8 cm]{Cooling_rate_correction.pdf}
 \centering
-\caption{{Graph of predicted paleointensity overestimate due to slow cooling of the intrusive Beaver River diabase and anorthosite xenoliths relative to the cooling rate in laboratory following the model of \citeA{Halgedahl1980a}. Because the majority of the anorthosites have unblocking temperatures between 500\textdegree C and 580\textdegree C, we estimate that the slow cooling during natural remanence acquisition could have resulted in a 36\% overestimate. Thus, a correction factor of 0.74 is applied at specimen level for the paleointensity summary plot.  }}
+\caption{{Graph of predicted paleointensity overestimate due to slow cooling of the intrusive Beaver River diabase and anorthosite xenoliths relative to the cooling rate in laboratory following the model of \citealp{Halgedahl1980a}. Because the majority of the anorthosites have unblocking temperatures between 500\textdegree C and 580\textdegree C, we estimate that the slow cooling during natural remanence acquisition could have resulted in a 36\% overestimate. Thus, a correction factor of 0.74 is applied at specimen level for the paleointensity summary plot.  }}
 \label{fig:PINT_cooling_corrected}
 \end{figure*}
 
@@ -54,43 +63,46 @@
 \hline
 Site & Specimen & B$_{anc}$ & T$_{min}$ & T$_{max}$ & N    & FRAC & NpTRM & $\beta$ & GAP-MAX & MAD ($^\circ$) & DANG ($^\circ$) & SCAT & Paleolatitude & $\gamma$ & VADM (ZAm$^2$) \\
 \hline
-AX6  & AX6-2a   & 18.25     & 400       & 585       & 18 & 0.7  & 10.0  & 0.04    & 0.12    & 3.44           & 3.43            & PASS & 15.61         & 2.7      & 31.69          \\
-AX6  & AX6-3a   & 25.39     & 400       & 585       & 18 & 0.76 & 10.0  & 0.04    & 0.1     & 4.28           & 2.88            & PASS & 15.61         & 3.2      & 44.08          \\
-AX6  & AX6-1a   & 49.13     & 425       & 585       & 17 & 0.71 & 10.0  & 0.03    & 0.14    & 4.45           & 0.96            & PASS & 15.61         & 2.0      & 85.3           \\
-AX8  & AX8-3a   & 41.3      & 400       & 580       & 17 & 0.75 & 9.0   & 0.03    & 0.14    & 4.38           & 2.22            & PASS & 17.16         & 11.2     & 70.45          \\
-AX8  & AX8-1a   & 66.18     & 450       & 570       & 13 & 0.68 & 8.0   & 0.06    & 0.18    & 4.54           & 2.37            & PASS & 17.16         & 7.0      & 112.88         \\
-AX10 & AX10-1a  & 45.84     & 425       & 585       & 17 & 0.78 & 10.0  & 0.06    & 0.24    & 5.6            & 2.62            & PASS & 14.41         & 4.7      & 80.64          \\
-AX10 & AX10-3a  & 48.01     & 425       & 585       & 17 & 0.69 & 10.0  & 0.04    & 0.24    & 4.02           & 1.56            & PASS & 14.41         & 5.8      & 84.45          \\
-AX10 & AX10-2a  & 48.23     & 425       & 585       & 17 & 0.67 & 10.0  & 0.05    & 0.19    & 5.3            & 1.93            & PASS & 14.41         & 7.8      & 84.84          \\
-AX11 & AX11-1a  & 73.29     & 425       & 560       & 10 & 0.67 & 6.0   & 0.08    & 0.21    & 5.28           & 2.54            & PASS & 12.27         & 5.9      & 131.75         \\
-AX11 & AX11-2a  & 73.29     & 400       & 560       & 11 & 0.65 & 6.0   & 0.07    & 0.21    & 3.94           & 1.51            & PASS & 12.27         & 9.9      & 131.75         \\
-AX11 & AX11-4a  & 73.31     & 500       & 570       & 11 & 0.66 & 8.0   & 0.09    & 0.2     & 1.53           & 3.27            & PASS & 12.27         & 5.6      & 131.78         \\
-AX11 & AX11-6a  & 73.32     & 200       & 562       & 14 & 0.69 & 7.0   & 0.07    & 0.17    & 4.0            & 1.33            & PASS & 12.27         & 3.0      & 131.8          \\
-AX11 & AX11-9a  & 73.34     & 100       & 562       & 15 & 0.67 & 7.0   & 0.06    & 0.17    & 5.34           & 1.13            & PASS & 12.27         & 11.9     & 131.84         \\
-AX11 & AX11-3a  & 73.41     & 400       & 560       & 11 & 0.66 & 6.0   & 0.08    & 0.21    & 3.95           & 2.11            & PASS & 12.27         & 8.2      & 131.96         \\
-AX11 & AX11-5a  & 73.44     & 400       & 566       & 14 & 0.73 & 8.0   & 0.05    & 0.18    & 2.93           & 0.85            & PASS & 12.27         & 1.9      & 132.02         \\
-AX12 & AX12-14a & 30.34     & 475       & 585       & 16 & 0.75 & 10.0  & 0.06    & 0.17    & 1.74           & 0.55            & PASS & 24.54         & 0.9      & 47.18          \\
-AX12 & AX12-1a  & 33.89     & 0         & 580       & 21 & 0.97 & 9.0   & 0.03    & 0.17    & 5.47           & 4.73            & PASS & 24.54         & 10.0     & 52.7           \\
-AX12 & AX12-6a  & 37.18     & 425       & 564       & 12 & 0.69 & 7.0   & 0.08    & 0.22    & 3.64           & 2.05            & PASS & 24.54         & 5.0      & 57.81          \\
-AX12 & AX12-8a  & 38.34     & 475       & 565       & 12 & 0.75 & 8.0   & 0.06    & 0.25    & 1.46           & 2.29            & PASS & 24.54         & 1.6      & 59.62          \\
-AX12 & AX12-4a  & 41.89     & 500       & 585       & 14 & 0.66 & 10.0  & 0.05    & 0.24    & 3.85           & 3.19            & PASS & 24.54         & 11.4     & 65.14          \\
-AX12 & AX12-2a  & 46.94     & 425       & 570       & 14 & 0.7  & 8.0   & 0.05    & 0.24    & 3.39           & 2.38            & PASS & 24.54         & 7.0      & 72.99          \\
-AX13 & AX13-3a  & 71.68     & 100       & 550       & 12 & 0.71 & 5.0   & 0.08    & 0.22    & 5.92           & 1.88            & PASS & 11.25         & 3.4      & 130.08         \\
-AX13 & AX13-4a  & 75.42     & 200       & 555       & 12 & 0.7  & 6.0   & 0.03    & 0.17    & 7.28           & 0.41            & PASS & 11.25         & 3.7      & 136.87         \\
-AX13 & AX13-6a  & 76.8      & 200       & 555       & 12 & 0.7  & 6.0   & 0.06    & 0.22    & 3.82           & 1.53            & PASS & 11.25         & 4.5      & 139.37         \\
-AX13 & AX13-2a  & 76.96     & 300       & 555       & 11 & 0.69 & 6.0   & 0.05    & 0.2     & 7.87           & 2.73            & PASS & 11.25         & 4.1      & 139.66         \\
-AX13 & AX13-9a  & 77.48     & 0         & 564       & 17 & 0.94 & 7.0   & 0.03    & 0.16    & 5.96           & 1.07            & PASS & 11.25         & 2.6      & 140.61         \\
-AX13 & AX13-8a  & 84.83     & 450       & 570       & 13 & 0.81 & 8.0   & 0.02    & 0.24    & 3.69           & 1.82            & PASS & 11.25         & 5.1      & 153.94   \\
-AX16 & AX16-13a & 41.68     & 400       & 570       & 15 & 0.72 & 8.0   & 0.07    & 0.2     & 3.47           & 1.85            & PASS & 22.11         & 1.1      & 66.88          \\
-AX16 & AX16-16a & 42.2      & 400       & 570       & 15 & 0.77 & 8.0   & 0.06    & 0.15    & 3.9            & 1.81            & PASS & 22.11         & 2.0      & 67.72          \\
-AX16 & AX16-14a & 43.57     & 400       & 570       & 15 & 0.71 & 8.0   & 0.06    & 0.13    & 3.25           & 1.79            & PASS & 22.11         & 6.0      & 69.91          \\
-AX16 & AX16-11a & 44.17     & 450       & 570       & 14 & 0.7  & 8.0   & 0.06    & 0.15    & 2.86           & 2.07            & PASS & 22.11         & 4.6      & 70.88          \\
-AX16 & AX16-5a  & 45.75     & 400       & 560       & 11 & 0.69 & 6.0   & 0.09    & 0.22    & 7.98           & 4.32            & PASS & 22.11         & 4.0      & 73.41          \\
-AX16 & AX16-4a  & 45.96     & 425       & 570       & 14 & 0.75 & 8.0   & 0.05    & 0.21    & 5.01           & 1.18            & PASS & 22.11         & 4.2      & 73.75          \\
-AX16 & AX16-2a  & 45.98     & 400       & 564       & 13 & 0.68 & 7.0   & 0.06    & 0.21    & 4.37           & 1.57            & PASS & 22.11         & 4.9      & 73.78          \\
-AX16 & AX16-1a  & 46.25     & 200       & 562       & 14 & 0.85 & 7.0   & 0.07    & 0.23    & 6.04           & 2.87            & PASS & 22.11         & 4.5      & 74.22          \\
-AX16 & AX16-9a  & 48.9      & 475       & 585       & 16 & 0.66 & 10.0  & 0.04    & 0.16    & 2.92           & 1.4             & PASS & 22.11         & 4.3      & 78.47          \\
-AX16 & AX16-10a & 54.02     & 500       & 585       & 15 & 0.66 & 10.0  & 0.04    & 0.18    & 2.78           & 1.15            & PASS & 22.11         & 5.5      & 86.68          \\
+AX6  & AX6-2a   & 18.25     & 400       & 585       & 18 & 0.7  & 10    & 0.04    & 0.12    & 3.44           & 3.43            & PASS & 21.97         & 2.7      & 29.34         \\
+AX6  & AX6-3a   & 25.39     & 400       & 585       & 18 & 0.76 & 10    & 0.04    & 0.1     & 4.28           & 2.88            & PASS & 21.97         & 3.2      & 40.82         \\
+AX6  & AX6-1a   & 47.36     & 475       & 585       & 15 & 0.6  & 10    & 0.02    & 0.16    & 2.92           & 1.67            & PASS & 21.97         & 2        & 76.13         \\
+AX8  & AX8-3a   & 41.3      & 400       & 580       & 17 & 0.75 & 9     & 0.03    & 0.14    & 4.38           & 2.22            & PASS & 22.98         & 11.2     & 65.53         \\
+AX8  & AX8-2a   & 50.51     & 400       & 580       & 17 & 0.63 & 9     & 0.04    & 0.16    & 3.19           & 1.29            & PASS & 22.98         & 3.7      & 80.15         \\
+AX8  & AX8-1a   & 65.38     & 425       & 566       & 13 & 0.6  & 8     & 0.07    & 0.2     & 5.28           & 2.95            & PASS & 22.98         & 7        & 103.74        \\
+AX10 & AX10-1a  & 45.84     & 425       & 585       & 17 & 0.78 & 10    & 0.06    & 0.24    & 5.6            & 2.62            & PASS & 20.37         & 4.7      & 75.2          \\
+AX10 & AX10-2a  & 46.61     & 450       & 585       & 16 & 0.62 & 10    & 0.04    & 0.2     & 5.32           & 2.24            & PASS & 20.37         & 7.8      & 76.46         \\
+AX10 & AX10-3a  & 48.01     & 425       & 585       & 17 & 0.69 & 10    & 0.04    & 0.24    & 4.02           & 1.56            & PASS & 20.37         & 5.8      & 78.76         \\
+AX11 & AX11-1a  & 73.29     & 425       & 560       & 10 & 0.67 & 6     & 0.08    & 0.21    & 5.28           & 2.54            & PASS & 19.43         & 5.9      & 121.64        \\
+AX11 & AX11-2a  & 73.29     & 400       & 560       & 11 & 0.65 & 6     & 0.07    & 0.21    & 3.94           & 1.51            & PASS & 19.43         & 9.9      & 121.64        \\
+AX11 & AX11-4a  & 73.31     & 500       & 570       & 11 & 0.66 & 8     & 0.09    & 0.2     & 1.53           & 3.27            & PASS & 19.43         & 5.6      & 121.68        \\
+AX11 & AX11-6a  & 73.32     & 200       & 562       & 14 & 0.69 & 7     & 0.07    & 0.17    & 4              & 1.33            & PASS & 19.43         & 3        & 121.69        \\
+AX11 & AX11-9a  & 73.34     & 100       & 562       & 15 & 0.67 & 7     & 0.06    & 0.17    & 5.34           & 1.13            & PASS & 19.43         & 11.9     & 121.73        \\
+AX11 & AX11-3a  & 73.41     & 400       & 560       & 11 & 0.66 & 6     & 0.08    & 0.21    & 3.95           & 2.11            & PASS & 19.43         & 8.2      & 121.84        \\
+AX11 & AX11-5a  & 73.44     & 400       & 566       & 14 & 0.73 & 8     & 0.05    & 0.18    & 2.93           & 0.85            & PASS & 19.43         & 1.9      & 121.89        \\
+AX12 & AX12-14a & 30.34     & 475       & 585       & 16 & 0.75 & 10    & 0.06    & 0.17    & 1.74           & 0.55            & PASS & 35.73         & 0.9      & 40.86         \\
+AX12 & AX12-1a  & 33.89     & 0         & 580       & 21 & 0.97 & 9     & 0.03    & 0.17    & 5.47           & 4.73            & PASS & 35.73         & 10       & 45.64         \\
+AX12 & AX12-6a  & 37.18     & 425       & 564       & 12 & 0.69 & 7     & 0.08    & 0.22    & 3.64           & 2.05            & PASS & 35.73         & 5        & 50.07         \\
+AX12 & AX12-8a  & 38.34     & 475       & 565       & 12 & 0.75 & 8     & 0.06    & 0.25    & 1.46           & 2.29            & PASS & 35.73         & 1.6      & 51.63         \\
+AX12 & AX12-4a  & 41.89     & 500       & 585       & 14 & 0.66 & 10    & 0.05    & 0.24    & 3.85           & 3.19            & PASS & 35.73         & 11.4     & 56.42         \\
+AX12 & AX12-2a  & 46.94     & 425       & 570       & 14 & 0.7  & 8     & 0.05    & 0.24    & 3.39           & 2.38            & PASS & 35.73         & 7        & 63.22         \\
+AX13 & AX13-3a  & 71.68     & 100       & 550       & 12 & 0.71 & 5     & 0.08    & 0.22    & 5.92           & 1.88            & PASS & 19.36         & 3.4      & 119.07        \\
+AX13 & AX13-7a  & 72.6      & 475       & 585       & 15 & 0.61 & 10    & 0.03    & 0.2     & 3.62           & 2.09            & PASS & 19.36         & 11.6     & 120.6         \\
+AX13 & AX13-4a  & 76.13     & 200       & 550       & 11 & 0.65 & 5     & 0.04    & 0.18    & 8.82           & 1.07            & PASS & 19.36         & 3.7      & 126.47        \\
+AX13 & AX13-6a  & 76.8      & 200       & 555       & 12 & 0.7  & 6     & 0.06    & 0.22    & 3.82           & 1.53            & PASS & 19.36         & 4.5      & 127.58        \\
+AX13 & AX13-2a  & 76.86     & 200       & 555       & 12 & 0.71 & 6     & 0.05    & 0.2     & 8.08           & 2.23            & PASS & 19.36         & 4.1      & 127.68        \\
+AX13 & AX13-9a  & 77.48     & 0         & 564       & 17 & 0.94 & 7     & 0.03    & 0.16    & 5.96           & 1.07            & PASS & 19.36         & 2.6      & 128.71        \\
+AX13 & AX13-8a  & 84.83     & 450       & 570       & 13 & 0.81 & 8     & 0.02    & 0.24    & 3.69           & 1.82            & PASS & 19.36         & 5.1      & 140.92        \\
+AX16 & AX16-15a & 31.91     & 475       & 570       & 13 & 0.61 & 8     & 0.07    & 0.17    & 3.07           & 1.41            & PASS & 30.08         & 2.6      & 46.16         \\
+AX16 & AX16-13a & 41.68     & 400       & 570       & 15 & 0.72 & 8     & 0.07    & 0.2     & 3.47           & 1.85            & PASS & 30.08         & 1.1      & 60.29         \\
+AX16 & AX16-16a & 43.3      & 400       & 562       & 13 & 0.65 & 7     & 0.09    & 0.18    & 5.14           & 2.94            & PASS & 30.08         & 2        & 62.63         \\
+AX16 & AX16-14a & 43.64     & 400       & 565       & 14 & 0.63 & 8     & 0.08    & 0.14    & 3.84           & 2.12            & PASS & 30.08         & 6        & 63.13         \\
+AX16 & AX16-11a & 44.17     & 450       & 570       & 14 & 0.7  & 8     & 0.06    & 0.15    & 2.86           & 2.07            & PASS & 30.08         & 4.6      & 63.89         \\
+AX16 & AX16-4a  & 44.82     & 425       & 575       & 15 & 0.76 & 9     & 0.05    & 0.21    & 4.77           & 1.08            & PASS & 30.08         & 4.2      & 64.83         \\
+AX16 & AX16-1a  & 44.9      & 200       & 564       & 15 & 0.87 & 7     & 0.06    & 0.22    & 5.56           & 2.4             & PASS & 30.08         & 4.5      & 64.95         \\
+AX16 & AX16-5a  & 44.91     & 425       & 560       & 10 & 0.65 & 6     & 0.1     & 0.24    & 7.42           & 3.9             & PASS & 30.08         & 4        & 64.96         \\
+AX16 & AX16-2a  & 45.05     & 425       & 564       & 12 & 0.65 & 7     & 0.07    & 0.22    & 4.25           & 1.44            & PASS & 30.08         & 4.9      & 65.17         \\
+AX16 & AX16-9a  & 48.04     & 500       & 585       & 15 & 0.61 & 10    & 0.04    & 0.17    & 2.98           & 1.23            & PASS & 30.08         & 4.3      & 69.49         \\
+AX16 & AX16-10a & 53.27     & 510       & 585       & 14 & 0.62 & 10    & 0.04    & 0.2     & 2.75           & 1.1             & PASS & 30.08         & 5.5      & 77.06          \\
 \hline
 \end{tabular}
 \label{tab:PINT_result}
