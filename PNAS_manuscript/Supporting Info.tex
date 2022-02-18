@@ -1,5 +1,6 @@
 \documentclass[9pt,twoside,lineno]{pnas-new}
 \usepackage{rotating}
+\usepackage{multirow}
 \templatetype{pnassupportinginfo}
 
 \title{High geomagnetic field intensity recorded by anorthosite xenoliths requires a vigorous late Mesoproterozoic geodynamo}
@@ -52,6 +53,9 @@
 \caption{{Plot of linear thermal remanent magnetization acquisition experiment results. After IZZI-type Thellier paleointensity experiments, full TRMs were imparted on the same specimens in known lab fields of 30, 50, 70, and 90 $\mu$T. The red dashed line shows a linear fit through the data points. The results show that the anorthosite xenoliths do not acquire saturation remanence or display non-linear remanence acquisition under fields relevant to this study. Therefore, non-linear acquisition correction is not needed for our paleointensity results. }}
 \label{fig:nonlinear_check}
 \end{figure*}
+
+
+%To check for nonlinear acqusition, we applied full TRMs to a set of anorthosite specimens with lab fields of 30, 50, 70, and 90 $\mu$T along specimen vertical axes. The results show that these anorthosite specimens did not saturate upon the applied fields and there is thus no need for correcting nonlinear thermal remanence acquisitions (\citealp{Selkin2007a}; Fig. S4). 
 
 \clearpage
 
@@ -146,21 +150,25 @@ AX16 & 11 & 1091.8   & T+     & 1   & 1    & 1   & 1   & 1  & 1   & 0    & 0    
 
 \begin{table}[]
 \centering
-\caption{\footnotesize{Summary paleointensity result statistics at site-level, region-level, and overall arithmetic means. The statistics names are the same as in Table \ref{tab:PINT_result}}. n represents the total number of specimen- or site-level results used for calculating mean values. inc$_{tc}$ is the tilt corrected mean inclination. Site-level means for AX6, AX8, AX10, AX11, AX12, AX13, AX16 are calculated based on specimen results. Regional means for Carlton Peak, Kennedy Creek, and Silver Bay are calculated by grouping specimen results from AX6 and AX8 and AX10, AX11 and AX13, AX12 and AX16, respectively. Overall site mean values are calculated using all site level results in this table. Overall region mean values are calculated using all regional mean results in this table. }
-\begin{tabular}{cccccccccc}
-Group               & B$_{anc}$ & n  & FRAC & GAP-MAX & MAD ($^\circ$) & DANG ($^\circ$) & inc$_{tc}$ & $\gamma$ & VDM (ZAm$^2$) \\
-AX6                 & 30.33     & 3  & 0.69 & 0.13    & 3.55           & 2.66            & 38.9       & 2.63     & 48.76         \\
-AX8                 & 52.4      & 3  & 0.66 & 0.17    & 4.28           & 2.15            & 40.3       & 7.3      & 83.14         \\
-AX10                & 46.82     & 3  & 0.7  & 0.23    & 4.98           & 2.14            & 36.6       & 6.1      & 76.81         \\
-AX12                & 38.1      & 6  & 0.75 & 0.22    & 3.26           & 2.53            & 55.2       & 5.98     & 51.31         \\
-AX16                & 44.15     & 11 & 0.68 & 0.19    & 4.19           & 1.96            & 49.2       & 3.97     & 63.87         \\
-AX11                & 73.34     & 7  & 0.68 & 0.19    & 3.85           & 1.82            & 35.2       & 6.63     & 121.73        \\
-AX13                & 76.63     & 7  & 0.73 & 0.2     & 5.7            & 1.67            & 35.1       & 5        & 127.29        \\
-Carlton Peak        & 43.18     & 9  & 0.68 & 0.17    & 4.27           & 2.32            & 38.6       & 5.34     & 69.57         \\
-Kennedy Creek       & 74.98     & 14 & 0.7  & 0.2     & 4.78           & 1.74            & 35.15      & 5.81     & 124.51        \\
-Silver Bay          & 42.02     & 17 & 0.71 & 0.2     & 3.86           & 2.16            & 51.32      & 4.68     & 59.43         \\
-overall site mean   & 51.68     &    &      &         &                &                 &            &          & 81.84         \\
-overall region mean & 53.39     &    &      &         &                &                 &            &          & 84.5         
+\caption{\footnotesize{Summary paleointensity result statistics at site-level, region-level, and overall arithmetic means. The statistics names are the same as in Table \ref{tab:PINT_result}}. n represents the total number of specimen- or site- or region-level results used for calculating mean values. inc$_{tc}$ is the tilt-corrected mean inclination. Site-level means for AX6, AX8, AX10, AX11, AX12, AX13, AX16 are calculated based on specimen results. Regional means for Carlton Peak, Kennedy Creek, and Silver Bay are calculated by grouping specimen results from AX6 and AX8 and AX10, AX11 and AX13, AX12 and AX16, respectively. Overall site mean values are calculated using all site-level results in this table. Overall region-mean values are calculated using all regional mean results in this table. }
+\begin{tabular}{ccccccccccc}
+\hline
+\multicolumn{1}{l}{}                       &               & B$_{anc}$ & n  & FRAC & GAP-MAX & MAD ($^\circ$) & DANG ($^\circ$) & inc$_{tc}$ & $\gamma$ & VDM (ZAm$^2$) \\
+\hline
+\multirow{7}{*}{specimen mean for sites}   & AX6           & 30.33     & 3  & 0.69 & 0.13    & 3.55           & 2.66            & 38.9       & 2.63     & 48.76         \\
+                                           & AX8           & 52.4      & 3  & 0.66 & 0.17    & 4.28           & 2.15            & 40.3       & 7.3      & 83.14         \\
+                                           & AX10          & 46.82     & 3  & 0.7  & 0.23    & 4.98           & 2.14            & 36.6       & 6.1      & 76.81         \\
+                                           & AX12          & 38.1      & 6  & 0.75 & 0.22    & 3.26           & 2.53            & 55.2       & 5.98     & 51.31         \\
+                                           & AX16          & 44.15     & 11 & 0.68 & 0.19    & 4.19           & 1.96            & 49.2       & 3.97     & 63.87         \\
+                                           & AX11          & 73.34     & 7  & 0.68 & 0.19    & 3.85           & 1.82            & 35.2       & 6.63     & 121.73        \\
+                                           & AX13          & 76.63     & 7  & 0.73 & 0.2     & 5.7            & 1.67            & 35.1       & 5        & 127.29        \\ 
+                                           \hline
+\multirow{3}{*}{specimen mean for regions} & Carlton Peak  & 43.18     & 9  & 0.68 & 0.17    & 4.27           & 2.32            & 38.6       & 5.34     & 69.57         \\
+                                           & Kennedy Creek & 74.98     & 14 & 0.7  & 0.2     & 4.78           & 1.74            & 35.15      & 5.81     & 124.51        \\
+                                           & Silver Bay    & 42.02     & 17 & 0.71 & 0.2     & 3.86           & 2.16            & 51.32      & 4.68     & 59.43         \\
+\hline
+overall site mean                          &               & 51.68     & 7  &      &         &                &                 &            &          & 81.84         \\
+overall region mean                        &               & 53.39     & 3  &      &         &                &                 &            &          & 84.5         
 \end{tabular}
 \end{table}
 
