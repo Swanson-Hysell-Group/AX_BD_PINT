@@ -1,1 +1,6 @@
 starting...
+-I- Read magic file  measurements.txt
+-I- Done calculating non linear TRM parameters for all specimens
+-I- number of specimens in this project directory: 155
+-I- number of samples in this project directory: 155
+-I- reading redo file and processing new temperature bounds-I- Read new criteria file: /Users/yimingzhang/Github/AX_BD_PINT/data/IZZI/All_AX_PINT/criteria.txt
