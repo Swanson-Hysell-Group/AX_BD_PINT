@@ -1,7 +1,7 @@
 # High geomagnetic field intensity recorded by anorthosite xenoliths requires a strongly powered late Mesoproterozoic geodynamo
-This repository contains data, code, and a manuscript presenting and analyzing paleointensity data from the anorthosite and diabase from the Beaver Bay Complex submitted to the Proceedings of the National Academy of Sciences. 
+This repository contains data, code, and a manuscript presenting and analyzing paleointensity data from anorthosite and diabase litholoies within the late Mesoproterozoic Beaver Bay Complex of northern Minnesota. The manuscript is currently in press in The Proceedings of the National Academy of Sciences. 
 
-Zhang, Y., Swanson-Hysell, N.L., Avery, M.S., Fu, R.R. (2022), High geomagnetic field intensity recorded by anorthosite xenoliths requires a strongly powered late Mesoproterozoic geodynamo. 
+Zhang, Y., Swanson-Hysell, N.L., Avery, M.S., Fu, R.R. (2022), High geomagnetic field intensity recorded by anorthosite xenoliths requires a strongly powered late Mesoproterozoic geodynamo, PNAS. 
 
 ## code
 
