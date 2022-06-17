@@ -1,4 +1,4 @@
 tab	locations
-age_unit	analysts	citations	geologic_classes	lat_n	lat_s	lithologies	location	location_type	lon_e	lon_w
-Ma	Yiming Zhang	This study	Igneous:Intrusive	47.2	47.2	Anorthosite:Diabase	Beaver Bay Complex	Outcrop	268.7	268.6
-Ma	Yiming Zhang	This study	Igneous:Intrusive	47.2	47.2	Anorthosite:Diabase	Beaver Bay Complex	Outcrop	268.7	268.6
+location	age	age_high	age_low	age_sigma	age_unit	lat_n	lat_s	lon_e	lon_w	geologic_classes	lithologies	location_type	analysts	citations
+Beaver Bay Complex	1091.7	1091.9	1091.5	0.2	Ma	47.2	47.2	268.7	268.6	Igneous:Intrusive	Anorthosite:Diabase	Outcrop	Yiming Zhang	This study
+Beaver Bay Complex	1091.7	1091.9	1091.5	0.2	Ma	47.2	47.2	268.7	268.6	Igneous:Intrusive	Anorthosite:Diabase	Outcrop	Yiming Zhang	This study
